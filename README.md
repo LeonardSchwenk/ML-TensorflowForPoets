@@ -70,7 +70,11 @@ paper 0.0012269325
 find . -name "*.jpg" -size -3k -delete
 
 ## delets all files who dont have the name jpg
-find . -type f  ! -name "*.jpg*"  -delete
+find . -type f  ! -name "*.jpg.*" watch out ! there a re stars around the *.jpg.* -delete 
+
+## delete all files who have something after .jpg like .jpg.1
+
+find . -type f  -name ".jpg.*"  -delete
 
 ## check if its really a jpeg | to many error save them in a file (sometimes its a .jpg file but there is still text in it)
 find . -name "*.jpg" -print0 | xargs -0 jpeginfo -c | grep -e WARNING -e ERROR
