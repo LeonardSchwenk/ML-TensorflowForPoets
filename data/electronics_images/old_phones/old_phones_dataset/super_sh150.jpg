@@ -1,0 +1,944 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html lang="en" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html lang="en" class="no-js ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js buzzworksholdings"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>Home - Buzzworks Holdings</title>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109685480-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109685480-1');
+</script>
+
+    <link href='//fonts.googleapis.com/css?family=Montserrat:400,700|Libre+Baskerville:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/buzzworksholdings/css/mura.6.1.1.min.css">
+	<link rel="stylesheet" href="/buzzworksholdings/includes/themes/buzzworks/assets/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/buzzworksholdings/includes/themes/buzzworks/assets/font-awesome/css/font-awesome.css">
+    <link rel='stylesheet' id='royalslider-css-css'  href='/buzzworksholdings/includes/themes/buzzworks/assets/royal-slider/royalslider.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='royalslider-mw-css-css'  href='/buzzworksholdings/includes/themes/buzzworks/assets/royal-slider/rs-default-inverted.css' type='text/css' media='all' />
+	<link rel="stylesheet" href="/buzzworksholdings/includes/themes/buzzworks/compiled/theme.min.C575D97F2B8000E9580BE975ADB70DBA.css" media="all" />
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="/buzzworksholdings/includes/themes/buzzworks/compiled/ie.min.css">
+	<![endif]-->
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="/buzzworksholdings/includes/themes/buzzworks/js/html5shiv/html5shiv.js"></script>
+	<script src="/buzzworksholdings/includes/themes/buzzworks/assets/bootstrap/js/respond.min.js"></script>
+	<![endif]-->
+	<script src="/buzzworksholdings/jquery/jquery.js"></script>
+	<link rel="shortcut icon" href="/buzzworksholdings/includes/themes/buzzworks/images/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/buzzworksholdings/includes/themes/buzzworks/images/ico/ico/apple-touch-icon-144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/buzzworksholdings/includes/themes/buzzworks/images/ico/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/buzzworksholdings/includes/themes/buzzworks/images/ico/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="/buzzworksholdings/includes/themes/buzzworks/images/ico/ico/apple-touch-icon-57-precomposed.png">
+	
+
+<script type="text/javascript" src="/buzzworksholdings/js/dist/mura.min.js?v=7042"></script>
+<script>
+Mura.init({
+	loginURL:"?display=login",
+	siteid:"buzzworksholdings",
+	contentid:"00000000000000000000000000000000001",
+	contenthistid:"CB4F45E5-1DD8-B71C-7011EADF09858269",
+	parentid:"00000000000000000000000000000000END",
+	context:"",
+	nocache:0,
+	assetpath:"/buzzworksholdings",
+	requirementspath:"/requirements",
+	themepath:"/buzzworksholdings/includes/themes/buzzworks",
+	rb:"en",
+	reCAPTCHALanguage:"en",
+	preloaderMarkup: "",
+	mobileformat: false,
+	windowdocumentdomain: "",
+	layoutmanager:false,
+	type:"Page",
+	subtype:"Home",
+	queueObjects: true,
+	dtExample:"10/11/2018",
+	dtCh:"/",
+	dtFormat:[1,0,2],
+	dtLocale:"en-GB"
+});
+</script>
+<script>
+if(typeof $ != 'undefined'){
+	$(function(){
+		Mura.loader()
+		.loadcss("/requirements/prettify/themes/tomorrow-night.min.css")
+		.loadjs("/requirements/prettify/prettify.min.js",
+		function(){
+			!function($){$(function(){window.prettyPrint && prettyPrint()});}(window.jQuery)
+		});
+	});
+}
+</script></head>
+
+	<body id="homepage" class="sysHome">
+		<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '645383755566945',
+			cookie     : true,  // enable cookies to allow the server to access sessions
+			xfbml      : true,  // parse social plugins on this page
+			version    : 'v2.8', // use graph api version 2.8
+			status	  : true
+		});
+	};
+	(function(d, s, id){
+	 var js, fjs = d.getElementsByTagName(s)[0];
+	 if (d.getElementById(id)) {return;}
+	 js = d.createElement(s); js.id = id;
+	 js.src = "https://connect.facebook.net/en_US/sdk.js";
+	 fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+   
+</script>
+
+<header class="navbar-wrapper" data-scroll-index="0">
+	<nav class="navbar min navbar-fixed-top" role="navigation">
+         
+        <a href="javascript:showBenefitBooking();" class="book text-left col-sm-5">Book a table</a>
+        
+		<div class="col-sm-2 col-sm-offset-5">
+			<div class="navbar-header navbar-page">
+				<button class="navbar-toggle hamburger" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="true">
+                	<span class="hamburger-bun hamburger-bun--top"></span>
+                	<span class="hamburger-patty"></span>
+                	<span class="hamburger-bun hamburger-bun--btm"></span>
+                </button>
+				<a class="navbar-brand" href="/">Buzzworks Holdings</a>
+			</div>
+            <div class="collapse navbar-collapse delay-05s" id="navbar">
+            	<div class="navbar-header navbar-overlay">
+                    <button class="navbar-toggle hamburger" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="true">
+                        <span class="hamburger-bun hamburger-bun--top"></span>
+                        <span class="hamburger-patty"></span>
+                        <span class="hamburger-bun hamburger-bun--btm"></span>
+                    </button>
+                </div>
+                
+				<ul id="navPrimary" class="nav navbar-nav">
+				<li class="first" id="navHome"><a href="/">Home</a></li>
+			
+			<li id="navSignUp"><a href="/signup/">Sign Up</a></li>
+			
+			<li id="navAbout"><a href="/about/">About</a></li>
+			
+			<li id="navVenues"><a href="/venues/">Venues</a></li>
+			
+			<li id="navCareers"><a href="/careers/" >Careers</a></li>
+			
+			<li id="navEvents"><a href="/events/">Events</a></li>
+			
+			<li id="navBenefit"><a href="/benefit-card/">Benefit</a></li>
+			
+			<li id="navGiftCard"><a href="/gift-card/">Gift Card</a></li>
+			
+			<li id="navLatestNews"><a href="/latest-news/">Latest News</a></li>
+			
+			<li class="last" id="navContact"><a href="/contact/">Contact</a></li>
+			</ul> 
+                <script>
+                    $(function(){
+                        $(["/"]).each(
+                            function(index, value){
+                                $("#navPrimary [href='" + value + "']").closest("li").addClass("active");
+                            }
+                        );
+                    })
+                </script>
+			</div>
+		</div>
+         
+        <a href="/benefit-members/" class="myacc text-right col-sm-5">My account</a>
+        
+	</nav>
+</header>
+<section class="container-fluid">
+    <div class="row">
+        <div class="screen">
+            <div class="mask-tile"></div>
+            	<style>
+					.video-responsive {
+						height: 0;
+						overflow: hidden;
+						padding-bottom: 56.25%;
+						position: relative;
+					}
+					.video-responsive iframe {
+						height: 100%;
+						left: 0;
+						position: absolute;
+						top: 0;
+						width: 100%;
+					}
+				</style>
+                <video autoplay preload='auto' loop poster="/buzzworksholdings/includes/themes/buzzworks/images/video-poster.jpg" id="bgvid">
+                  <source src="https://player.vimeo.com/external/174630489.hd.mp4?s=8a8796c03e29e7a74d01e04de39d7d5a2d79e2c1&profile_id=119&autoplay=1" type="video/mp4">
+                </video>
+            <script>
+				$(function() {
+					var $video = $('#bgvid');
+					$video.on('canplaythrough', function() {
+						this.play();
+					   	$('.video-title').animate({
+							opacity: 1
+						});
+					});
+				});
+			</script>
+            <div class="video-title">
+                <div class="buzzico"></div>
+                <h1>
+                    <span class="intro-md">Choice</span>
+                    <span class="intro-sm">It's what we're all about</span>
+                </h1>
+            </div> 
+            <div class="center-bottom down-arrow">
+            	<div class="text-center">
+            		<img class="down_arrow" width="37" height="17" src="/buzzworksholdings/includes/themes/buzzworks/svg/arrow-white-down.svg" data-scroll-goto="1" />
+            	</div>
+            </div>            
+        </div>
+    </div>
+</section>
+        <div class="wrapper">
+            <section class="container-fluid home-about centered-panel" data-scroll-index="1">
+    <div class="row">
+    	<div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                	<div class="content-box text-center">
+                        <h2>Our Story</h2>
+                        <p>With a portfolio of <em>award-winning</em> restaurants and bars across Ayrshire, our goal is to make people feel great.</p>
+                        <a href="/about/" class="btn btn-outline" title="Find out more">Find out more</a>
+                	</div>
+                </div>
+        	</div>
+    	</div>
+    </div>
+</section> <section class="container-fluid home-venues centered-panel">
+    <div class="row">
+    	<div class="container">
+            <div class="row">
+                <div class="content-box text-center">
+                    <h2>Our Venues</h2>
+                    <h3></h3>
+                    <p>Delicious food, serious cocktails &amp; superb<br />
+	service. Is it <em>any wonder</em> that people keep<br />
+	on coming back to Buzzworks?</p>
+                    <a href="/venues/" class="btn btn-outline" title="Find out more">Find out more</a>
+                </div>
+    		</div>
+        </div>
+    </div>
+</section> <section class="container-fluid home-careers centered-panel">
+    <div class="row">
+    	<div class="container">
+            <div class="row">
+                <div class="content-box text-center">
+                    <h2>Careers</h2>
+                    <h3></h3>
+                    <p>Making people feel great through hospitality.<br />
+	It&rsquo;s what we&rsquo;re all about.&nbsp;We offer rewards,<br />
+	benefits&nbsp;and great prospects.</p>
+                    <a href="/careers/" class="btn btn-outline" title="Join our team">Join our team</a>
+                </div>
+        	</div>
+    	</div>
+    </div>
+</section> <section class="container-fluid home-events centered-panel">
+    <div class="row">
+    	<div class="container">
+            <div class="row">
+                <div class="content-box text-center">
+                    <h2>Party on</h2>
+                    <h3></h3>
+                    <p>If it's worth celebrating, it's worth celebrating<br />
+	in style. Our <em>event packages </em>can be tailored<br />
+	to suit any occasion.</p>
+                    <a href="/events/" class="btn btn-outline" title="Find out more">Find out more</a>
+                </div>
+	    	</div>
+       	</div>
+    </div>
+</section> <section class="container-fluid double-panel bc-gc">
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            <div class="content-box text-center">
+                <div class="buzzico"></div>
+                <h2>Benefit Card</h2>
+                <p><em>Get the card</em>, and you'll<br />
+	soon enjoy the Benefits.</p>
+                <a href="/benefit-card/" class="btn btn-outline" title="Find out more">Find out more</a>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+            <div class="content-box text-center">
+                <div class="buzzico"></div>
+                <h2>Gift Card</h2>
+                <p>The <em>perfect way</em> to show<br />
+	them how much you care.</p>
+                <a href="/gift-card/" class="btn btn-outline" title="Find out more">Find out more</a>
+            </div>
+        </div>
+    </div>
+</section> <section class="container-fluid white home-blog centered-panel">
+	<div class="container">
+        <div class="row">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="content-box text-center">
+                    <h2>Latest news</h2>
+                    <h3></h3>
+                    
+                </div>
+			</div>
+        </div>
+		
+            <div class="row row-article">
+            
+            <div class="col-sm-4 col-xs-12 text-center blog-article">
+                <a href="/latest-news/were-building-a-new-tree-house/" title="We've Built A New Tree House">
+                
+                    <img src="/buzzworksholdings/cache/file/5C4420D6-1DD8-B71C-70AACEEA46011D98_blog.jpg" alt="We've Built A New Tree House" class="img-responsive" />
+                
+                </a>
+                <p class="pub-date">01 / 11 / 17</p>
+                <h3 class="title-blog"><a href="/latest-news/were-building-a-new-tree-house/" title="We've Built A New Tree House">We've Built A New Tree House</a></h3>
+                <p><a href="/latest-news/were-building-a-new-tree-house/" title="Continue reading">Read more</a></p>
+            </div>
+            
+            <div class="col-sm-4 col-xs-12 text-center blog-article">
+                <a href="/latest-news/battle-of-the-chefs/" title="Battle Of The Chefs">
+                
+                    <img src="/buzzworksholdings/cache/file/886E04DE-1DD8-B71C-70B06AF3FFD47E20_blog.jpg" alt="Battle Of The Chefs" class="img-responsive" />
+                
+                </a>
+                <p class="pub-date">01 / 11 / 17</p>
+                <h3 class="title-blog"><a href="/latest-news/battle-of-the-chefs/" title="Battle Of The Chefs">Battle Of The Chefs</a></h3>
+                <p><a href="/latest-news/battle-of-the-chefs/" title="Continue reading">Read more</a></p>
+            </div>
+            
+            <div class="col-sm-4 col-xs-12 text-center blog-article">
+                <a href="/latest-news/sail-away/" title="Sail Away">
+                
+                    <img src="/buzzworksholdings/cache/file/2FD6FBD3-1DD8-B71C-70B343DCD3E8488B_blog.jpg" alt="Sail Away" class="img-responsive" />
+                
+                </a>
+                <p class="pub-date">29 / 08 / 17</p>
+                <h3 class="title-blog"><a href="/latest-news/sail-away/" title="Sail Away">Sail Away</a></h3>
+                <p><a href="/latest-news/sail-away/" title="Continue reading">Read more</a></p>
+            </div>
+            
+            </div>
+        
+        <div class="text-center">
+	            <a href="/latest-news/" title="Visit all news" class="btn btn-outline inverse">View all news</a>
+        </div>
+    </div>
+</section>
+        </div>
+		
+<section id="resdiary-overlay" class="text-center">
+    <h2>Book a Table</h2>
+    <div class="container-fluid events centered-panel">
+        <div class="row">
+        	<div id="col-booking"></div>
+        </div>
+    </div>
+</section>
+
+<section id="venues-overlay" class="text-center">
+    <h2>Our Venues</h2>
+    <div class="container-fluid venue-list centered-panel">
+        <div class="row">
+            
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Elliots</h4>
+                                <p>132 Main St. ,Prestwick KA9 1PB<br /> Phone +44 (0) 1292 677 677 <br>
+								   <a href="mailto:info@elliots-prestwick.co.uk" title="Email us" rel="nofollow"><em>info@elliots-prestwick.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.elliots-prestwick.co.uk" target="_blank" class="btn btn-outline" title="Elliots Prestwick">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Lido Troon</h4>
+                                <p>11 West Portland St. ,Troon KA10 6AB<br /> Phone +44 (0) 1292 310 088 <br>
+								   <a href="mailto:info@lido-troon.co.uk" title="Email us" rel="nofollow"><em>info@lido-troon.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.lido-troon.co.uk" target="_blank" class="btn btn-outline" title="Lido Troon">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Lido Prestwick</h4>
+                                <p>71-75 Main St. ,Prestwick KA9 1JN<br /> Phone +44 (0) 1292 479 321 <br>
+								   <a href="mailto:info@lido-prestwick.co.uk" title="Email us" rel="nofollow"><em>info@lido-prestwick.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.lido-prestwick.co.uk" target="_blank" class="btn btn-outline" title="Lido Prestwick">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Scotts Troon</h4>
+                                <p>Harbour Rd. ,Troon KA10 6DJ<br /> Phone +44 (0) 1292 315 315 <br>
+								   <a href="mailto:info@scotts-troon.co.uk" title="Email us" rel="nofollow"><em>info@scotts-troon.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.scotts-troon.co.uk" target="_blank" class="btn btn-outline" title="Scotts At Troon Yacht Haven">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Scotts Largs</h4>
+                                <p>Irvine Rd. ,Largs KA30 8EZ<br /> Phone +44 (0) 1475 686 684 <br>
+								   <a href="mailto:info@scotts-largs.co.uk" title="Email us" rel="nofollow"><em>info@scotts-largs.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.scotts-largs.co.uk" target="_blank" class="btn btn-outline" title="Scotts At Largs Yacht Haven">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Scotts Port Edgar</h4>
+                                <p>Coming soon. &nbsp; &nbsp; &nbsp; <br>
+								   &nbsp;</a>
+                                </p>
+                                
+                                <br><br><br><br><br><br>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>The Longhouse</h4>
+                                <p>130 Titchfield St. ,Kilmarnock KA1 1PH<br /> Phone +44 (0) 1563 535 130 <br>
+								   <a href="mailto:info@longhouse-kilmarnock.co.uk" title="Email us" rel="nofollow"><em>info@longhouse-kilmarnock.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.longhouse-kilmarnock.co.uk" target="_blank" class="btn btn-outline" title="The Longhouse">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>The Mill House</h4>
+                                <p>4 Dean St ,Stewarton KA3 5EQ<br /> Phone +44 (0) 1560 482 255 <br>
+								   <a href="mailto:info@themillhouse-stewarton.com" title="Email us" rel="nofollow"><em>info@themillhouse-stewarton.com</em></a>
+                                </p>
+                                
+                                <a href="http://www.themillhouse-stewarton.com" target="_blank" class="btn btn-outline" title="The Mill House">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>Treehouse</h4>
+                                <p>67-69 Sandgate ,Ayr KA7 1BZ<br /> Phone +44 (0) 1292 288 500 <br>
+								   <a href="mailto:info@treehouseayr.co.uk" title="Email us" rel="nofollow"><em>info@treehouseayr.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.treehouseayr.co.uk" target="_blank" class="btn btn-outline" title="The Tree House">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>The Corner House</h4>
+                                <p>1-7 Howgate, ,Kilwinning KA13 6EN<br /> Phone +44 (0) 1294 558 813 <br>
+								   <a href="mailto:info@thecornerhouse-kilwinning.co.uk" title="Email us" rel="nofollow"><em>info@thecornerhouse-kilwinning.co.uk</em></a>
+                                </p>
+                                
+                                <a href="http://www.thecornerhouse-kilwinning.co.uk" target="_blank" class="btn btn-outline" title="The Corner House">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div class="text-center">
+                            <div class="event-content">
+                                <h4>The Coach House</h4>
+                                <p>31 Main Street ,Bridge Of Weir PA11 3NR<br /> Phone +44 (0) 1505 800 999 <br>
+								   <a href="mailto:info@thecoachhouse-bow.co.uk" title="Email us" rel="nofollow"><em>info@thecoachhouse-bow.co.uk</em></a>
+                                </p>
+                                
+                                <a href="https://www.thecoachhouse-bow.co.uk/" target="_blank" class="btn btn-outline" title="The Coach House">Visit Website</a>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+        </div>
+    </div>
+</section>
+<section id="tc-overlay" class="text-center">
+    <h2>Terms & Conditions</h2>
+    <div class="container-fluid events">
+        <div class="row">
+            <div class="col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
+                <div class="text-center">
+                	<p>Please read these terms of use carefully before you start to use our site, as these will apply to your use of our site.&nbsp; By using our site, you confirm that you accept these terms of use and that you agree to comply with them.&nbsp; If you do not agree to these terms of use, you must not use our site.&nbsp; We may revise these terms of use at any time by amending this page.&nbsp;&nbsp; Please check this page from time to time to take notice of any changes.</p>
+
+<p>We may update our site from time to time, and may change the content at any time. However, please note that any of the content on our site may be out of date at any given time, and we are under no obligation to update it.&nbsp; We do not guarantee that our site, or any content on it, will be free from errors or omissions.</p>
+
+<p>We do not guarantee that our site, or any content on it, will always be available or be uninterrupted. We may suspend, withdraw, discontinue or change all or any part of our site without notice.</p>
+
+<p>These terms of use refer to the Privacy Policy, which also apply to your use of our site.&nbsp; The Privacy Policy sets out the terms on which we process any personal data we collect from you, or that you provide to us and our cookies policy. By using our site, you consent to such processing and you warrant that all data provided by you is accurate. &nbsp;</p>
+
+<p>We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it.&nbsp; These works are protected by copyright laws and all such rights are reserved.</p>
+
+<p>The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete or up-to-date.</p>
+
+<p>We do not accept any liability for damage to any computer or device that you use to access this Site or in relation to any loss of data when you use this Site. In addition, we cannot guarantee that any Content you access or download is free from viruses, worms or other malware, and you should check that you have suitable, up to date virus or malware protection on your computer or device.</p>
+
+<p>If you purchase any products or services which we offer to you through this Site, this may be subject to new and/or additional terms and conditions which will be notified to you at the time.</p>
+
+<p>If you have any questions or complaints regarding the Site or these Terms, you can contact us by emailing <a href="mailto:mail@buzzworksholdings.com" rel="nofollow">mail@buzzworksholdings.com</a>.</p>
+
+<p>&nbsp;</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="privacy-overlay" class="text-center">
+    <h2>Privacy Policy</h2>
+    <div class="container-fluid events">
+        <div class="row">
+            <div class="col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
+                <div class="text-center">
+                	<h5>WE ARE COMMITTED TO ENSURING YOUR PRIVACY IS PROTECTED</h5>
+                <p>Our Privacy Policy gives you information about how personal data and other private information that we collect from you as a user of this site, or as a member /customer will be used by us. </p>
+                <p>By using our Site or submitting your personal data you are taken to accept the terms of this Policy, so please read it carefully.</p>
+                <p>We collect personal information you provide whilst using our website - information provided when making online reservations, signing up to our loyalty card or purchasing gift cards online.  </p>
+                <p>Primarily we use the information to improve our products and services. From time to time we may send you promotional emails about new products, special offers or other information, which we think you may find interesting. You can unsubscribe from or emails at any time.</p>
+                <p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+                <p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+                <p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. </p>
+                <p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+                <p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+                <p>We may use third party payment providers to process payments made online. In these cases, the privacy policy of that third party will apply to the processing of your payment and the data you supply to them.</p>
+                <p>We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so. </p>
+                <p>If you believe that any information we are holding on you is incorrect or incomplete, please <a href="mailto:mail@buzzworksholdings.com">email us</a> as soon as possible and we will promptly correct any information found to be incorrect.</p>
+                <p>We reserve the right to amend or replace this privacy policy at any time. Your continued use of the websites will be considered acceptance of the terms and conditions in place at the time of your use of the websites.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="shop-overlay" class="text-center">
+    <div class="gv">
+        <h3 class="stp">Gift Card</h3>
+        <h2 class="stp-text">Recipient</h2>
+        <div class="container-fluid events">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-4 col-sm-offset-2 col-md-offset-4">
+                    <div class="text-center">
+                        <form class="form-horizontal" autocomplete="off" action="/shop-secure/process/" method="post" id="frm-voucher">
+                            <div class="recipient">
+                                <div class="form-group">
+                                    <input type="radio" id="radio1" name="adressee" class="addressee" value="0" checked="checked"><br />
+                                    <label for="radio2">For me</label>
+                                    <p>We can send a card out for you <em>to give</em> to that special someone in person, or <em>post on</em> yourself.</p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="radio" id="radio2" name="adressee" class="addressee" value="1"><br />
+                                    <label for="radio2">For another person</label>
+                                    <p>If you'd rather we <em>sent a gift card</em> direct to the lucky recipient, just let us know. We can even add a <em>personalised</em> message of up to 100 characters - simply select the desired amount, add your greeting and let us take care of the rest.</p>
+                                </div>
+                            </div>
+                            <div class="message" style="display: none;">
+                                <p>Please ensure you add the delivery address on the payment pages for the person you are sending to.</p>
+                                <div class="form-group marg">
+                                    <input type="text" class="form-control" id="customerfirstname" placeholder="First name" name="customerfirstname">
+                                </div>
+                                <div class="form-group marg">
+                                    <input type="text" class="form-control" id="customerlastname" placeholder="Surname" name="customerlastname">
+                                </div>                
+                                <div class="form-group marg">
+                                    <textarea type="text" class="form-control" id="pmessage" placeholder="Personal Message (Up to 100 Characters)" rows="4" name="pmessage" maxlength="100"></textarea>
+                                </div>
+                            </div>
+                            <div class="delivery" style="display: none;">
+                                <p>We endeavour to dispatch your order <em>within</em> 24 hours. Deliveries are subject to Royal Mail&#8217;s delivery schedule and may be subject to seasonal alterations. </p>
+                                <div class="form-group">
+                                    <input type="radio" name="delivery" id="delivery" class="delivery" value="Royal Mail (2 day)" checked>
+                                    <label for="delivery">Royal Mail</label>
+                                    <p>Royal Mail Signed For&reg; 1st Class (2 business days) - &pound;2.50</p>
+                                </div>
+                            </div>
+                            <div class="amount" style="display: none;">
+                                <p>Please <em>select</em> the value you would like to add to the Gift Card from the dropdown menu below.</p>
+                                <div class="form-group">
+                                    <select name="voucher" id="voucher">
+                                        
+                                            <option value="20">&pound;20</option>
+                                        
+                                            <option value="25">&pound;25</option>
+                                        
+                                            <option value="30">&pound;30</option>
+                                        
+                                            <option value="35">&pound;35</option>
+                                        
+                                            <option value="40">&pound;40</option>
+                                        
+                                            <option value="45">&pound;45</option>
+                                        
+                                            <option value="50">&pound;50</option>
+                                        
+                                            <option value="55">&pound;55</option>
+                                        
+                                            <option value="60">&pound;60</option>
+                                        
+                                            <option value="65">&pound;65</option>
+                                        
+                                            <option value="70">&pound;70</option>
+                                        
+                                            <option value="75">&pound;75</option>
+                                        
+                                            <option value="80">&pound;80</option>
+                                        
+                                            <option value="85">&pound;85</option>
+                                        
+                                            <option value="90">&pound;90</option>
+                                        
+                                            <option value="95">&pound;95</option>
+                                        
+                                            <option value="100">&pound;100</option>
+                                        
+                                    </select>
+                                </div>
+                            </div>
+                            <script>
+                                var currentStep="recipient";
+								var nextStep="";
+								var step=1;
+								var opt=-1;
+								function dspMessage() {
+									if (currentStep=="recipient") {
+										$('.recipient').hide();
+									}
+                                    $('.stp-text').html('Personal Message');
+                                    $('.message').show();
+                                    $('#btn-step-prev').show();	
+									currentStep="message";	
+								}
+								function dspDelivery() {
+									if (currentStep=="recipient") {
+										$('.recipient').hide();
+									}
+									if (currentStep=="message") {
+										if ($('#customerfirstname').val().length==0) {
+											alert('Please enter first name');
+											return;	
+										}
+										if ($('#customerlastname').val().length==0) {
+											alert('Please enter surname');
+											return;	
+										}
+										$('.message').hide();
+									}
+									$('.stp-text').html('Delivery');
+									$('.delivery').show();
+                                    $('#btn-step-prev').show();
+									currentStep="delivery";	
+								}
+								function dspAmount() {
+									$('.delivery').hide();
+                                    $('.stp-text').html('Gift Card Amount');
+                                    $('.amount').show();	
+									currentStep="amount";
+								}
+								function checkOut() {
+									$('.gv, .navbar-toggle').fadeOut();
+                                    $('#frm-voucher').submit();	
+								}
+                                function next() {
+                                    if (currentStep=="recipient") {
+										if ($('input[name="adressee"]:checked').val()==0) {
+											nextStep="delivery";
+											opt=0;
+										} else {
+											nextStep="message";	
+											opt=1;
+										}
+                                    } else if (currentStep=="message") {
+										nextStep="delivery";
+									} else if (currentStep=="delivery") {
+										nextStep="amount";
+									} else if (currentStep=="amount") {
+										nextStep="checkout";
+									}
+									step++;
+									switch(nextStep) {
+										case "delivery":
+											dspDelivery();
+											break;
+										case "message":
+											dspMessage();
+											break;
+										case "amount":
+											dspAmount();
+											break;
+										case "checkout":
+											checkOut();
+											break;
+										default:
+											
+									}  
+                                }
+								
+                                function prev() {
+                                    if (currentStep=="amount") {
+                                        $('.amount').hide();
+										$('.stp-text').html('Delivery');
+										$('.delivery').show();	
+										currentStep="delivery";	
+                                    } else if (currentStep=="delivery") {
+                                        $('.delivery').hide();	
+										if (opt==1) {
+	                                        $('.stp-text').html('Personal Message');
+                                        	$('.message').show();
+											currentStep="message";	
+										} else {
+											$('.stp-text').html('Recipient');
+                                        	$('.recipient').show();
+                                    	$('#btn-step-prev').hide();	
+											currentStep="recipient";	
+										}
+                                    } else if (currentStep=="message") {
+                                        $('.message').hide();	
+										$('.stp-text').html('Recipient');
+                                        $('.recipient').show();
+                                    	$('#btn-step-prev').show();
+										currentStep="recipient";
+                                    	$('#btn-step-prev').hide();	
+									}
+									step--;
+                                }
+                            </script>
+                            <div class="form-group">
+                                <div class="">
+                                    <a href="javascript:prev();" class="btn btn-outline" id="btn-step-prev" style="display: none">Go Back</a>
+                                    <a href="javascript:next();" class="btn btn-outline" id="btn-step-next">Next Step</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="container-fluid gray">
+	<div class="row">
+        <div class="container text-center">
+            <div class="row footer-main-row">
+                <div class="col-sm-4 col-xs-12">
+                    <h4>Get in touch</h4>
+                    <p>
+                        Buzzworks Holdings<br />132 Main Street, Prestwick,<br />Ayrshire KA9 1PB <br>
+                        <a href="tel:01292670190" rel="nofollow" title="Call us on +44 (0) 1292 670 190">+44 (0) 1292 670 190</a>
+                    </p>
+                    <a href="/contact/" class="main" title="Contact Us">Contact Us</a>
+                </div>
+                <div class="col-sm-4 col-xs-12">
+                    <h4>Follow us</h4>
+                    <div class="social">
+                        <div class="twitter"><a href="https://twitter.com/BuzzworksLife" target="_blank" title="follow us on twitter"><i class="fa fa-twitter"></i></a></div>
+                        <div class="facebook"><a href="https://www.facebook.com/BuzzworksLife" target="_blank" title="join us on facebook"><i class="fa fa-facebook"></i></a></div>
+                        <div class="instagram"><a href="https://www.instagram.com/buzzworkslife" target="_blank" title="follow us on instagram"><i class="fa fa-instagram"></i></a></div>
+                    </div>
+                    
+                </div>
+                <div class="col-sm-4 col-xs-12">
+                    <h4>Our venues</h4>
+                    <p>Whichever one of our<br class="mob" /> eight <em>stylish venues</em> you visit,<br class="mob" /> rest assured it&#8217;ll be a simply<br class="mob" /> delicious experience.</p>
+                    <a href="javascript:void(0);" class="main js-venue">Venue details</a>
+                </div>
+            </div>
+            <div class="buzzico">
+            	<a href="javascript:void(0);" title="Back to top" data-scroll-goto="0">Back to top</a>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                    <ul class="list-inline footer-links-text clearfix">
+                        <li>&copy;Buzzworks Holdings 2018</li>
+                        <li><a href="javascript:void(0);" title="Privacy Policy" class="js-privacy">Privacy Policy</a></li>
+                        <li><a href="javascript:void(0);" title="Terms &amp; Conditions" class="js-tc">Terms &amp; Conditions</a></li>
+                        <li><a href="/gender-pay-gap-report/" target="_blank" title="Gender Pay Report">Gender Pay Report</a></li>
+                    </ul>
+                </div>
+            </div>
+    	</div>
+	</div>
+</footer>
+
+		
+		<script src="/buzzworksholdings/includes/themes/buzzworks/assets/bootstrap/js/bootstrap.min.js"></script>
+		<script type='text/javascript' src='/buzzworksholdings/includes/themes/buzzworks/assets/royal-slider/jquery.royalslider.min.js'></script>
+		<script type='text/javascript' src='/buzzworksholdings/includes/themes/buzzworks/assets/royal-slider/jquery.easing-1.3.js'></script>
+		<script src="/buzzworksholdings/includes/themes/buzzworks/assets/scrollit/scrollit.min.js"></script>
+		
+<link type="text/css" rel="stylesheet" href="/plugins/Benefit/includes/assets/benefit.css" />
+
+
+<div class="modal modal-popup fade" tabindex="-1" role="dialog" id="modal-login" aria-labelledby="loginLabel" data-backdrop="static">
+	<form id="frm-login">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Sign In</h4>
+            </div>
+            <div class="modal-body">
+            	<div class="row">
+                    <div class="form-group clearfix text-center">
+                        <fb:login-button scope="public_profile,email" onlogin="checkLoginState(1);" data-size="large">&nbsp;&nbsp;Continue with Facebook&nbsp;&nbsp;</fb:login-button>
+                    </div>
+                    <div class="form-group">
+                        <div class="divi-new js-form-join-section">
+                            <span>OR</span>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-sm-12 col-md-12">
+                    <div class="alert alert-danger error-message" role="alert"></div>
+                            <input name="s_email" id="s_email" type="email" placeholder="Email..." class="form-control"></input>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-sm-12 col-md-12">
+                            <input name="s_pass" id="s_pass" type="password" placeholder="Password..." class="form-control"></input>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-sm-6 hidden-xs">
+                            <div class="checkbox">
+                                <label for="rememberme">
+                                    <input name="rememberme" id="rememberme" type="checkbox" class="checkbox" value="1">
+                                    Remember me
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 lost-password">
+                            <a href="javascript:void(0);" id="fp">Forgot password?</a>
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-md-12">
+                            <button type="button" class="login" id="btn-login">Sign in</button>
+                        </div>
+                    </div>
+            	</div>
+            </div>
+            <div class="modal-footer">
+            	<p>Not registered? <a href="javascript:void(0);" id="reg-rd">Click here</a> - it's easy!</p>
+            </div>
+        </div>
+    </div>
+    </form>
+</div>
+
+<div class="modal modal-popup fade" tabindex="-1" role="dialog" id="modal-forgot-password" aria-labelledby="loginLabel" data-backdrop="static">
+	<form>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Reset Password</h4>
+            </div>
+            <div class="modal-body">
+            	<div class="row">
+                    <div class="alert alert-success success-message" role="alert"></div>
+                    <div class="alert alert-danger error-message" role="alert"></div>
+                    <p class="text-center">Enter the email you registered with. Details will be sent to you.</p>
+                    <div class="form-group clearfix">
+                        <div class="col-sm-12 col-md-12">
+                            <input name="f_email" id="f_email" type="email" placeholder="Email..." class="form-control">
+                        </div>
+                    </div>
+                    <div class="form-group clearfix">
+                        <div class="col-md-12">
+                            <button type="button" class="login" id="btn-reset">Reset</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+            	<p><a href="javascript:void(0);" id="btn-bl">Back to Login</a></p>
+            </div>
+        </div>
+    </div>
+    </form>
+</div>
+
+<script>
+	var b_base_url="/benefit-members/";
+	var isLoggedIn=false;
+	var cFB;
+	var resdiaryid="buzzworksholdings";
+	var restaurantName="";
+	var micrositeList="Elliots,lidoprestwick,LidoTroon,LargsScotts,ScottsTroon,TheCoachHouse1,TheCornerHouseKilwinning,TheLongHouse,TheMillhouseUK,Treehouse";
+	var siteList="Elliots,Lido Prestwick,Lido Troon,Scotts At Largs Yacht Haven,Scotts At Troon Yacht Haven,The Coach House,The Corner House,The Longhouse,The Mill House,The Tree House";
+	var bookingIntro="";
+	var m_email="";
+	var venue_tel="";
+	var stripe_image="/index.cfm/tasks/render/file/?fileID="
+</script>
+<script type="text/javascript" src="/plugins/Benefit/includes/assets/loader.js"></script>
+<script type="text/javascript" src="/buzzworksholdings/includes/themes/buzzworks/compiled/theme.min.ECE3E03AF4D2E71F5E28ACB3D9D00FCA.js"></script>
+
+	</body>
+</html> 

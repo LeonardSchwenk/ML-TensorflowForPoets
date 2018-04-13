@@ -1,0 +1,1725 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <meta name="msvalidate.01" content="FE72020BBFFBC88C45F65369D6A3B764" />
+<script type="text/javascript" src="//www2.optus.com.au/MapBlasterLite/UI%20Source/js/jquery.min.js"></script>
+<script type="text/javascript" src="/Assets/Commander/UI Source/js/trigger.js"></script>
+<link href="https://plus.google.com/104806930018168833809" rel="publisher" />
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1624145977848651');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1624145977848651&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+        <!-- Hotjar Tracking Code for https://www.commander.com.au -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:314223,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+        <meta charset="utf-8" />
+        <meta name="google-site-verification" content="vk8li3ejd1ns8sHrv2wCoUaWawz8QsnEX4l4kxJuJ7I" />
+        <title>Business Phones, NBN Ready Office Telephone Systems, Internet Services        
+</title>
+        <link href="/assets/commander/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+        <link rel="canonical" href="https://www.commander.com.au/" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="title" content="Business Phones, NBN Ready Office Telephone Systems, Internet Services">
+<meta name="keywords" content="Business Phones, Business Broadband, Business NBN">
+<meta name="description" content="From great value office phone systems to NBN broadband, Commander offers the right communication solutions to suit your business needs. Click here for more
+">
+
+
+
+        <meta name="author" content="M2 Commander">
+        <!-- Summary: Renders all css files. -->
+<link type="text/css" rel="stylesheet" href="/Assets/Commander/Styles/lib.min.css" />
+<link type="text/css" rel="stylesheet" href="/Assets/Commander/Styles/theme.min.css" />
+
+<!-- WFFM styles -->
+<link href="/sitecore modules/Shell/Web Forms for Marketers/Themes/mvc/Fields/Default.css" rel="stylesheet">
+<link href="/sitecore modules/Shell/Web Forms for Marketers/Themes/mvc/Fields/Colors/Default.css" rel="stylesheet">
+<link href="/sitecore modules/Shell/Web Forms for Marketers/Themes/mvc/Fields/Custom.css" rel="stylesheet">
+<link href="/sitecore modules/Shell/Web Forms for Marketers/Themes/mvc/base/jquery.ui.all.css" rel="stylesheet">
+
+<!-- remove no-js class after the dom is ready, when Javascript on the browser is enabled -->
+<script type="text/javascript">document.getElementsByTagName('html')[0].className = ""; </script>
+
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="/Assets/Commander/Scripts/Lib/html5shiv-printshiv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+
+        <!-- WFFM scripts -->
+        <script src="/assets/commander/scripts/lib/jquery-1.9.1.min.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/jquery-ui-1.8.24.min.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/jquery.validate.min.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/jquery.validate.unobtrusive.min.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/Fields/sc.fields-unobtrusive.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/Fields/sc.fields-events-tracking.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/Fields/sc.fields-date.js"></script>
+        <script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/Fields/sc.fields-captcha.js"></script>
+        
+        <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
+        <script type="text/javascript">
+          var mapObj = [];
+          function GoogleMapInit(lat, lng, zoom, mapID) {
+              var mapOptions = {
+                zoom: zoom,
+                center: new google.maps.LatLng(lat, lng), 
+                styles: [   {"featureType":"all",       "stylers":[         {"saturation":0},           {"hue":"#e7ecf0"}       ]   },  {"featureType":"road",      "stylers":[         {"saturation":-70}      ]   },  {"featureType":"transit",       "stylers":[         {"visibility":"off"}        ]   },  {"featureType":"poi",       "stylers":[         {"visibility":"off"}        ]   },  {"featureType":"water",     "stylers":[         {"visibility":"simplified"},            {"saturation":-60}      ]   }]
+              };
+              
+              var mapElement = document.getElementById(mapID);
+              mapObj[mapID] = new google.maps.Map(mapElement, mapOptions);
+
+              var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(lat, lng),
+                map: mapObj[mapID],
+                icon: '/assets/commander/images-optim/icon-map-pin.png'
+              });
+            }
+        </script>
+
+        
+        
+
+
+<script type="text/javascript">
+    var dataLayer = dataLayer || [];
+    var pageTags = ["Business Phones"," Business Broadband"," Business NBN"];
+
+    var initData = {
+        "page": {
+            "pageId": "565EFDD7E6B644ADA4C76E10A7BFC8D6",
+            "pageName": "Homepage",
+            "version": "1",
+            "effectiveDate": "2018-03-21",
+            "category":
+            {
+                "primaryCategory": "Internet",
+                "pageType": "content page",
+                "pageTags": null
+            }
+        }
+    };
+
+    if (pageTags) {
+        initData.page.category.pageTags = pageTags;
+    }
+
+    dataLayer.push(initData);
+</script>
+
+        <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0025/7228.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+        
+
+        
+    </head>
+
+<body class=" ">
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJZWXF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJZWXF');</script>
+<!-- End Google Tag Manager -->
+    
+    <div class="menu-overlay hide"></div>
+    <div class="fakeloader"></div>
+
+    <!-- Image Large Product -->
+    <div class="boxpopup" style="display:none;">
+        <button class="vi_pl_cls_btn">X</button>
+        <img class="imgBigProduct" src=""/>
+    </div>
+
+    <!-- Header content -->
+
+
+<header class="header">
+    <a id="navigation"></a>
+    <div class="container-fluid">
+    
+        <!--top nav with logo (Top Navigation Rendering) -->
+        
+
+
+<a class="hamburger-icon hidden-desktop pull-left" href="#">
+    <span class="hamburger-bun-top"></span>
+    <span class="hamburger-patty"></span>
+    <span class="hamburger-bun-bottom"></span>
+</a>
+
+<a href="#" class="js-search-bar-toggle search-bar-toggle-mobile hidden-desktop pull-left">
+    <span class="icon-font-searchicon"></span>
+</a>
+
+<div class="mobile-main-navigation hidden-desktop">
+
+
+    <ul class="nav">
+
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Phone <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Lines with Handsets</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/phone/commander-phone" target="" class="dropdown-menu-link">Commander Phone</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/commander-key-phone" target="" class="dropdown-menu-link">Commander Key Phone</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Lines</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/phone/smart-voice" target="" class="dropdown-menu-link">NBN Phone Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/phone-plans" target="" class="dropdown-menu-link">PSTN Phone Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/business-isdn-phone-plans" target="" class="dropdown-menu-link">ISDN Phone Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/commander-smart-sip" target="" class="dropdown-menu-link">Commander Smart SIP</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Other</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/phone/inbound-services" target="" class="dropdown-menu-link">Inbound Business Numbers</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/business-continuity" target="" class="dropdown-menu-link">Business Continuity</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/phone-systems" target="" class="dropdown-menu-link">Commander Phone Systems</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/phone/international-call-rates" target="" class="dropdown-menu-link">International Call Rates</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Internet <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/internet/broadband-adsl" target="" class="dropdown-menu-link">Broadband ADSL</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/internet/rapid-fibre" target="" class="dropdown-menu-link">Rapid Fibre</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/internet/nbn/nbn-plans" target="" class="dropdown-menu-link">NBN Internet Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/internet/midband-ethernet" target="" class="dropdown-menu-link">Midband Ethernet</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/mobiles/mobile-broadband" target="" class="dropdown-menu-link">Mobile Broadband</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    NBN <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">NBN Products</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/internet/nbn" target="" class="dropdown-menu-link">What is the NBN?</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://hub.commander.com.au/nbn" target="" class="dropdown-menu-link">NBN Internet Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://hub.commander.com.au/bundles" target="" class="dropdown-menu-link">NBN and Phone Bundle Plans</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Information</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/internet/nbn/nbn-rollout-map" target="" class="dropdown-menu-link">NBN Rollout Map</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/internet/nbn/resource-centre" target="" class="dropdown-menu-link">NBN Resource Centre</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://www.commander.com.au/survey/nbn-check" target="" class="dropdown-menu-link">NBN Readiness Survey</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/internet/nbn-guarantee" target="" class="dropdown-menu-link">NBN Guarantee</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://hub.commander.com.au/nbn-faq" target="" class="dropdown-menu-link">FAQ</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Bundles <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="https://hub.commander.com.au/bundles" target="" class="dropdown-menu-link">Phone and NBN Bundle</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://hub.commander.com.au/bundles-dsl" target="" class="dropdown-menu-link">Phone and DSL Internet Bundle</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/bundles/business-phone-internet-bundle/business-phone-internet-bundle-plans" target="" class="dropdown-menu-link">Voice and DSL Internet Bundle</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/electricity/phone-electricity-bundle" target="" class="dropdown-menu-link">Phone and Electricity Bundle</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Mobiles <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Mobile Products</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/mobiles/mobile-plans" target="" class="dropdown-menu-link">Mobile Plans</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/mobiles/mobile-phones" target="" class="dropdown-menu-link">Mobile Phones</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/mobiles/mobile-broadband" target="" class="dropdown-menu-link">Mobile Broadband</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Information</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="http://offers.commander.com.au/2g_closureoptus_1702/" target="_blank" class="dropdown-menu-link">2G Mobile Network Closure</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/mobiles/mobile-coverage" target="" class="dropdown-menu-link">Mobile Coverage</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/mobiles/automatic-data-top-ups" target="" class="dropdown-menu-link">Automatic Data Top Ups</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/mobiles/international-roaming" target="" class="dropdown-menu-link">International Roaming</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                            <ul class="nav nav-list">
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Electricity <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Electricity Products</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/electricity/commander-electricity" target="" class="dropdown-menu-link">Commander Electricity</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/phone-electricity-bundle" target="" class="dropdown-menu-link">Phone and Electricity Bundle</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Information</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/electricity/about-cpg" target="" class="dropdown-menu-link">About CPG</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/energy-price-fact-sheets" target="" class="dropdown-menu-link">Energy Price Fact Sheets</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/concessions" target="" class="dropdown-menu-link">Concessions</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/tips-for-conserving-energy" target="" class="dropdown-menu-link">Tips for Conserving Energy</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/terms-and-important-info" target="" class="dropdown-menu-link">Terms and Important Info</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Support</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/electricity/contact-cpg" target="" class="dropdown-menu-link">Contact CPG</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/faults-emergencies" target="" class="dropdown-menu-link">Faults and Emergencies</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/faqs" target="" class="dropdown-menu-link">FAQs</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/electricity/metering-requests" target="" class="dropdown-menu-link">Meter Data Requests</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Contact <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Telco Contact</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/contact-us" target="_parent" class="dropdown-menu-link">Contact Us</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/contact-us/locate-us" target="" class="dropdown-menu-link">Locate Us</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Commander Electricity</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/electricity/contact-cpg" target="" class="dropdown-menu-link">Contact CPG</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Career Opportunities</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/careers" target="" class="dropdown-menu-link">Careers</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Support <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Support</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/support" target="" class="dropdown-menu-link">Help and Support</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/outage" target="" class="dropdown-menu-link">Outage Notices</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Phone Training</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/support/training/commander-phone-commander-key-phone-training" target="" class="dropdown-menu-link">Commander Phone</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">User Guide</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/~/media/m2/commander/documents/support/cmdr16_g_landline_interactive.ashx" target="" class="dropdown-menu-link">Landline User Guide</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/resource-centre" target="" class="dropdown-menu-link">Resource Centres</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class="mobile-main-nav-li dropdown">
+                <a class="mobile-main-nav-link dropdown-toggle"  data-toggle=dropdown href="#">
+                    Partners <span class="mobile-main-nav-arrow"></span>
+                </a>
+
+                    <div class="dropdown-menu">
+                        <div class="container-fluid">
+                            <div class="row-fluid">
+                                <div class="span5 dropdown-menu-image">
+                                </div>
+                                <div class="span7 dropdown-menu-list">
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Partner Portal</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="http://sub.commander.com/partners" target="_blank" class="dropdown-menu-link">Partner Login</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                        <div class="nav-category-container">
+                                                <p class="nav-category">Partner Information</p>
+                                            <ul class="nav nav-list">
+                                                    <li>
+                                                        <a href="/become-a-commander-partner" target="" class="dropdown-menu-link">Become a Partner</a>
+                                                    </li>
+                                            </ul>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+    </ul>
+
+        <div class="take-command-mobile-wrapper">
+            
+
+<div class="take-command">
+
+    <div class="take-command-title visible-desktop">Take command</div>
+    <ul class="nav">
+
+            <li>
+<a href='https://www.takecommand.com.au' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' target='_blank' title='Take Command' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-my-account.ashx' />
+                    </div>
+My Account</a>            </li>
+            <li>
+<a href='/support/online-payment' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-pay-bill.ashx' />
+                    </div>
+Pay my bill</a>            </li>
+            <li>
+<a href='/support' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-help-support.ashx' />
+                    </div>
+Help and support</a>            </li>
+            <li>
+<a href='http://commandcentral.commander.com/' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' target='_blank' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-help-support.ashx' />
+                    </div>
+Command Central</a>            </li>
+            <li>
+<a href='javascript:showLiveChat(); void 0' class='take-command-link ' style='color: #FFFFFF; background-color: #ec7a08' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-live-chat.ashx' alt='Live Chat Icon' />
+                    </div>
+Live Chat</a>            </li>
+            <li>
+<a href='tel:137 090' class='take-command-link ' style='color: #FFFFFF; background-color: #ec7a08' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/pages/homepage/ch-callcenter copy.ashx' />
+                    </div>
+Sales 1300 296 142</a>            </li>
+
+    </ul>
+
+</div>
+
+        </div>
+</div>
+
+
+<div class="row-fluid row-nav">
+    <!-- Company logo -->
+    <div class="span2">
+        <a href="/" title="Go to home page" class="logo-desktop">
+<img src='/~/media/m2/commander/images/logos/logo.ashx' alt='commander logo' />        </a>
+    </div>
+    <!--// Company logo -->
+
+    <!-- Top Nav Menu -->
+    <div class="span10 text-right visible-desktop main-navigation">
+        <ul class="nav pull-right">
+
+
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="_blank" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Phone" style='color: #0d51a0' data-hover="Phone">
+                            <span class="menu-text">Phone</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            <img src='/~/media/m2/commander/images/navigation/img-mega-menu-1.ashx' />
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Lines with Handsets</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/phone/commander-phone" target="" class="dropdown-menu-link">Commander Phone</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/commander-key-phone" target="" class="dropdown-menu-link">Commander Key Phone</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Lines</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/phone/smart-voice" target="" class="dropdown-menu-link">NBN Phone Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/phone-plans" target="" class="dropdown-menu-link">PSTN Phone Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/business-isdn-phone-plans" target="" class="dropdown-menu-link">ISDN Phone Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/commander-smart-sip" target="" class="dropdown-menu-link">Commander Smart SIP</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Other</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/phone/inbound-services" target="" class="dropdown-menu-link">Inbound Business Numbers</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/business-continuity" target="" class="dropdown-menu-link">Business Continuity</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/phone-systems" target="" class="dropdown-menu-link">Commander Phone Systems</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/phone/international-call-rates" target="" class="dropdown-menu-link">International Call Rates</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Internet" style='color: #0d51a0' data-hover="Internet">
+                            <span class="menu-text">Internet</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/internet/broadband-adsl" target="" class="dropdown-menu-link">Broadband ADSL</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/internet/rapid-fibre" target="" class="dropdown-menu-link">Rapid Fibre</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/internet/nbn/nbn-plans" target="" class="dropdown-menu-link">NBN Internet Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/internet/midband-ethernet" target="" class="dropdown-menu-link">Midband Ethernet</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/mobiles/mobile-broadband" target="" class="dropdown-menu-link">Mobile Broadband</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="NBN" style='color: #0d51a0' data-hover="NBN">
+                            <span class="menu-text">NBN</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            <img src='/~/media/m2/commander/images/navigation/nbn.ashx' />
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">NBN Products</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/internet/nbn" target="" class="dropdown-menu-link">What is the NBN?</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://hub.commander.com.au/nbn" target="" class="dropdown-menu-link">NBN Internet Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://hub.commander.com.au/bundles" target="" class="dropdown-menu-link">NBN and Phone Bundle Plans</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Information</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/internet/nbn/nbn-rollout-map" target="" class="dropdown-menu-link">NBN Rollout Map</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/internet/nbn/resource-centre" target="" class="dropdown-menu-link">NBN Resource Centre</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.commander.com.au/survey/nbn-check" target="" class="dropdown-menu-link">NBN Readiness Survey</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/internet/nbn-guarantee" target="" class="dropdown-menu-link">NBN Guarantee</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://hub.commander.com.au/nbn-faq" target="" class="dropdown-menu-link">FAQ</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Bundles" style='color: #0d51a0' data-hover="Bundles">
+                            <span class="menu-text">Bundles</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            <img src='/~/media/m2/commander/images/navigation/bundles.ashx' />
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="https://hub.commander.com.au/bundles" target="" class="dropdown-menu-link">Phone and NBN Bundle</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://hub.commander.com.au/bundles-dsl" target="" class="dropdown-menu-link">Phone and DSL Internet Bundle</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/bundles/business-phone-internet-bundle/business-phone-internet-bundle-plans" target="" class="dropdown-menu-link">Voice and DSL Internet Bundle</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/electricity/phone-electricity-bundle" target="" class="dropdown-menu-link">Phone and Electricity Bundle</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Mobiles" style='color: #0d51a0' data-hover="Mobiles">
+                            <span class="menu-text">Mobiles</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            <img src='/~/media/m2/commander/images/navigation/mobiles.ashx' />
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Mobile Products</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/mobiles/mobile-plans" target="" class="dropdown-menu-link">Mobile Plans</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mobiles/mobile-phones" target="" class="dropdown-menu-link">Mobile Phones</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mobiles/mobile-broadband" target="" class="dropdown-menu-link">Mobile Broadband</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Information</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="http://offers.commander.com.au/2g_closureoptus_1702/" target="_blank" class="dropdown-menu-link">2G Mobile Network Closure</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mobiles/mobile-coverage" target="" class="dropdown-menu-link">Mobile Coverage</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mobiles/automatic-data-top-ups" target="" class="dropdown-menu-link">Automatic Data Top Ups</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/mobiles/international-roaming" target="" class="dropdown-menu-link">International Roaming</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                    <ul class="nav nav-list">
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Electricity" style='color: #0d51a0' data-hover="Electricity">
+                            <span class="menu-text">Electricity</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            <img src='/~/media/m2/commander/images/navigation/electricity.ashx' />
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Electricity Products</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/electricity/commander-electricity" target="" class="dropdown-menu-link">Commander Electricity</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/phone-electricity-bundle" target="" class="dropdown-menu-link">Phone and Electricity Bundle</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Information</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/electricity/about-cpg" target="" class="dropdown-menu-link">About CPG</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/energy-price-fact-sheets" target="" class="dropdown-menu-link">Energy Price Fact Sheets</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/concessions" target="" class="dropdown-menu-link">Concessions</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/tips-for-conserving-energy" target="" class="dropdown-menu-link">Tips for Conserving Energy</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/terms-and-important-info" target="" class="dropdown-menu-link">Terms and Important Info</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Support</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/electricity/contact-cpg" target="" class="dropdown-menu-link">Contact CPG</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/faults-emergencies" target="" class="dropdown-menu-link">Faults and Emergencies</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/faqs" target="" class="dropdown-menu-link">FAQs</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/electricity/metering-requests" target="" class="dropdown-menu-link">Meter Data Requests</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Contact" style='color: #0d51a0' data-hover="Contact">
+                            <span class="menu-text">Contact</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Telco Contact</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/contact-us" target="_parent" class="dropdown-menu-link">Contact Us</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/contact-us/locate-us" target="" class="dropdown-menu-link">Locate Us</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Commander Electricity</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/electricity/contact-cpg" target="" class="dropdown-menu-link">Contact CPG</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Career Opportunities</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/careers" target="" class="dropdown-menu-link">Careers</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Support" style='color: #0d51a0' data-hover="Support">
+                            <span class="menu-text">Support</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Support</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/support" target="" class="dropdown-menu-link">Help and Support</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/outage" target="" class="dropdown-menu-link">Outage Notices</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Phone Training</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/support/training/commander-phone-commander-key-phone-training" target="" class="dropdown-menu-link">Commander Phone</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">User Guide</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/~/media/m2/commander/documents/support/cmdr16_g_landline_interactive.ashx" target="" class="dropdown-menu-link">Landline User Guide</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/resource-centre" target="" class="dropdown-menu-link">Resource Centres</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                <li class="desktop-main-nav-li dropdown">
+
+                        <a target="" href="#" class="dropdown-toggle-desktop" data-toggle=dropdown title="Partners" style='color: #ec7a08' data-hover="Partners">
+                            <span class="menu-text">Partners</span>
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span5 dropdown-menu-image">
+                                            
+                                        </div>
+                                        <div class="span7 dropdown-menu-list">
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Partner Portal</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="http://sub.commander.com/partners" target="_blank" class="dropdown-menu-link">Partner Login</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="nav-category-container">
+                                                        <p class="nav-category">Partner Information</p>
+                                                    <ul class="nav nav-list">
+                                                            <li>
+                                                                <a href="/become-a-commander-partner" target="" class="dropdown-menu-link">Become a Partner</a>
+                                                            </li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                </li>
+                            <li class="desktop-main-nav-li">
+                    <a href="#" style="color: #589de0;" title="Search the Commander website" class="js-search-bar-toggle">
+                        <span class="icon-font-searchicon"></span>
+                    </a>
+                </li>
+        </ul>
+
+    </div>
+    <!--// Top Nav Menu -->
+</div>
+
+
+
+
+
+    </div>
+
+    <div class="search-bar-wrapper">
+      <div class="search-bar">
+        <div class="container-fluid">
+          <form method="get" action="/search-result">
+            <label class="access" for="searchTextbox">Search</label>
+            <input type="search" placeholder="Type search phrase here..." id="searchTextbox" name="term" class="search-bar-field form-control">
+          </form>
+        </div>
+      </div>
+    </div>
+
+</header>
+<!--// Header content -->
+
+<!-- Body content -->
+<div class="main-wrapper">
+    
+    <div class="content-wrapper">
+        <!-- Breadcrumb -->
+        <!--
+    Breadcrumbs
+    Summary: Generate the breadcrumbs navigation
+    Assets required: - 
+    Reference: -
+    Other notes: -
+    -->
+
+        <!--//Breadcrumb-->
+        
+        <a id="content"></a>    
+        
+
+<div class="content-row">
+        <div class="carousel carousel-variety-1">
+            <div class="slick-carousel" data-interval="10000" data-speed="1000" data-autoplay="true" data-arrows="false">
+
+                    <div class="item carousel-item" id="0aebef8c-227c-4389-8a6a-0f6c3d7a70d0">
+                            <div class="fill carousel-item-fill item-0aebef8c-227c-4389-8a6a-0f6c3d7a70d0" style="background-image: url(/~/media/m2/commander/images/banner-background/com_0276_more_for_less_nbn_bundle_hp_banner.ashx); background-color: #777777;">
+                                <div class="mobile-image carousel-mobile-image" style="background-color: #777777;">
+                                    <img src="/~/media/m2/commander/images/com_0276_more_for_less_nbn_bundle_hp_banner_mobile_640px.ashx" alt="double-nbn-data" />
+                                </div>
+                                
+                                <a href="/internet/nbn/nbn-plans" class="carousel-image-link" target=""></a>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="item carousel-item" id="8b383605-d0bb-4f95-978d-ef5e4b202e06">
+                            <div class="fill carousel-item-fill item-8b383605-d0bb-4f95-978d-ef5e4b202e06" style="background-image: url(/~/media/m2/commander/images/banner-background/cmdr05_16_nbn_aq_ads_hp_banner_v2.ashx); background-color: #777777;">
+                                <div class="mobile-image carousel-mobile-image" style="background-color: #777777;">
+                                    <img src="/~/media/m2/commander/images/cmdr05_16_nbn_aq_ads_hp_banner_v2_mobile_640px.ashx" alt="Business nbn" />
+                                </div>
+                                
+                                <a href="/survey/nbn-check" class="carousel-image-link" target=""></a>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="item carousel-item" id="f3e2a91b-da72-4fa2-9fb5-0bf3d2d956fb">
+                            <div class="fill carousel-item-fill item-f3e2a91b-da72-4fa2-9fb5-0bf3d2d956fb" style="background-image: url(/~/media/m2/commander/images/com_0276_officeworks_nbn_bundle_hp_banner_desktop_1600px.ashx); background-color: #777777;">
+                                <div class="mobile-image carousel-mobile-image" style="background-color: #777777;">
+                                    <img src="/~/media/m2/commander/images/com_0276_officeworks_nbn_bundle_hp_banner_mobile_640px.ashx" alt="Commander Phone" />
+                                </div>
+                                
+                                <a href="/phone/commander-phone" class="carousel-image-link" target=""></a>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+                    <div class="item carousel-item" id="963082f6-1e32-4bc1-ada7-321724165b38">
+                            <div class="fill carousel-item-fill item-963082f6-1e32-4bc1-ada7-321724165b38" style="background-image: url(/~/media/m2/commander/images/banner-background/comm_a1006_complete_biz_bundle_homepage_banner.ashx); background-color: #777777;">
+                                <div class="mobile-image carousel-mobile-image" style="background-color: #777777;">
+                                    <img src="/~/media/m2/commander/images/comm_a1006_complete_biz_bundle_homepage_banner-02.ashx" alt="Complete Business Bundle" />
+                                </div>
+                                
+                                <a href="http://track.commander.com.au/aff_c?offer_id=1264&amp;aff_id=1426&amp;affiliate_source=website&amp;aff_sub5=P" class="carousel-image-link" target=""></a>
+                                <div class="container-fluid">
+                                    <div class="row-fluid">
+                                        <div class="span6">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+            </div>
+        </div>
+</div>
+
+
+
+        <div class="content-row" data-unique="636589344583483217" data-bgdesk="" data-bgphone=""                                                                                                                                                   style="background-color:#e1e1e1"
+>
+            <div class="container-fluid">
+                <div class="row-fluid row-margin">
+                    <div class="span12">
+                          <div class="wysiwyg" >
+            <!--<div style="border: 1px solid black; padding: 20px; margin: 10px; color: #333333;">
+<h3>Important News for Commander NBN Customers</h3>
+<p style="font-size: 12px; line-height: 1.1em;">Did you purchase a Commander NBN plan between 1 October 2015 and 22 March 2018?  You may be entitled to a partial refund or be able exit your contract without cost.</p>
+<p style="font-size: 12px; line-height: 1.1em;">Commander is providing remedies to business consumers who purchased NBN internet plans where their fibre to the node (FTTN) or fibre to the building (FTTB) connection was not capable of delivering the speeds promised. We acknowledge that, by doing so, we likely breached the Australian Consumer Law.</p>
+<p style="font-size: 12px; line-height: 1.1em;">Commander will be contacting affected consumers by 27 April 2018 to offer options including a refund, moving to a lower speed plan or exiting their contract.</p>
+<p style="font-size: 12px; line-height: 1.1em;"><a href="https://hub.commander.com.au/nbn-refund?__hstc=132846033.724c3c91f577a7771268d436ddfebe48.1512525081902.1521427635902.1521599152899.19&amp;__hssc=132846033.7.1521599152899&amp;__hsfp=411983068">Click here for more information</a>, or contact us on 1300 857 217.</p>
+</div>
+
+-->
+  </div>    
+
+                    </div>
+                </div>	
+            </div>
+        </div>
+        <div id="E4BF6D78-1793-49DF-89FC-BD31F82493F1-enqury-model" class="modal  hide fade mp-modal-product in" tabindex="-1" role="dialog" aria-labelledby="mp-modal-label" aria-hidden="false" style="left: 50%; margin-left: -543px; margin-top: -299.5px; height: 599px; width: 1086px;">
+            <div class="mp-modal-close">X</div>
+            <div class="modal-body-product" data-offer-name-pass="phone system" style="max-height: 879.2px;">
+                <iframe src="https://track.commander.com.au/aff_c?offer_id=552&aff_id=1426&affiliate_source=website&source=phone/phone-systems&aff_sub5=P&_ga=1.22491771.1954384856.1469489695" width="1086px" height="599px" name="enquire_frame" scrolling="no"></iframe>
+            </div>
+        </div>
+
+ <a id="(7df763bda3e849d286a9da86fb4d1d97)_d49917a5"></a>
+ <div class="content-row" >
+   <div class="container-fluid">
+      	<div class="row-fluid row-margin">
+            
+	          <!-- Content -->
+                <div class="span12">
+                    <!-- Wysiwyg -->
+                      <div class="wysiwyg" >
+            <h3 class="text-lightblue">Our Services</h3>
+<h2 class="text-normalcase">Demand the best products and services </h2>
+<br>
+  </div>    
+
+                    
+                    <!-- //Wysiwyg -->
+                    <div class="navlist-wrapper">
+                        <ul id="tabpanel_d49917a5" class="nav nav-tabs responsive text-center">
+                                <li class="tabs activetab" data-desc="#phone_d49917a5">
+                                        <div class="icontab selectedtab" data-imgtabresting="/~/media/m2/commander/images/modules/our-services/tab-phoneresting/icon-phone-white.ashx" data-imgtabselected="/~/media/m2/commander/images/modules/our-services/tab-selected/icon-phone-blue.ashx">
+                                            <img src='/~/media/m2/commander/images/modules/our-services/tab-selected/icon-phone-blue.ashx' />
+                                        </div>
+                                    <div class="texttab">Phone</div>
+                                </li>
+                                <li class="tabs " data-desc="#internet_d49917a5">
+                                        <div class="icontab " data-imgtabresting="/~/media/m2/commander/images/modules/our-services/tab-internetresting/icon-internet-white.ashx" data-imgtabselected="/~/media/m2/commander/images/modules/our-services/tab-internetselected/icon-internet-blue.ashx">
+                                            <img src='/~/media/m2/commander/images/modules/our-services/tab-internetresting/icon-internet-white.ashx' />
+                                        </div>
+                                    <div class="texttab">Internet</div>
+                                </li>
+                                <li class="tabs " data-desc="#mobile_d49917a5">
+                                        <div class="icontab " data-imgtabresting="/~/media/m2/commander/images/modules/our-services/tab-mobileresting/icon-mobile-white.ashx" data-imgtabselected="/~/media/m2/commander/images/modules/our-services/tab-mobileselected/icon-mobile-blue.ashx">
+                                            <img src='/~/media/m2/commander/images/modules/our-services/tab-mobileresting/icon-mobile-white.ashx' />
+                                        </div>
+                                    <div class="texttab">Mobile</div>
+                                </li>
+                                <li class="tabs " data-desc="#electricity_d49917a5">
+                                        <div class="icontab " data-imgtabresting="/~/media/m2/commander/images/modules/our-services/tab-electricresting/icon-electricity-white.ashx" data-imgtabselected="/~/media/m2/commander/images/modules/our-services/tab-electricselected/icon-electricity-blue.ashx">
+                                            <img src='/~/media/m2/commander/images/modules/our-services/tab-electricresting/icon-electricity-white.ashx' />
+                                        </div>
+                                    <div class="texttab">Electricity</div>
+                                </li>
+                                <li class="tabs " data-desc="#bundles_d49917a5">
+                                        <div class="icontab " data-imgtabresting="/~/media/m2/commander/images/modules/our-services/tab-bundleresting/icon-bundle-white.ashx" data-imgtabselected="/~/media/m2/commander/images/modules/our-services/tab-bundleselected/icon-bundle-blue.ashx">
+                                            <img src='/~/media/m2/commander/images/modules/our-services/tab-bundleresting/icon-bundle-white.ashx' />
+                                        </div>
+                                    <div class="texttab">Bundles</div>
+                                </li>
+                        </ul>
+                        <div class="arrowtab-to-animate"></div>
+                    </div>
+                    <div id="tabcontent_d49917a5" class="tab-content responsive">
+                            <div class="tab-pane activeContentTab" id="phone_d49917a5">
+                                <div class="container-fluid">
+    <div class="row-fluid row-margin">
+          <div class="wysiwyg" >
+            <div class="row-fluid">
+<div class="span8">
+<h1>Commander Phone</h1>
+<p>From great value office phones to the latest in internet connected phones, Commander has the right phones and plans to suit your business needs.</p>
+</div>
+<div class="span3 offset1">
+<p><a href="/phone/commander-phone" class="btn-light-blue">​Learn more</a></p>
+<p><a target="_blank" href="http://track.commander.com.au/aff_c?offer_id=552&amp;aff_id=1426&amp;affiliate_source=website&amp;source=homepage/ourservices-phones&amp;aff_sub5=P" class="btn-orange">Enquire today</a></p>
+</div>
+</div>
+  </div>    
+
+    </div>
+</div>
+
+                            </div>
+                            <div class="tab-pane " id="internet_d49917a5">
+                                <div class="container-fluid">
+    <div class="row-fluid row-margin">
+          <div class="wysiwyg" >
+            <div class="row-fluid">
+<div class="span8">
+<h1>Internet</h1>
+<p>With Commander broadband plans you can choose the amount of data you need, the option of a faster connection or to add a phone bundle to save you even more.</p>
+</div>
+<div class="span3 offset1">
+<p><a class="btn-light-blue" href="/internet">​Learn more</a></p>
+<p><a class="btn-orange" href="http://track.commander.com.au/aff_c?offer_id=552&amp;aff_id=1426&amp;affiliate_source=website&amp;source=homepage/ourservices-internet&amp;aff_sub5=P" target="_blank">Enquire today</a></p>
+</div>
+</div>
+  </div>    
+
+    </div>
+</div>
+
+                            </div>
+                            <div class="tab-pane " id="mobile_d49917a5">
+                                <div class="container-fluid">
+    <div class="row-fluid row-margin">
+          <div class="wysiwyg" >
+            <div class="row-fluid">
+<div class="span8">
+<h1><a href="/mobiles" style="text-decoration: none;">Mobile</a></h1>
+<p>Commander offers a great range of mobile phones, and if you sign up to a 24 month plan you’ll receive a $5 loyalty discount towards your bill per month.</p>
+</div>
+<div class="span3 offset1">
+<p><a href="/mobiles" class="btn-light-blue">​Learn more</a></p>
+<p><a target="_blank" href="http://track.commander.com.au/aff_c?offer_id=552&amp;aff_id=1426&amp;affiliate_source=website&amp;source=homepage/ourservices-mobile&amp;aff_sub5=P" class="btn-orange">Enquire today</a></p>
+</div>
+</div>
+  </div>    
+
+    </div>
+</div>
+
+                            </div>
+                            <div class="tab-pane " id="electricity_d49917a5">
+                                <div class="container-fluid">
+    <div class="row-fluid row-margin">
+          <div class="wysiwyg" >
+            <div class="row-fluid">
+<div class="span8">
+<h1>Electricity</h1>
+<p>When you connect your business electricity with Commander, you'll get 20% off Commander Electricity market usage rates, when you pay on time.</p>
+</div>
+<div class="span3 offset1">
+<p><a href="/electricity" class="btn-light-blue">​Learn more</a></p>
+<p><a target="_blank" href="http://track.commander.com.au/aff_c?offer_id=552&amp;aff_id=1426&amp;affiliate_source=website&amp;source=homepage/ourservices-electricity&amp;aff_sub5=P" class="btn-orange">Enquire today</a></p>
+</div>
+</div>
+  </div>    
+
+    </div>
+</div>
+
+                            </div>
+                            <div class="tab-pane " id="bundles_d49917a5">
+                                <div class="container-fluid">
+    <div class="row-fluid row-margin">
+          <div class="wysiwyg" >
+            <div class="row-fluid">
+<div class="span8">
+<h1>Business Bundles</h1>
+<p">Bundle your phone and internet and get superfast broadband and unlimited standard calls or bundle your phone and electricity together to save 20% off our electricity market usage rates and 20% off business phone plan costs, when you pay on time.
+</p">
+</div>
+<div class="span3 offset1">
+<p><a href="/bundles" class="btn-light-blue">​Learn more</a></p>
+<p><a target="_blank" href="http://track.commander.com.au/aff_c?offer_id=552&amp;aff_id=1426&amp;affiliate_source=website&amp;source=homepage/ourservices-bundles&amp;aff_sub5=P" class="btn-orange">Enquire today</a></p>
+</div>
+</div>
+  </div>    
+
+    </div>
+</div>
+
+                            </div>
+                    </div>
+                </div>
+                <!--// Content -->
+
+          </div>
+   </div>
+</div>
+
+
+
+        <a id="content-wrapper-knowledge"></a>
+        <div class="content-row" data-unique="636589344583639105" data-bgdesk="" data-bgphone=""                                                                                                                                                   style="background-color:#e1e1e1"
+>
+            <div class="container-fluid">
+                <div class="row-fluid row-margin" id="four_top_636589344583639105">
+                    <div class="span12">
+                        <!-- Wysiwyg -->
+                        
+                        <!-- //Wysiwyg -->
+                        <div class="row-fluid">
+                            <div class="span3 fourcoloumn">
+<div class="wysiwyg wysiwyg-panel" data-colorresting="#004ebc" data-colorhover="#009ddb" style="background-color:#004ebc;border:2px solid #009ddb;">
+    
+            <a href="/internet/nbn" class="panel-wrapper">
+                    <div class="panel-img">
+                        <img src='/~/media/m2/commander/images/modules/knowledge-is-power/nbn-icon/nbn-icon-l.ashx' />
+                    </div>
+                    <div class="panel-txt text-white panel-title">NBN</div>
+                    <div class="panel-txt text-white panel-subtitle"><p>nbn has arrived at Commander, find out more today.</p></div>
+            </a>
+
+</div>
+</div>
+                            <div class="span3 fourcoloumn">
+<div class="wysiwyg wysiwyg-panel" data-colorresting="#004ebc" data-colorhover="#009ddb" style="background-color:#004ebc;border:2px solid #009ddb;">
+    
+            <a href="/bundles" class="panel-wrapper">
+                    <div class="panel-img">
+                        <img src='/~/media/m2/commander/images/modules/knowledge-is-power/nbn-icon/icon-bundle-l.ashx' />
+                    </div>
+                    <div class="panel-txt text-white panel-title">Bundle &amp; Save</div>
+                    <div class="panel-txt text-white panel-subtitle"><p>Bundle your services with us and save.</p></div>
+            </a>
+
+</div>
+</div>
+                            <div class="span3 fourcoloumn">
+<div class="wysiwyg wysiwyg-panel" data-colorresting="#ec7a08" data-colorhover="#fcaa29" style="background-color:#ec7a08;border:2px solid #FFFFFF;">
+    
+            <a href="/support" class="panel-wrapper">
+                    <div class="panel-img">
+                        <img src='/~/media/m2/commander/images/icon/livechat-icon.ashx' />
+                    </div>
+                    <div class="panel-txt text-white panel-title">FAQs</div>
+                    <div class="panel-txt text-white panel-subtitle"><p>View our Frequently Asked Questions</p></div>
+            </a>
+
+</div>
+</div>
+                            <div class="span3 fourcoloumn">
+<div class="wysiwyg wysiwyg-panel" data-colorresting="#ec7a08" data-colorhover="#fcaa29" style="background-color:#ec7a08;border:2px solid #FFFFFF;">
+    
+            <a href="javascript:showLiveChat(); void 0" class="panel-wrapper">
+                    <div class="panel-img">
+                        <img src='/~/media/m2/commander/images/modules/knowledge-is-power/livechat-icon.ashx' alt='live chat' />
+                    </div>
+                    <div class="panel-txt text-white panel-title">Live Chat</div>
+                    <div class="panel-txt text-white panel-subtitle"><p>Got a question? Chat with us online.</p></div>
+            </a>
+
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>	
+            </div>
+        </div>
+
+
+    </div>
+
+<!--// Body content -->
+
+    <!-- Footer content (Footer Rendering) -->
+        <div class="take-command-desktop-wrapper visible-desktop">
+        
+
+<div class="take-command">
+
+    <div class="take-command-title visible-desktop">Take command</div>
+    <ul class="nav">
+
+            <li>
+<a href='https://www.takecommand.com.au' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' target='_blank' title='Take Command' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-my-account.ashx' />
+                    </div>
+My Account</a>            </li>
+            <li>
+<a href='/support/online-payment' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-pay-bill.ashx' />
+                    </div>
+Pay my bill</a>            </li>
+            <li>
+<a href='/support' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-help-support.ashx' />
+                    </div>
+Help and support</a>            </li>
+            <li>
+<a href='http://commandcentral.commander.com/' class='take-command-link ' style='' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' target='_blank' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-help-support.ashx' />
+                    </div>
+Command Central</a>            </li>
+            <li>
+<a href='javascript:showLiveChat(); void 0' class='take-command-link ' style='color: #FFFFFF; background-color: #ec7a08' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/take-command/icon-live-chat.ashx' alt='Live Chat Icon' />
+                    </div>
+Live Chat</a>            </li>
+            <li>
+<a href='tel:137 090' class='take-command-link ' style='color: #FFFFFF; background-color: #ec7a08' data_iframe_width='0' data_iframe_height='0' data_iframe_title='' >                    <div class="take-command-icon-wrap">
+                        <img src='/~/media/m2/commander/images/pages/homepage/ch-callcenter copy.ashx' />
+                    </div>
+Sales 1300 296 142</a>            </li>
+
+    </ul>
+
+</div>
+
+    </div>
+
+<!-- Footer -->
+    <footer class="footer" >
+        <div class="container-fluid">
+
+            <div class="row-fluid">
+                
+                    <div class="span12 text-center">
+<img src='/~/media/m2/commander/images/logos/logo-footer.ashx' alt='logo-footer' />                    </div>
+            </div>
+
+            <div class="footer-boxlink">
+
+                <div class="row-fluid">
+                    <div class="span12 text-center">
+
+
+                            <div class="footer-wrapperlink">
+                                <div class="footer-title">Products</div>
+                                <ul class="footer-listlink">
+
+                                        <li>
+<a href='/phone/commander-phone' >Phones</a>                                        </li>
+                                        <li>
+<a href='/internet' >Internet</a>                                        </li>
+                                        <li>
+<a href='/bundles' >Bundles</a>                                        </li>
+                                        <li>
+<a href='/mobiles' >Mobiles</a>                                        </li>
+                                        <li>
+<a href='/electricity' >Electricity</a>                                        </li>
+
+                                </ul>
+                            </div>   
+                            <div class="footer-wrapperlink">
+                                <div class="footer-title">About us</div>
+                                <ul class="footer-listlink">
+
+                                        <li>
+<a href='/why-commander' >Why Commander</a>                                        </li>
+                                        <li>
+<a href='/contact-us' >Contact Us</a>                                        </li>
+                                        <li>
+<a href='/contact-us/locate-us' >Locate Us</a>                                        </li>
+                                        <li>
+<a href='/careers' target='_parent' >Careers</a>                                        </li>
+                                        <li>
+<a href='/support' >Support</a>                                        </li>
+                                        <li>
+<a href='/become-a-commander-partner' >Become a Commander Partner</a>                                        </li>
+                                        <li>
+<a href='/legal/mass-service-disruptions-notifications' >Mass Service Disruptions</a>                                        </li>
+
+                                </ul>
+                            </div>   
+                            <div class="footer-wrapperlink">
+                                <div class="footer-title">Legal</div>
+                                <ul class="footer-listlink">
+
+                                        <li>
+<a href='/legal/customer-terms' >Customer Terms</a>                                        </li>
+                                        <li>
+<a href='/~/media/m2/commander/documents/legal/copyright-policy/commander_copyright_policy.ashx' >Copyright Policy</a>                                        </li>
+                                        <li>
+<a href='/legal/privacy-policy' >Privacy Policy</a>                                        </li>
+                                        <li>
+<a href='/privacy-statement' >Privacy Collection Statement</a>                                        </li>
+                                        <li>
+<a href='/legal/terms-of-use' >Terms of Use</a>                                        </li>
+                                        <li>
+<a href='/legal/critical-information-summaries' >Critical Information Summaries</a>                                        </li>
+                                        <li>
+<a href='/legal/financial-hardship-policy' >Financial Hardship Policy</a>                                        </li>
+                                        <li>
+<a href='/electricity/energy-price-fact-sheets' >Energy Price Fact Sheets</a>                                        </li>
+
+                                </ul>
+                            </div>   
+                            <div class="footer-wrapperlink">
+                                <div class="footer-title">Social</div>
+                                <ul class="footer-listlink">
+
+                                        <li>
+<a href='https://www.youtube.com/user/M2Commander/videos' target='_blank' title='Commander YouTube Channel' >                                                <div>
+                                                        <img src="/~/media/m2/commander/images/social-media/youtube-icon-white.ashx" data-imghover="" class="img-footer" />
+                                                </div>
+</a>                                        </li>
+
+                                </ul>
+                            </div>   
+
+                    </div>
+                </div>
+                
+
+                <div class="row-fluid">
+                    <div class="span12 footer-copyright text-center">© Copyright M2 Commander Pty Ltd. All rights reserved. ABN 85 136 950 082</div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </footer>
+    <!--// Footer  -->
+
+    <!--// Footer content -->
+</div>
+
+<script type="text/javascript" src="/Assets/Commander/Scripts/lib.min.js"></script>
+<script type="text/javascript" src="/Assets/Commander/Scripts/content.min.js"></script>
+<script src="/sitecore modules/Web/Web Forms for Marketers/scripts/mvc/Fields/sc.ajax-form.js"></script>
+
+<!-- Live Chat Rendering -->
+        
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+var __lc = {};
+__lc.license = 4179021;
+__lc.group=28;
+
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<!-- End of LiveChat code -->
+
+
+
+    
+    
+    <!-- Modal -->
+    <div id="mainModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        </div>
+        <div class="modal-body text-center">
+        </div>
+    </div>
+    
+    <!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 4179021;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<!-- End of LiveChat code -->
+</body>
+</html>

@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.0 transitional//EN" >
+
+<html>
+  <head><title>
+	IMail Web Client - Login
+</title><link rel="icon" href="login/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="login/favicon.ico" type="image/x-icon" /><link rel="apple-touch-icon" href="login/apple-touch-icon.png" />
+  		<script type="text/javascript" src="login/login.js"></script>
+  <link rel="stylesheet" type="text/css" media="all" href="login/login.css" /></head>
+	<body onload="StartUp();" onkeydown="HandleEnterKey(event);" onkeypress="if(event.keyCode==13)return false;">
+		<form method="post" action="./Login.aspx?ReturnUrl=%2f" id="LoginForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDE2NTE4MzU0D2QWAgIDD2QWEgIFDw8WAh4EVGV4dAUORW1haWwgQWRkcmVzczpkZAIJD2QWBgIBDw8WAh8ABQlQYXNzd29yZDpkZAIDDw9kFgIeB29uZm9jdXMFD0NsZWFyUHdkRmllbGQoKWQCBQ8PFgIfAAUSRm9yZ290IE15IFBhc3N3b3JkZGQCCw8PFgIfAAUJTGFuZ3VhZ2U6ZGQCDQ8QZBAVCBVEZXV0c2NoIChEZXV0c2NobGFuZCkXRW5nbGlzaCAoVW5pdGVkIFN0YXRlcykxRXNwYcOxb2wgKEVzcGHDsWEsIGFsZmFiZXRpemFjacOzbiBpbnRlcm5hY2lvbmFsKRJmcmFuw6dhaXMgKEZyYW5jZSkRaXRhbGlhbm8gKEl0YWxpYSkS5pel5pys6KqeICjml6XmnKwpHeS4reaWhyjkuK3ljY7kurrmsJHlhbHlkozlm70pDuS4reaWhyjlj7DngaMpFQgFZGUtREUFZW4tVVMFZXMtRVMFZnItRlIFaXQtSVQFamEtSlAFemgtQ04FemgtVFcUKwMIZ2dnZ2dnZ2cWAQIBZAIPDxAPFgIfAAUTVXNlIExpdGUgV2ViIENsaWVudGRkZGQCEQ8QDxYCHwAFGVJlbWVtYmVyIE15IEVtYWlsIEFkZHJlc3MWAh4Hb25jbGljawURVXNlcm5hbWVDbGlja2VkKClkZGQCEw8QDxYCHwAFFFJlbWVtYmVyIE15IFBhc3N3b3JkFgIfAgURUGFzc3dvcmRDbGlja2VkKClkZGQCFQ8QDxYCHwAFJUF1dG9tYXRpY2FsbHkgTG9naW4gT24gVGhlIE5leHQgVmlzaXQWAh8CBQ1BdXRvQ2xpY2tlZCgpZGRkAhcPDxYCHwAFBkxvZyBpbhYCHwIFF3JldHVybiBWYWxpZGF0ZUZpZWxkcygpZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUSY2hrVXNlTGl0ZVRlbXBsYXRlBRNjaGtSZW1lbWJlclVzZXJuYW1lBRNjaGtSZW1lbWJlclBhc3N3b3JkBQxjaGtBdXRvTG9naW7xOpCmvGbY+HoWD+DQe0Roq3ivd2RSMo2bH0qaRCFOuQ==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var UsernameAndPasswordRequired = "An email address and password are required to login.";var MobileBrowserWarning = "It is strongly recommended that you use the Lite Web Client with a mobile browser.";var IsCACSession = false;//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C2EE9ABB" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABM0VAWYfgAREhaZW+dwujkvVK7BrRAtEiqu9nGFEI+jB3Y2+Mc6SrnAqio3oCKbxYYvoHqDHkCKN8JKoJYxD4LhuFtkZlAbSowCncYTUauapZwcWfEkbFPqGXJkguGRTpa38b7jku4H5V0+teduo0oiaP80R8RKZv3EXlgAkBG5WuW6znmHff1ZWbcXBZghWIpXysfyPOvMxs7SB8HEKelkLpQ+SV4aU9buKMeaWowzhJbeFLEHkkTbd6r93eO76iPU7OQrgQtC99cJJsnmWg7fYD7r2uXrpoJbvHw340Q8XFH7f+2PwShxH8UE3+WAeNxDfCcroAndX+3YEtnfafnI5R/9b484uCnkmImDbVzbDaphKpwG0RwPksyR5J5FExFIe7A32bNx0RmPh7+N7JU4l9GJRMWNK1IeFj7guctJn/yMUKJ3x8TfzlayVGpHzVY=" />
+        <div id="Container">
+            <div id="SystemMessageHolder"><span id="lblSystemMessage" class="SystemMessage"></span></div>
+            
+            <div id="InnerContainer">
+                <div class="LoginLogo">&nbsp;</div>
+                <div class="LoginFormFields">
+                <p><span id="lblStatus" class="UrgentMessage"></span></p>
+			    <p><span id="lblUsername" class="PreLabel">Email Address:</span><br /><input name="txtUsername" type="text" id="txtUsername" class="InputText" /></p>
+			    <p id="pPasswordField">
+					<span id="lblPassword" class="PreLabel">Password:</span>
+					<br />
+					<input name="txtPassword" type="password" id="txtPassword" class="InputText" onfocus="ClearPwdField()" />
+					
+				</p>
+				<p><span id="lblLanguage" class="PreLabel">Language:</span><br /><select name="drpLanguage" id="drpLanguage" class="InputDropdown">
+	<option value="de-DE">Deutsch (Deutschland)</option>
+	<option selected="selected" value="en-US">English (United States)</option>
+	<option value="es-ES">Espa&#241;ol (Espa&#241;a, alfabetizaci&#243;n internacional)</option>
+	<option value="fr-FR">fran&#231;ais (France)</option>
+	<option value="it-IT">italiano (Italia)</option>
+	<option value="ja-JP">日本語 (日本)</option>
+	<option value="zh-CN">中文(中华人民共和国)</option>
+	<option value="zh-TW">中文(台灣)</option>
+
+</select></p>
+			    <p><span class="CheckboxText"><input id="chkUseLiteTemplate" type="checkbox" name="chkUseLiteTemplate" /><label for="chkUseLiteTemplate">Use Lite Web Client</label></span></p>
+                <p><span class="CheckboxText"><input id="chkRememberUsername" type="checkbox" name="chkRememberUsername" onclick="UsernameClicked();" /><label for="chkRememberUsername">Remember My Email Address</label></span></p>
+                <p><span class="CheckboxText"><input id="chkRememberPassword" type="checkbox" name="chkRememberPassword" onclick="PasswordClicked();" /><label for="chkRememberPassword">Remember My Password</label></span></p>
+                <p><span class="CheckboxText"><input id="chkAutoLogin" type="checkbox" name="chkAutoLogin" onclick="AutoClicked();" /><label for="chkAutoLogin">Automatically Login On The Next Visit</label></span></p>
+			    <div class="ButtonContainer"><a onclick="return ValidateFields();" id="lbLogin" class="LoginButton" href="javascript:__doPostBack(&#39;lbLogin&#39;,&#39;&#39;)">Log in</a></div>
+                </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="hdnUseSavedPwd" id="hdnUseSavedPwd" />
+        <input type="hidden" name="hdnJScriptAndCookies" id="hdnJScriptAndCookies" value="false" />
+        <input type="hidden" name="hdnVersion" id="hdnVersion" value="2015.3.19.1154" />
+        <span id="lblJavascript"></span>
+		</form>
+	</body>
+</html>
+

@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html class="" lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Home Page - CCS</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="//www.coronacs.com/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home Page - CCS" />
+<meta property="og:url" content="https://www.coronacs.com/" />
+<meta property="og:site_name" content="CCS" />
+<meta property="og:image" content="//www.coronacs.com/wp-content/uploads/logo_white_x1-e1490873958924.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home Page - CCS" />
+<meta name="twitter:image" content="//www.coronacs.com/wp-content/uploads/logo_white_x1-e1490873958924.png" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.coronacs.com\/","name":"CCS","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.coronacs.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CCS &raquo; Feed" href="//www.coronacs.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CCS &raquo; Comments Feed" href="//www.coronacs.com/comments/feed/" />
+					<link rel="shortcut icon" href="//www.coronacs.com/wp-content/uploads/favicon-CCS.png" type="image/x-icon" />
+		
+					<!-- For iPhone -->
+			<link rel="apple-touch-icon" href="//www.coronacs.com/wp-content/uploads/favicon-CCS_2.png">
+		
+					<!-- For iPhone Retina display -->
+			<link rel="apple-touch-icon" sizes="114x114" href="//www.coronacs.com/wp-content/uploads/favicon-CCS_5.png">
+		
+					<!-- For iPad -->
+			<link rel="apple-touch-icon" sizes="72x72" href="//www.coronacs.com/wp-content/uploads/favicon-CCS_4.png">
+		
+					<!-- For iPad Retina display -->
+			<link rel="apple-touch-icon" sizes="144x144" href="//www.coronacs.com/wp-content/uploads/favicon-CCS_3.png">
+				<link rel="alternate" type="application/rss+xml" title="CCS &raquo; Home Page Comments Feed" href="//www.coronacs.com/sample-page/feed/" />
+
+		<meta property="og:title" content="Home Page"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://www.coronacs.com/"/>
+		<meta property="og:site_name" content="CCS"/>
+		<meta property="og:description" content="Print Management  
+Telephony    
+One of the UK&#039;s fastest growing Digital
+Solutions and Telecoms Provider
+Our customers trust us to give them the best possible advice, thanks to
+our knowledge and integrity."/>
+
+									<meta property="og:image" content="https://www.coronacs.com/wp-content/uploads/logo_white_x1-e1490889987292.png"/>
+									<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.coronacs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery-ui-css'  href='//www.coronacs.com/wp-content/plugins/soundy-background-music/css/jquery-ui-1.12.1/jquery-ui.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='soundy_front_end-css'  href='//www.coronacs.com/wp-content/plugins/soundy-background-music/css/style-front-end.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avada-stylesheet-css'  href='//www.coronacs.com/wp-content/themes/Avada/assets/css/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/font-awesome.css?ver=5.4.2' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='//www.coronacs.com/wp-content/themes/Avada/assets/css/ie.css?ver=5.4.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='fusion-dynamic-css-css'  href='//www.coronacs.com/wp-content/uploads/fusion-styles/fusion-2.css?timestamp=1522756185&#038;ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/soundy-background-music/js/front-end.js?ver=4.9.4'></script>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js?ver=4.9.4'></script>
+<link rel='https://api.w.org/' href='//www.coronacs.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.coronacs.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.coronacs.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<link rel='shortlink' href='//www.coronacs.com/' />
+<link rel="alternate" type="application/json+oembed" href="//www.coronacs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coronacs.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="//www.coronacs.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coronacs.com%2F&#038;format=xml" />
+            <script>
+                var war_soundy_front_end = new war_SoundyFrontEnd(
+                {
+                    pp_code:                    '<img class="war_soundy_audio_control war_soundy_pp_corner" style="position: fixed; right: 35px; top: 35px;">',
+                    audio_code:                 '<div style="display: none;">  <audio id="war_soundy_audio_player" preload="auto" autoplay >	   <source id="war_soundy_audio_player_source" src="//www.coronacs.com/wp-content/uploads/Intermezzo-mp3cut.net_.mp3" type="audio/mpeg">  </audio></div>',
+                    audio_volume:               1,
+                    preview:                    'false',
+                    button_url_play_normal:     '/wp-content/uploads/Mute.png',
+                    button_url_pause_normal:    '/wp-content/uploads/Sound.png',
+                    button_url_play_hover:      '/wp-content/uploads/Mute.png',
+                    button_url_pause_hover:     '/wp-content/uploads/Sound.png',
+                    user_agent_is_IOS:          false                } );
+
+                var war_soundy_responsive_mode = 'none';
+                var war_soundy_button_corner = 'upper_right';
+                            </script>
+        		
+		
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PG46FN');</script>
+<!-- End Google Tag Manager --><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PG46FN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<meta name="google-site-verification" content="LgwPtiYXX6nu_UIdEwL0KUkXSBTwScGOBNI3KU2-ac0" /></head>
+
+<body class="home page-template page-template-100-width page-template-100-width-php page page-id-2 fusion-image-hovers fusion-body ltr fusion-sticky-header no-mobile-slidingbar no-mobile-totop mobile-logo-pos-left layout-wide-mode fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v1 avada-responsive avada-footer-fx-none">
+				<div id="wrapper" class="">
+		<div id="home" style="position:relative;top:-1px;"></div>
+		
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v1 fusion-logo-left fusion-sticky-menu- fusion-sticky-logo-1 fusion-mobile-logo-  fusion-mobile-menu-design-modern">
+					<div class="fusion-header-sticky-height"></div>
+<div class="fusion-header">
+	<div class="fusion-row">
+				<div class="fusion-logo" data-margin-top="31px" data-margin-bottom="31px" data-margin-left="0px" data-margin-right="0px">
+				<a class="fusion-logo-link"  href="//www.coronacs.com/" >
+
+						<!-- standard logo -->
+			<img src="https://www.coronacs.com/wp-content/uploads/logo_white_x1-e1490889987292.png" srcset="//www.coronacs.com/wp-content/uploads/logo_white_x1-e1490889987292.png 1x" width="99" height="35" alt="CCS Logo" retina_logo_url="" class="fusion-standard-logo" />
+
+			
+							<!-- sticky header logo -->
+				<img src="https://www.coronacs.com/wp-content/uploads/logo_white_x1-e1490889987292.png" srcset="//www.coronacs.com/wp-content/uploads/logo_white_x1-e1490889987292.png 1x" width="99" height="35" alt="CCS Logo" retina_logo_url="" class="fusion-sticky-logo" />
+					</a>
+		</div>		<nav class="fusion-main-menu" aria-label="Main Menu"><ul role="menubar" id="menu-main-navigation" class="fusion-menu"><li role="menuitem"  id="menu-item-191"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"  ><a  href="//www.coronacs.com/our-company/" class="fusion-bar-highlight"><span class="menu-text">Our Company</span></a></li><li role="menuitem"  id="menu-item-192"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"  ><a  href="//www.coronacs.com/service/" class="fusion-bar-highlight"><span class="menu-text">Service</span></a></li><li role="menuitem"  id="menu-item-63"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"  ><a  href="//www.coronacs.com/print-management/" class="fusion-bar-highlight"><span class="menu-text">Print Management</span></a></li><li role="menuitem"  id="menu-item-62"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"  ><a  href="//www.coronacs.com/telephony/" class="fusion-bar-highlight"><span class="menu-text">Telephony</span></a></li><li role="menuitem"  id="menu-item-61"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"  ><a  href="//www.coronacs.com/news/" class="fusion-bar-highlight"><span class="menu-text">News</span></a></li><li role="menuitem"  id="menu-item-59"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"  ><a  href="//www.coronacs.com/contact/" class="fusion-bar-highlight"><span class="menu-text">Contact</span></a></li></ul></nav>		<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars" aria-label="Toggle mobile menu"></a>
+		
+		
+		
+			</div>
+
+
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left"></nav>
+
+			</div>
+</div>
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+					
+		<div id="sliders-container">
+					</div>
+						
+							
+		
+						<main id="main" role="main" class="clearfix width-100" style="padding-left:30px;padding-right:30px">
+			<div class="fusion-row" style="max-width:100%;">
+<section id="content" class="full-width">
+					<div id="post-2" class="post-2 page type-page status-publish hentry">
+			
+			<span class="entry-title rich-snippet-hidden">
+			Home Page		</span>
+	
+			<span class="vcard rich-snippet-hidden">
+			<span class="fn">
+				<a href="//www.coronacs.com/author/admin/" title="Posts by admin" rel="author">admin</a>			</span>
+		</span>
+	
+			<span class="updated rich-snippet-hidden">
+			2018-03-29T19:12:03+00:00		</span>
+	
+						<div class="post-content">
+				<div id="home_section-1_container" class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;'><div class="fusion-builder-row fusion-row "><div id="home_section-1_1" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2  fusion-one-half fusion-column-first fusion-spacing-no fusion-column-inner-bg-wrapper 1_2"  style='margin-top:0px;margin-bottom:0px;width:50%;width:calc(50% - ( ( 0 ) * 0.5 ) );margin-right: 0px;'>
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;" data-bg-url="//www.coronacs.com/wp-content/uploads/Print-Header_HOME5.jpg">
+						<div class="fusion-text"><h2 style="text-align: center; margin: 0; padding: 15% 0; padding-bottom: 95%;">Print Management</h2>
+</div><div class="fusion-clearfix"></div>
+					</div>
+					<span class="fusion-column-inner-bg hover-type-zoomin">
+						<a href="/print-management" aria-label="Print Header_HOME5">
+							<span class="fusion-column-inner-bg-image" style="background-image: url('//www.coronacs.com/wp-content/uploads/Print-Header_HOME5.jpg');background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a>
+					</span>
+				</div><div id="home_section-1_2" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2  fusion-one-half fusion-column-last fusion-spacing-no fusion-column-inner-bg-wrapper 1_2"  style='margin-top:0px;margin-bottom:0px;width:50%;width:calc(50% - ( ( 0 ) * 0.5 ) );'>
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;" data-bg-url="//www.coronacs.com/wp-content/uploads/CCS_PHONE_HOME_5.jpg">
+						<div class="fusion-text"><h2 style="text-align: center; margin: 0; padding: 15% 0; padding-bottom: 95%;">Telephony</h2>
+</div><div class="fusion-clearfix"></div>
+					</div>
+					<span class="fusion-column-inner-bg hover-type-zoomin">
+						<a href="/telephony" aria-label="CCS_PHONE_HOME_5">
+							<span class="fusion-column-inner-bg-image" style="background-image: url('//www.coronacs.com/wp-content/uploads/CCS_PHONE_HOME_5.jpg');background-position:center top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a>
+					</span>
+				</div></div></div><div id="home_section-2_container" class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: #f5f3f2;background-position: center center;background-repeat: no-repeat;'><div class="fusion-builder-row fusion-row "><div id="home_section-2" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:0px;'>
+					<div class="fusion-column-wrapper" style="padding: 5% 25% 5% 25%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-text"><h2 style="text-align: center; color: #333;">One of the UK&#8217;s fastest growing Digital<br />
+Solutions and Telecoms Provider</h2>
+<p style="text-align: center;">Our customers trust us to give them the best possible advice, thanks to<br />
+our knowledge and integrity.</p>
+<p style="text-align: center;">Whether you need a top quality digital print solution &#8211; photographers, printers,<br />
+scanners and documents management &#8211; or a sophisticated telecoms solution &#8211;<br />
+single site, multi site, hosted or mobile &#8211; we&#8217;ve got the answer.</p>
+</div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div id="home_section-3_container" class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: #ffffff;background-position: center center;background-repeat: no-repeat;'><div class="fusion-builder-row fusion-row "><div id="home_section-3_1" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-first fusion-column-inner-bg-wrapper 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 1% + 1% ) * 0.3333 ) );margin-right: 1%;'>
+					<div class="fusion-column-wrapper" style="padding: 59% 0px 5% 0px;" data-bg-url="//www.coronacs.com/wp-content/uploads/Services_HomePage.jpg">
+						<div class="fusion-text"><h2 style="text-align: center;">Service</h2>
+</div><div class="fusion-clearfix"></div>
+					</div>
+					<span class="fusion-column-inner-bg hover-type-zoomout">
+						<a href="/service" aria-label="Services_HomePage">
+							<span class="fusion-column-inner-bg-image" style="background-image: url('//www.coronacs.com/wp-content/uploads/Services_HomePage.jpg');background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a>
+					</span>
+				</div><div id="home_section-3_3" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-inner-bg-wrapper 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 1% + 1% ) * 0.3333 ) );margin-right: 1%;'>
+					<div class="fusion-column-wrapper" style="padding: 59% 0px 5% 0px;" data-bg-url="//www.coronacs.com/wp-content/uploads/Copy_Home_3.png">
+						<div class="fusion-text"><h2 style="text-align: center;">News</h2>
+</div><div class="fusion-clearfix"></div>
+					</div>
+					<span class="fusion-column-inner-bg hover-type-zoomout">
+						<a href="/corona-completes-copylogic-aquisition/" aria-label="Copy_Home_3">
+							<span class="fusion-column-inner-bg-image" style="background-image: url('//www.coronacs.com/wp-content/uploads/Copy_Home_3.png');background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a>
+					</span>
+				</div><div id="home_section-3_3" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last fusion-column-inner-bg-wrapper 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 1% + 1% ) * 0.3333 ) );'>
+					<div class="fusion-column-wrapper" style="padding: 59% 0px 5% 0px;" data-bg-url="//www.coronacs.com/wp-content/uploads/OurCompany_HomePage.jpg">
+						<div class="fusion-text"><h2 style="text-align: center;">Our Company</h2>
+</div><div class="fusion-clearfix"></div>
+					</div>
+					<span class="fusion-column-inner-bg hover-type-zoomout">
+						<a href="/our-company" aria-label="OurCompany_HomePage">
+							<span class="fusion-column-inner-bg-image" style="background-image: url('//www.coronacs.com/wp-content/uploads/OurCompany_HomePage.jpg');background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"></span></a>
+					</span>
+				</div></div></div><div id="home_section-4_container" class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: #ffffff;background-position: center center;background-repeat: no-repeat;'><div class="fusion-builder-row fusion-row "><div id="home_section-4_1" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:20px;'>
+					<div class="fusion-column-wrapper" style="padding: 1% 25% 1% 25%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-text"><h1 style="text-align: center; color: #333;">Our Partners</h1>
+</div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div id="home_section-4_2" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:20px;'>
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-image-carousel fusion-image-carousel-fixed"><div class="fusion-carousel" data-autoplay="yes" data-columns="5" data-itemmargin="13" data-itemwidth="180" data-touchscroll="no" data-imagesize="fixed" data-scrollitems="1"><div class="fusion-carousel-positioner"><ul class="fusion-carousel-holder"><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="175" height="110" src="//www.coronacs.com/wp-content/uploads/Gamma_logo.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="175" height="93" src="//www.coronacs.com/wp-content/uploads/MS-gold-partner_logo1.jpg" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="175" height="110" src="//www.coronacs.com/wp-content/uploads/cisco-partner.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="320" height="133" src="//www.coronacs.com/wp-content/uploads/unify-1-320x133.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/unify-1-200x83.png 200w, //www.coronacs.com/wp-content/uploads/unify-1-300x124.png 300w, //www.coronacs.com/wp-content/uploads/unify-1-320x133.png 320w, https://www.coronacs.com/wp-content/uploads/unify-1.png 322w" sizes="(max-width: 320px) 100vw, 320px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="166" height="111" src="//www.coronacs.com/wp-content/uploads/samsung.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="245" height="148" src="//www.coronacs.com/wp-content/uploads/polycom.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/polycom-200x121.png 200w, https://www.coronacs.com/wp-content/uploads/polycom.png 245w" sizes="(max-width: 245px) 100vw, 245px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="281" height="142" src="//www.coronacs.com/wp-content/uploads/open-reach.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/open-reach-200x101.png 200w, https://www.coronacs.com/wp-content/uploads/open-reach.png 281w" sizes="(max-width: 281px) 100vw, 281px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="149" height="159" src="//www.coronacs.com/wp-content/uploads/oak.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="267" height="134" src="//www.coronacs.com/wp-content/uploads/O2-business.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/O2-business-200x100.png 200w, https://www.coronacs.com/wp-content/uploads/O2-business.png 267w" sizes="(max-width: 267px) 100vw, 267px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="320" height="133" src="//www.coronacs.com/wp-content/uploads/unify-320x133.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/unify-200x83.png 200w, //www.coronacs.com/wp-content/uploads/unify-300x124.png 300w, //www.coronacs.com/wp-content/uploads/unify-320x133.png 320w, https://www.coronacs.com/wp-content/uploads/unify.png 322w" sizes="(max-width: 320px) 100vw, 320px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="225" height="102" src="//www.coronacs.com/wp-content/uploads/xerox.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/xerox-200x91.png 200w, https://www.coronacs.com/wp-content/uploads/xerox.png 225w" sizes="(max-width: 225px) 100vw, 225px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="170" height="79" src="//www.coronacs.com/wp-content/uploads/Canon.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="207" height="153" src="//www.coronacs.com/wp-content/uploads/konica-minolta.png" class="attachment-blog-medium size-blog-medium" alt="" srcset="//www.coronacs.com/wp-content/uploads/konica-minolta-200x148.png 200w, https://www.coronacs.com/wp-content/uploads/konica-minolta.png 207w" sizes="(max-width: 207px) 100vw, 207px" /></div></div></li><li class="fusion-carousel-item"><div class="fusion-carousel-item-wrapper"><div class="fusion-image-wrapper hover-type-none"><img width="183" height="175" src="//www.coronacs.com/wp-content/uploads/Richoh.png" class="attachment-blog-medium size-blog-medium" alt="" /></div></div></li></ul><div class="fusion-carousel-nav"><span class="fusion-nav-prev"></span><span class="fusion-nav-next"></span></div></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div id="contact-footer-container" class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling"  style='background-color: #50505A;background-position: center center;background-repeat: no-repeat;'><div class="fusion-builder-row fusion-row "><div id="contact-footer" class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1"  style='margin-top:0px;margin-bottom:0px;'>
+					<div class="fusion-column-wrapper" style="padding: 5% 9% 5% 9%;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url="">
+						<div class="fusion-text"><h1 style="color: #eee; font-weight: normal;">Contact us to see how we can help</h1>
+</div><div class="fusion-text"><h2 style="color: white; font-weight: bold;">Tel: 020 7503 3000</h2>
+</div><div class="fusion-text"><p style="color: white; font-weight: bold;">Email: generalenquiries@coronacs.com<img class="alignright size-full wp-image-255" src="//www.coronacs.com/wp-content/uploads/logo_white_x1-e1490873958924.png" alt="" width="141" height="50" /></p>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-single sep-solid" style="border-color:#ffffff;border-top-width:1px;margin-left: auto;margin-right: auto;margin-top:;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div>
+							</div>
+												</div>
+	</section>
+					
+				</div>  <!-- fusion-row -->
+			</main>  <!-- #main -->
+			
+			
+			
+										
+				<div class="fusion-footer">
+						
+	<footer role="contentinfo" class="fusion-footer-widget-area fusion-widget-area">
+		<div class="fusion-row">
+			<div class="fusion-columns fusion-columns-5 fusion-widget-area">
+				
+																									<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="contact_info-widget-2" class="fusion-footer-widget-column widget contact_info"><h4 class="widget-title">Victoria Office</h4>
+		<div class="contact-info-container">
+							<p class="address">1-2 Castle Lane<br>Victoria<br>London<br>SW1E 6DR</p>
+			
+			
+			
+			
+			
+					</div>
+		<div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="contact_info-widget-3" class="fusion-footer-widget-column widget contact_info"><h4 class="widget-title">Docklands Office</h4>
+		<div class="contact-info-container">
+							<p class="address">Unit B, The Grainstore<br>4 Western Gateway<br>Royal Victoria Docks<br>London<br>E16 1BA</p>
+			
+			
+			
+			
+			
+					</div>
+		<div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="contact_info-widget-4" class="fusion-footer-widget-column widget contact_info"><h4 class="widget-title">Sandy Office</h4>
+		<div class="contact-info-container">
+							<p class="address">Unit 4<br>Gosforth Close<br>Sandy<br>Bedfordshire<br>SG19 1RB</p>
+			
+			
+			
+			
+			
+					</div>
+		<div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="contact_info-widget-6" class="fusion-footer-widget-column widget contact_info"><h4 class="widget-title">Harrow Office</h4>
+		<div class="contact-info-container">
+							<p class="address">Unit 2,<br> The Palmerstone Centre<br>Oxford Road<br>Harrow<br>HA3 7RG</p>
+			
+			
+			
+			
+			
+					</div>
+		<div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column fusion-column-last col-lg-2 col-md-2 col-sm-2">
+							<section id="contact_info-widget-5" class="fusion-footer-widget-column widget contact_info"><h4 class="widget-title">Information</h4>
+		<div class="contact-info-container">
+							<p class="address"><a href="/telecoms-customer-service-plan/">Customer Service Plan (Telephony)</a><br><a href="/print-management-customer-service-plan/">Customer Service Plan (Print Mgt)</a><br><a href="/customer-complaints-code/">Customer Complaints Code</a><br><a href="/code-of-practice/">Code of Practice</a><br><a href="/terms-conditions-telecoms/">Terms & Conditions (Telephony)</a><br><a href="//www.ofcom.org.uk/advice-for-businesses/knowing-your-rights/gen-conditions">Ofcom General Conditions</a></p>
+			
+			
+			
+			
+			
+					</div>
+		<div style="clear:both;"></div></section>																					</div>
+																		
+				<div class="fusion-clearfix"></div>
+			</div> <!-- fusion-columns -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- fusion-footer-widget-area -->
+
+	
+	<footer id="footer" class="fusion-footer-copyright-area">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice">
+		<div>
+		Copyright 2017 | All Rights Reserved | Built by <a href="//fwx.co.uk">Fireworx</a>	</div>
+</div>
+<div class="fusion-social-links-footer">
+	<div class="fusion-social-networks"><div class="fusion-social-networks-wrapper"><a  class="fusion-social-network-icon fusion-tooltip fusion-linkedin fusion-icon-linkedin" style="color:#eeeeee;" href="//www.linkedin.com/company-beta/9197809/" target="_blank" rel="noopener noreferrer" data-placement="right" data-title="Linkedin" data-toggle="tooltip" title="Linkedin"><span class="screen-reader-text">Linkedin</span></a><a  class="fusion-social-network-icon fusion-tooltip fusion-twitter fusion-icon-twitter" style="color:#eeeeee;" href="//twitter.com/CoronaCorporate" target="_blank" rel="noopener noreferrer" data-placement="right" data-title="Twitter" data-toggle="tooltip" title="Twitter"><span class="screen-reader-text">Twitter</span></a></div></div></div>
+
+			</div> <!-- fusion-fusion-copyright-content -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- #footer -->
+				</div> <!-- fusion-footer -->
+			
+								</div> <!-- wrapper -->
+
+								<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+						<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://www.coronacs.com/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+				</script>
+				<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<!--[if IE 9]>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-ie9.js?ver=1'></script>
+<![endif]-->
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/comment-reply.min.js?ver=4.9.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoGeneralVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionLightboxVideoVars = {"lightbox_video_width":"1280","lightbox_video_height":"720"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionLightboxVars = {"status_lightbox":"1","lightbox_gallery":"1","lightbox_skin":"metro-white","lightbox_title":"1","lightbox_arrows":"1","lightbox_slideshow_speed":"5000","lightbox_autoplay":"","lightbox_opacity":"0.9","lightbox_desc":"1","lightbox_social":"1","lightbox_deeplinking":"1","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_animation_speed":"Normal"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js?ver=3.1.8'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope.js?ver=3.0.4'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery.js?ver=2.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaPortfolioVars = {"lightbox_behavior":"all","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-core/js/min/avada-portfolio.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-core/js/min/avada-faqs.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.collapse.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionEqualHeightVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-toggles.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.transition.js?ver=3.3.6'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tab.js?ver=3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTabVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-tabs.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionBgImageVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionAnimationsVars = {"disable_mobile_animate_css":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoBgVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionContainerVars = {"content_break_point":"800","container_hundred_percent_height_mobile":"0","is_sticky_header_transparent":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-events.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countdown.js?ver=1.0'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-countdown.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionMapsVars = {"admin_ajax":"https:\/\/www.coronacs.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fusion_maps.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-google-map.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-content-boxes.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easyPieChart.js?ver=2.1.7'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-circle.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTestimonialVars = {"testimonials_speed":"4000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-testimonials.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-flip-boxes.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-progress.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionCountersBox = {"counter_box_speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-gallery.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/Froogaloop.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionVideoVars = {"status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-vertical-menu-widget.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.popover.js?ver=3.3.5'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.2.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionCarouselVars = {"related_posts_speed":"2500","carousel_speed":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-carousel.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionFlexSliderVars = {"status_vimeo":"1","page_smoothHeight":"false","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-popover.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionBlogVars = {"infinite_blog_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","lightbox_behavior":"all","blog_pagination_type":"Pagination","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-blog.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionIe1011Vars = {"form_bg_color":"#ffffff"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-ie1011.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaHeaderVars = {"header_position":"top","header_layout":"v1","header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"800","header_sticky_mobile":"1","header_sticky_tablet":"1","mobile_menu_design":"modern","sticky_header_shrinkage":"0","nav_height":"84","nav_highlight_border":"3","logo_margin_top":"31px","logo_margin_bottom":"31px","layout_mode":"wide","header_padding_top":"0px","header_padding_bottom":"0px","offset_scroll":"full"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaMenuVars = {"header_position":"Top","logo_alignment":"Left","header_sticky":"1","side_header_break_point":"800","mobile_menu_design":"modern","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","submenu_slideout":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionScrollToAnchorVars = {"content_break_point":"800","container_hundred_percent_height_mobile":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fusionTypographyVars = {"site_width":"1100px","typography_responsive":"","typography_sensitivity":"0.6","typography_factor":"1.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaCommentVars = {"title_style_type":"double","title_margin_top":"0px","title_margin_bottom":"31px"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-comments.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaSidebarsVars = {"header_position":"top","header_layout":"v1","header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"800","header_sticky_tablet":"1","sticky_header_shrinkage":"0","nav_height":"84","content_break_point":"800"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/library/jquery.sticky-kit.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/library/jquery.toTop.js?ver=1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaToTopVars = {"status_totop_mobile":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-to-top.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=5.4.2'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaElasticSliderVars = {"tfes_autoplay":"1","tfes_animation":"sides","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var avadaFusionSliderVars = {"side_header_break_point":"800","slider_position":"below","header_transparency":"0","header_position":"Top","content_break_point":"800","status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.coronacs.com/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js?ver=1'></script>
+<script type='text/javascript' src='//www.coronacs.com/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+			<script type="text/javascript">
+				jQuery.noConflict();
+				(function( $ ) {
+					$(function() {
+						// More code using $ as alias to jQuery
+						$("area[href*=\\#],a[href*=\\#]:not([href=\\#]):not([href^='\\#tab']):not([href^='\\#quicktab']):not([href^='\\#pane'])").click(function() {
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+								$('html,body').animate({
+								scrollTop: target.offset().top - 20  
+								},900 ,'easeInBounce');
+								return false;
+								}
+							}
+						});
+					});
+				})(jQuery);	
+			</script>				
+				<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PG46FN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	</body>
+</html>

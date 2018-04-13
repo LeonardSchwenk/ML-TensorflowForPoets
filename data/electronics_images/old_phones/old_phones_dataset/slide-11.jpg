@@ -1,0 +1,1966 @@
+
+        <!doctype html>
+        <html xmlns:og="http://ogp.me/ns#" lang="en">
+            <head>
+                <meta charset="utf-8">
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-itunes-app" content="app-id=281941097, affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner">
+    
+                <link href="https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BWHaasGrotesk-95Black-Web,BWHaasText-56Italic,PublicoText-Roman-Web,PublicoText-Italic-Web,PublicoText-Bold-Web,TiemposTextWeb-Regular,TiemposTextWeb-RegularItalic,AvenirNextPForBBG-Demi/font-face.css" rel="stylesheet" type="text/css">
+                <link href="https://www.bbthat.com/assets/v1.4.0/that.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg,BWHaasText-55Roman,BWHaasHead-75Bold,BWHaasHead-95Black,AvenirNext-Demi/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-nav-209742668c.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/font-service/css/Bloomberg/font-face.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://nav.bloomberg.com/public/stylesheets/bb-global-footer-af4496cb6b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/hub/css/nav_bb/nav-0adff56d2d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/leaderboard/leaderboard-54363c9133.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/breaking_news_placeholder/breaking_news-a83e928d8b.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/application/application-c8157b4591.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/layout/layout-b2e0835383.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/layout/layout-92d6edbdf2.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/layout/layout-28814c2100.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/layout/layout-fd15479ee1.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/layout/layout-66e27e742f.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/theme/dark-306210ed8f.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/page/businessweek-v2/borders-a17c1b8a45.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/page/businessweek-v2/miniplayer-9b4940ba10.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/hero/_variation/businessweek_white-7b16dc4b7e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/hero/_variation/hfs_2_flex-6409113da7.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/hero/hero-aba1cd4af2.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/simple-733cdcb30b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_autoplay-0dcbae2772.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_deks-8de123cc69.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_heds_only-6797285351.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_heds_only_opinion-d3e2adf525.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_images-8ff0980606.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/3_up_images_opinion-546b5c0def.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/4_up_deks-a25fc660e4.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/4_up_deks_opinion-60400b9d61.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/4_up_heds_only-0ef0af488b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/4_up_images-cd8abc3f57.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/story_package-5ab835fb2b.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/story_package-00f080bde8.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/story_package-69c6692e3c.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/story_package-4912fb4914.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/story_package-f8cf58da10.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/_theme/businessweek-7c6812b578.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/_variation/image_left-978111cd6e.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/single_story-a0f200199b.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/single_story-95a843594e.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/single_story-f728634d9e.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/single_story-a637c6f425.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/single_story-2865912d14.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/grid/_variation/imageless-a08db31657.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/grid/grid-d6cb455f53.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/_variation/bw_covers-505bdf7b40.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/carousel-18752f906b.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/carousel-5b0398682b.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/carousel-3cc668d5bb.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/carousel-18749c8233.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/carousel/carousel-f2dd75e41a.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/ad/ad-6063190bc7.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/_variation/simple-ce1137b769.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/_theme/opinion-blue-b7a0642dd1.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-3227166815.desktop.css" media="(min-width:1021px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-b335f85dac.small_desktop.css" media="(min-width:1021px) and (max-width:1280px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-8836cc73cc.large_desktop.css" media="(min-width:1281px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-94bd918e66.tablet-desktop.css" media="(min-width:761px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-2f6edbc8cd.tablet.css" media="(min-width:761px) and (max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-efc3844d5e.mobile-tablet.css" media="(max-width:1020px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/story_list-f7825a430a.mobile.css" media="(max-width:760px)" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/ad/_theme/businessweek-5ea1e8099d.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/single_story/_theme/bw_pursuits-737733bcda.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_theme/bw_pursuits-286044ed0b.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_package/_variation/single_story_columns-5ba57309ba.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/_variation/dark_rail-63a15df8d1.css" media="all" property="stylesheet" rel="stylesheet" type="text/css"><link href="https://assets.bwbx.io/s3/javelin/public/hub/css/module/story_list/_variation/bullets-48956a70c3.css" media="all" property="stylesheet" rel="stylesheet" type="text/css">
+                <title>Businessweek - Bloomberg</title><link rel="canonical" href="https://www.bloomberg.com/businessweek"><meta name="description" content="Bloomberg Businessweek helps global leaders stay ahead with insights and in-depth analysis on the people, companies, events, and trends shaping today's complex, global economy"><meta name="homepage" content="false"><meta name="referrer" content="unsafe-url"><meta name="referrer" content="always"><meta property="og:site_name" content="Bloomberg.com"><meta property="og:type" content="website"><meta property="og:description" content="Bloomberg Businessweek helps global leaders stay ahead with insights and in-depth analysis on the people, companies, events, and trends shaping today's complex, global economy"><meta property="og:title" content="Businessweek - Bloomberg"><meta property="og:url" content="https://www.bloomberg.com/businessweek"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@business"><meta name="twitter:description" content="Bloomberg Businessweek helps global leaders stay ahead with insights and in-depth analysis on the people, companies, events, and trends shaping today's complex, global economy"><meta name="twitter:title" content="Businessweek - Bloomberg"><meta name="parsely-title" content="Businessweek - Bloomberg"><meta name="parsely-link" content="https://www.bloomberg.com/businessweek"><meta name="parsely-type" content="sectionpage"><link rel="icon" type="image/png" href="https://assets.bwbx.io/s3/javelin/public/hub/images/favicon-black-12c7d129b0.png"><link rel="apple-touch-icon" sizes="57x57" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-57x57-b572ef8093.png"><link rel="apple-touch-icon" sizes="60x60" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-60x60-b0d19bb405.png"><link rel="apple-touch-icon" sizes="72x72" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-72x72-a5bfb2afba.png"><link rel="apple-touch-icon" sizes="76x76" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-76x76-6ed14bcfc8.png"><link rel="apple-touch-icon" sizes="114x114" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-114x114-b5fb8b8c07.png"><link rel="apple-touch-icon" sizes="120x120" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-120x120-ef3226f2bd.png"><link rel="apple-touch-icon" sizes="144x144" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-144x144-3c26d576a9.png"><link rel="apple-touch-icon" sizes="152x152" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-152x152-5ccd0ec96e.png"><link rel="apple-touch-icon" sizes="180x180" href="https://assets.bwbx.io/s3/javelin/public/hub/images/apple-touch-icon-180x180-c1a237984e.png">
+                <script>!function(){if(!(Math.random()>.1||window.BOOMR&&window.BOOMR.version)){var e,t,n,o=document.createElement("iframe"),a=window;a.addEventListener?a.addEventListener("load",i,!1):a.attachEvent&&a.attachEvent("onload",i),o.src="javascript:void(0)",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",(n=document.getElementsByTagName("script")[0]).parentNode.insertBefore(o,n);try{t=o.contentWindow.document}catch(n){e=document.domain,o.src="javascript:var d=document.open();d.domain='"+e+"';void(0);",t=o.contentWindow.document}t.open()._l=function(){var t=this.createElement("script");e&&(this.domain=e),t.id="boomr-if-as",t.src="https://s.go-mpulse.net/boomerang/T6PPY-X9KZV-8VZ6F-7N5GB-F8ELN",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(t)},t.write('<body onload="document._l();">'),t.close()}function i(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}}();</script>
+            </head>
+            <body>
+                
+        <script>
+            window._fence = (function(d, s, l, id, cdn, v) {
+                var fs, st, lt, pf, ft, f = window._fence || {};
+                if (d.getElementById(id)) return f;
+                fs = d.scripts[0];
+                st = d.createElement(s);
+                lt = d.createElement(l);
+                pf = d.createElement(l);
+                ft = d.createElement(l);
+                pf.rel = "dns-prefetch"; pf.href = cdn;
+                st.id = id; st.async = true; st.src = cdn + "/s3/fence/" + v + "/app.bundle.js";
+                lt.rel = "stylesheet"; lt.href = cdn + "/s3/fence/" + v + "/styles.css";
+                ft.rel = "stylesheet"; ft.href = "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,Bloomberg/font-face.css";
+                f.q = [];
+                f.ready = function(cb) {
+                  f.q.push(cb);
+                };
+                d.head.appendChild(pf);
+                d.head.appendChild(lt);
+                d.head.appendChild(ft);
+                fs.parentNode.insertBefore(st, fs);
+                return f;
+            }(document, "script", "link", "fence-snippet", "//assets.bwbx.io", "v4"));
+        </script>
+    
+                
+        <script type="text/javascript">
+            (function(w) {
+                var data = {"adCode":"bloomberg/businessweek/","contentType":"sectionfront-businessweekv2","pageType":"sectionfront","parselySite":"","vertical":"business","brand":"business","title":"Businessweek - Bloomberg","transporter":"false","refresh":"false"};
+                if (/(^|(; ))is-auto-refresh=Y($|;)/.test(document.cookie)) {
+                    data.refresh = "true";
+                    document.cookie = "is-auto-refresh=;domain=" + window.location.hostname + ";path=/;expires=" + (new Date()).toUTCString();
+                }
+                w.dataLayer = w.dataLayer || [];
+                w.dataLayer.push(data);
+            })(window);
+        </script>
+    
+                <script type="text/javascript">window.__bloomberg__=window.__bloomberg__||{};window.__bloomberg__.environment={"playlistPlayerEnabled":true,"psznTrackingUrl":"https://tracking.bloomberg.com/images/tracking-pixel.gif","psznRecommendationUrl":"https://personalization.bloomberg.com","tickerToutEnabled":true,"tickerToutUrl":"https://www.bloomberg.com/markets/modules/datastrip?version=2","videoPlayerUrl":"https://cdn.gotraffic.net/projector/latest/bplayer.js","__fnEnabled":true,"__pvcEnabled":false,"__naviEnabled":false};</script>
+                <script id="page-level-ad-config-businessweek-v2" type="application/json">{"adCode":"bloomberg/businessweek/","targeting":{"page":"businessweek-v2"}}</script>
+                
+    <div class="leaderboard-container">
+        <div id="leaderboard-businessweek-v2" class="page-ad" data-position="leaderboard">
+            <script class="params" type="application/json">{"pageId":"businessweek-v2","position":"leaderboard","dimensions":{"large_desktop":[[728,90],[970,250],[5,16],[1,1]],"small_desktop":[[728,90],[970,250],[5,16],[1,1]],"tablet":[[728,90],[5,16],[1,1]],"mobile":[[5,16],[1,1]]},"strategy":"always","type":"Top Horizontal Ad","targeting":{"position":"leaderboard","page":"businessweek-v2"},"containerId":"leaderboard-businessweek-v2"}</script>
+            <div class="leaderboard-ad-dummy"></div>
+        </div>
+    </div>
+    
+                <style>
+@font-face {
+    font-family: 'AvenirNextPForBBG-Regular';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-09359fef74.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Regular-91967b382a.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AvenirNextPForBBG-Demi';
+    
+    
+    src: url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-62597c630e.woff2') format('woff2'),
+         url('https://assets.bwbx.io/font-service/fonts/AvenirNextPForBBG-Demi-d7e488b711.woff') format('woff');
+}
+#bb-that a{text-decoration:none}#bb-that .bb-that__sitemap{overflow:hidden;position:relative}#bb-that .bb-that__sitemap{max-height:0;-webkit-transition:max-height 0.6s ease-in-out;-o-transition:max-height 0.6s ease-in-out;transition:max-height 0.6s ease-in-out}#bb-that{background:#000;position:relative}@media (max-width: 759px){#bb-that{display:none}}#bb-that .bb-that--container{margin:0 auto;padding:0 30px;box-sizing:content-box}@media (min-width: 1020px){#bb-that .bb-that--container{padding:0}}#bb-that .bb-that--container:before,#bb-that .bb-that--container:after{content:" ";display:table}#bb-that .bb-that--container:after{clear:both}@media (min-width: 760px){#bb-that .bb-that--container{width:680px}}@media (min-width: 1020px){#bb-that .bb-that--container{width:980px}}@media (min-width: 1280px){#bb-that .bb-that--container{width:1160px}}#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:15px;line-height:30px;padding:15px}@media (min-width: 760px){#bb-that .bb-that-header{font-family:"AvenirNextPForBBG-Demi","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:12px;height:30px;padding:0}}#bb-that .bb-that-header__link{position:relative;display:block}@media (min-width: 760px){#bb-that .bb-that-header__link{display:inline-block;padding:0 12px}}#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{color:#f3f4ef;font-family:inherit;font-size:inherit;line-height:inherit}@media (min-width: 760px){#bb-that .bb-that-header__link,#bb-that .bb-that-header__link>span{line-height:1;-webkit-font-smoothing:subpixel-antialiased;-moz-osx-font-smoothing:auto}}#bb-that .bb-that-header__link:first-child{padding-left:0}#bb-that .bb-that-header__link:after{font-size:9px;position:absolute}@media (min-width: 760px){#bb-that .bb-that-header__link+.bb-that-header__link{border-left:1px solid #b3b3b3}#bb-that .bb-that-header__link+.bb-that-header__link:after{top:-3px}}#bb-that .bb-that-header__link>span:first-of-type{display:inline}#bb-that .bb-that-header__link>span:first-of-type+span{display:none}@media (max-width: 1019px){#bb-that .bb-that-header__link>span:first-of-type{display:none}#bb-that .bb-that-header__link>span:first-of-type+span{display:inline}}#bb-that .bb-that-header--sitemap-trigger{padding:0 27px 0 12px}#bb-that .bb-that-header--sitemap-trigger:after{display:inline-block;content:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2015%2015%27%3E%3Cpath%20d%3D%27M0,2.5l7.5,10l7.5-10H0z%27%20fill%3D%27%23fff%27%2F%3E%3C%2Fsvg%3E");height:9px;width:9px;line-height:initial;opacity:0.7;-webkit-transition:opacity 0.1s ease-out;-o-transition:opacity 0.1s ease-out;transition:opacity 0.1s ease-out}#bb-that .bb-that-header--sitemap-trigger:hover:after{opacity:1}#bb-that .bb-that-header--sitemap-trigger:after{height:9px;width:9px;-webkit-transform:rotate(0);-ms-transform:rotate(0);-o-transform:rotate(0);transform:rotate(0);-webkit-transition:transform 0.35s ease;-o-transition:transform 0.35s ease;transition:transform 0.35s ease}@media (min-width: 760px){#bb-that .bb-that-header--sitemap-trigger:after{right:12px;top:2px;line-height:1}}@media (min-width: 1020px){#bb-that .bb-that--open{border-bottom:1px solid #474747}}#bb-that .bb-that--open .bb-that-header--sitemap-trigger:after{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}
+</style>
+<div id="bb-that">
+    <nav class="bb-that">
+        <header class="bb-that-header bb-that--container">
+        <a class="bb-that-header__link bb-that-header--sitemap-trigger" href="http://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg the Company &amp; Its Products</a><a class="bb-that-header__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom"><span>Bloomberg Anywhere Remote Login</span><span>Bloomberg Anywhere Login</span></a><a class="bb-that-header__link" href="http://www.bloomberg.com/professional/request-demo/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-DEMO-bbgmenu">Bloomberg Terminal Demo Request</a>    </header>
+        <div class="bb-that__sitemap bb-that--container">
+    <div class="bb-that__close"></div>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-md bb-that--visible-lg">
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Products and Account Information</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></div></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/bloomberglaw/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/tax?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Tax</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/ehs/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Environment</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--md">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergapps.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+            </ul>
+
+        <ul class="bb-that__sitemap-sections bb-that--visible-sm">
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Company</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/london/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg London</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/company/?utm_source=bloomberg-menu&amp;utm_medium=bcom">About</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/careers/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Careers</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/diversity-inclusion/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Diversity and Inclusion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/philanthropy/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Philanthropy and Engagement</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/bcause/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Sustainability</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.techatbloomberg.com?utm_source=bloomberg-menu&amp;utm_medium=bcom">Tech</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Communications</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/announcements/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Announcements</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/press-contacts/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Press Contacts</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Follow</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a href="http://www.facebook.com/Bloomberglp" class="bb-that-category__social-link bb-that--icon-facebook" target="_blank">Facebook</a></li><li class="bb-that-category__item"><a href="https://twitter.com/bloomberg" class="bb-that-category__social-link bb-that--icon-twitter" target="_blank">Twitter</a></li><li class="bb-that-category__item"><a href="https://www.linkedin.com/company/2494" class="bb-that-category__social-link bb-that--icon-linkedin" target="_blank">LinkedIn</a></li><li class="bb-that-category__item"><a href="https://www.instagram.com/bloomberg/" class="bb-that-category__social-link bb-that--icon-instagram" target="_blank">Instagram</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/solution/bloomberg-terminal/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TERMINAL-bbgmenu">Bloomberg Terminal</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/execution-order-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-EXORDMGMT-bbgmenu">Execution and<br /> Order Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/data-and-content/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-DATACONT-bbgmenu">Data and Content</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/financial-data-management/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-FINDATA-bbgmenu">Financial Data<br /> Management</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/integration-and-distribution/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-INTEGDIST-bbgmenu">Integration and<br /> Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/professional/solution/tradebook/?utm_source=bloomberg-menu&amp;utm_medium=bcom&amp;bbgsum=DG-WS-PROF-SOLU-TBOOK-bbgmenu">Bloomberg<br /> Tradebook</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Industry Products</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/bloomberglaw/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Law</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/tax?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Tax</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bgov.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Government</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bna.com/ehs/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Environment</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://about.bnef.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg New Energy Finance</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/markets/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Markets</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/technology/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Technology</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/pursuits/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Pursuits</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/politics/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Politics</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/view/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Opinion</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloomberg.com/businessweek/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg<br /> Businessweek</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberglive.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Live Conferences</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergapps.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Apps</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://www.bloombergradio.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Radio</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/live?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Television</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/company/news-bureaus/?utm_source=bloomberg-menu&amp;utm_medium=bcom">News Bureaus</a></li></ul></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Media Services</h2>
+    <ul class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/distribution?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Media Distribution</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloombergmedia.com/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Advertising</a></li></ul></section>    </li>
+                    <li class="bb-that__col bb-that__col--sm">
+            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Bloomberg</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text">Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world.</p></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">For Customers</h2>
+    <div class="bb-that-category__content"><li class="bb-that-category__item"><a class="bb-that-category__link" href="https://bba.bloomberg.net/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Bloomberg Anywhere Remote Login</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://www.bloomberg.com/professional/downloads/?utm_source=bloomberg-menu&amp;utm_medium=bcom">Software Updates</a></li><li class="bb-that-category__item"><a class="bb-that-category__link" href="http://service.bloomberg.com/portal/sessions/new?utm_source=bloomberg-menu&amp;utm_medium=bcom">Manage Contracts and Orders</a></li></div></section>            <section class="bb-that-category">
+    <h2 class="bb-that-category__title">Support</h2>
+    <div class="bb-that-category__content"><p class="bb-that-category__text"><span>Americas</span>+1 212 318 2000</p><p class="bb-that-category__text"><span>EMEA</span>+44 20 7330 7500</p><p class="bb-that-category__text"><span>Asia Pacific</span>+65 6212 1000</p></div></section>    </li>
+            </ul>
+</div>    </nav>
+</div>
+
+                
+        <script type="text/javascript">
+            (function () {
+                if(typeof window.CustomEvent === "function") return false;
+                function CustomEvent(event, p) {
+                    p = p || {bubbles: false, cancelable: false, detail: undefined};
+                    var e = document.createEvent("CustomEvent");
+                    e.initCustomEvent(event, p.bubbles, p.cancelable, p.detail);
+                    return e;
+                }
+                CustomEvent.prototype = window.Event.prototype;
+                window.CustomEvent = CustomEvent;
+            })();
+        </script>
+    
+                
+        <script class="dependencies" type="application/json">
+            {"assetPrefix":"https://assets.bwbx.io/s3/javelin","js":["/public/hub/js/event_bus/event_bus-0933a41869.sync.js","/public/hub/js/nav_bb/nav-33c71fcfdf.js","/public/hub/js/leaderboard/leaderboard-0f386e39a0.tablet-desktop.js","/public/hub/js/breaking_news_placeholder/breaking_news_placeholder-fea849b094.js","/public/hub/js/timestamp/timestamp-360eca4a76.js","/public/hub/js/initialize_ads/initialize_ads-2b6ca35ac2.js","/public/hub/js/initialize_pianola/initialize_pianola-456e8efe70.js","/public/hub/js/dependencies/dependencies-42fb11fd06.js","/public/hub/js/module/hero/HeroView-e17ca46b45.js","/public/hub/js/module/story_package/StoryPackageView-9a3f1ba549.js","/public/hub/js/module/single_story/SingleStoryView-95e88ed464.js","/public/hub/js/module/grid/GridView-3dfbd9ee54.js","/public/hub/js/module/carousel/CarouselView-b9c07bcf0f.js","/public/hub/js/module/carousel/carousel-7b60c3be86.js","/public/hub/js/module/story_list/StoryListView-1bdc454a73.js"],"css":["/public/hub/css/nav_bb/nav-0adff56d2d.css","/public/hub/css/leaderboard/leaderboard-54363c9133.css","/public/hub/css/leaderboard/leaderboard-290beb4fc2.tablet-desktop.css","/public/hub/css/breaking_news_placeholder/breaking_news-a83e928d8b.desktop.css","/public/hub/css/application/application-c8157b4591.css","/public/hub/css/layout/layout-b2e0835383.desktop.css","/public/hub/css/layout/layout-92d6edbdf2.small_desktop.css","/public/hub/css/layout/layout-28814c2100.large_desktop.css","/public/hub/css/layout/layout-fd15479ee1.tablet.css","/public/hub/css/layout/layout-66e27e742f.mobile.css","/public/hub/css/theme/dark-306210ed8f.css","/public/hub/css/page/businessweek-v2/borders-a17c1b8a45.css","/public/hub/css/page/businessweek-v2/miniplayer-9b4940ba10.css","/public/hub/css/module/hero/_variation/businessweek_white-7b16dc4b7e.css","/public/hub/css/module/hero/_variation/hfs_2_flex-6409113da7.css","/public/hub/css/module/hero/hero-aba1cd4af2.css","/public/hub/css/module/story_package/_variation/simple-733cdcb30b.css","/public/hub/css/module/story_package/_variation/3_up_autoplay-0dcbae2772.css","/public/hub/css/module/story_package/_variation/3_up_deks-8de123cc69.css","/public/hub/css/module/story_package/_variation/3_up_heds_only-6797285351.css","/public/hub/css/module/story_package/_variation/3_up_heds_only_opinion-d3e2adf525.css","/public/hub/css/module/story_package/_variation/3_up_images-8ff0980606.css","/public/hub/css/module/story_package/_variation/3_up_images_opinion-546b5c0def.css","/public/hub/css/module/story_package/_variation/4_up_deks-a25fc660e4.css","/public/hub/css/module/story_package/_variation/4_up_deks_opinion-60400b9d61.css","/public/hub/css/module/story_package/_variation/4_up_heds_only-0ef0af488b.css","/public/hub/css/module/story_package/_variation/4_up_images-cd8abc3f57.css","/public/hub/css/module/story_package/story_package-5ab835fb2b.desktop.css","/public/hub/css/module/story_package/story_package-00f080bde8.small_desktop.css","/public/hub/css/module/story_package/story_package-69c6692e3c.large_desktop.css","/public/hub/css/module/story_package/story_package-4912fb4914.tablet.css","/public/hub/css/module/story_package/story_package-f8cf58da10.mobile.css","/public/hub/css/module/single_story/_theme/businessweek-7c6812b578.css","/public/hub/css/module/single_story/_variation/image_left-978111cd6e.css","/public/hub/css/module/single_story/single_story-a0f200199b.desktop.css","/public/hub/css/module/single_story/single_story-95a843594e.small_desktop.css","/public/hub/css/module/single_story/single_story-f728634d9e.large_desktop.css","/public/hub/css/module/single_story/single_story-a637c6f425.tablet.css","/public/hub/css/module/single_story/single_story-2865912d14.mobile.css","/public/hub/css/module/grid/_variation/imageless-a08db31657.css","/public/hub/css/module/grid/grid-d6cb455f53.css","/public/hub/css/module/carousel/_variation/bw_covers-505bdf7b40.css","/public/hub/css/module/carousel/carousel-18752f906b.small_desktop.css","/public/hub/css/module/carousel/carousel-5b0398682b.large_desktop.css","/public/hub/css/module/carousel/carousel-3cc668d5bb.tablet-desktop.css","/public/hub/css/module/carousel/carousel-18749c8233.tablet.css","/public/hub/css/module/carousel/carousel-f2dd75e41a.mobile.css","/public/hub/css/module/ad/ad-6063190bc7.css","/public/hub/css/module/story_list/_variation/simple-ce1137b769.css","/public/hub/css/module/story_list/_theme/opinion-blue-b7a0642dd1.css","/public/hub/css/module/story_list/story_list-3227166815.desktop.css","/public/hub/css/module/story_list/story_list-b335f85dac.small_desktop.css","/public/hub/css/module/story_list/story_list-8836cc73cc.large_desktop.css","/public/hub/css/module/story_list/story_list-94bd918e66.tablet-desktop.css","/public/hub/css/module/story_list/story_list-2f6edbc8cd.tablet.css","/public/hub/css/module/story_list/story_list-efc3844d5e.mobile-tablet.css","/public/hub/css/module/story_list/story_list-f7825a430a.mobile.css","/public/hub/css/module/ad/_theme/businessweek-5ea1e8099d.css","/public/hub/css/module/single_story/_theme/bw_pursuits-737733bcda.css","/public/hub/css/module/story_package/_theme/bw_pursuits-286044ed0b.css","/public/hub/css/module/story_package/_variation/single_story_columns-5ba57309ba.css","/public/hub/css/module/story_list/_variation/dark_rail-63a15df8d1.css","/public/hub/css/module/story_list/_variation/bullets-48956a70c3.css"]}
+        </script>
+                
+        <div class="bb-nav-placeholder">
+            <div class="bb-nav-root"> <nav is="bb-nav" class="bb-nav" id="bb-nav" data-theme="businessweek" data-persist-for="index" data-mode="index" data-reg-env="production" data-progress="0" data-headline="" data-base="https://nav.bloomberg.com" data-tracker-category="nav" data-tracker-events="click" data-tracker-label="header" data-site="global" data-persist-for="none" > <div class="bb-nav__container"> <div class="bb-nav__content"> <h1 class="bb-nav-logo" is="bb-nav-logo"> <div class="bb-nav-logo__rubix" data-tracker-label="bomb.open.rubix_button" data-tracker-action="click"></div> <div class="bb-nav-logo__menu" data-tracker-label="bomb.open.menu_button" data-tracker-action="click"> <div class="bb-nav-logo__menu-link">MENU</div> </div> <a href="http://www.bloomberg.com" class="bb-nav-logo__link" data-tracker-label="logo" data-tracker-action="click"></a> <div class="bb-nav-logo__arrow"></div> </h1><div class="bb-nav-content-logo" is="bb-nav-content-logo"> <h1 class="bb-nav-content-logo__headline" data-tracker-label="content"> <a href="http://www.bloomberg.com" class="bb-nav-content-logo__site" data-tracker-label="logo" data-tracker-action="click"></a> </h1> <div class="bb-nav-content-logo__down-arrow" data-tracker-label="expand" data-tracker-action="click"></div> </div><h2 class="bb-nav-headline"></h2><bb-experience-select class="bb-nav-experience-select"></bb-experience-select><div class="bb-nav-categories"> <ul class="bb-nav-categories__container"> <li class="bb-nav-categories__category bb-nav-categories__about has-submenu"> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/" data-tracker-label="about_the_company" data-tracker-action="click"> About The Company </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/company/london" data-tracker-label="bloomberg_london" data-tracker-action="click"> Bloomberg London </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__home"> <a href="http://www.bloomberg.com" class="bb-nav-categories__home-link"> Homepage </a> </li> <li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="markets" data-vertical="markets" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/markets" class="bb-nav-categories__link" data-category-path="/markets" data-category-vertical="markets" target="_self" data-tracker-action="click">Markets</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_stocks" href="https://www.bloomberg.com/markets/stocks" data-tracker-label="stocks" data-tracker-action="click"> Stocks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_currencies" href="https://www.bloomberg.com/markets/currencies" data-tracker-label="currencies" data-tracker-action="click"> Currencies </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_fixed_income" href="https://www.bloomberg.com/markets/fixed-income" data-tracker-label="fixed_income" data-tracker-action="click"> Fixed Income </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_etfs" href="https://www.bloomberg.com/markets/etfs" data-tracker-label="etfs" data-tracker-action="click"> ETFs </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_commodities" href="https://www.bloomberg.com/markets/commodities" data-tracker-label="commodities" data-tracker-action="click"> Commodities </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_rates_bonds" href="https://www.bloomberg.com/markets/rates-bonds" data-tracker-label="rates_plus_bonds" data-tracker-action="click"> Rates + Bonds </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economics" href="https://www.bloomberg.com/markets/economics" data-tracker-label="economics" data-tracker-action="click"> Economics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_magazine" href="https://www.bloomberg.com/markets/markets-magazine" data-tracker-label="magazine" data-tracker-action="click"> Magazine </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_benchmark" href="https://www.bloomberg.com/markets/benchmark" data-tracker-label="benchmark" data-tracker-action="click"> Benchmark </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_watchlist" href="https://www.bloomberg.com/markets/watchlist" data-tracker-label="watchlist" data-tracker-action="click"> Watchlist </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/markets_economic_calendar" href="https://www.bloomberg.com/markets/economic-calendar" data-tracker-label="economic_calendar" data-tracker-action="click"> Economic Calendar </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="technology" data-vertical="technology" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/technology" class="bb-nav-categories__link" data-category-path="/technology" data-category-vertical="technology" target="_self" data-tracker-action="click">Tech</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_us" href="https://www.bloomberg.com/topics/silicon-valley" data-tracker-label="us" data-tracker-action="click"> U.S. </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_global" href="https://www.bloomberg.com/topics/global-tech" data-tracker-label="global" data-tracker-action="click"> Global </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_start_ups" href="https://www.bloomberg.com/topics/startups" data-tracker-label="startups" data-tracker-action="click"> Startups </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/technology_bloomberg_tv" href="https://www.bloomberg.com/shows/bloomberg-technology" data-tracker-label="bloomberg_technology_tv" data-tracker-action="click"> Bloomberg Technology TV </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_gadgets-with-gurman" href="https://www.bloomberg.com/news/special-reports/gadgets-with-gurman" data-tracker-label="gadgets_with_gurman" data-tracker-action="click"> Gadgets With Gurman </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_digital-defense" href="https://www.bloomberg.com/news/special-reports/digital-defense" data-tracker-label="digital_defense" data-tracker-action="click"> Digital Defense </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/studio_1" href="https://www.bloomberg.com/studio-1" data-tracker-label="studio_10" data-tracker-action="click"> Studio 1.0 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/news_special-reports_focus-on-infrastructure" href="https://www.bloomberg.com/news/special-reports/focus-on-infrastructure" data-tracker-label="focus_on__infrastructure" data-tracker-action="click"> Focus On: Infrastructure </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="pursuits" data-vertical="pursuits" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/pursuits" class="bb-nav-categories__link" data-category-path="/pursuits" data-category-vertical="pursuits" target="_self" data-tracker-action="click">Pursuits</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_autos" href="https://www.bloomberg.com/pursuits/cars-bikes" data-tracker-label="cars_and_bikes" data-tracker-action="click"> Cars & Bikes </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_style" href="https://www.bloomberg.com/pursuits/style-grooming" data-tracker-label="style_and_grooming" data-tracker-action="click"> Style & Grooming </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_scene" href="https://www.bloomberg.com/pursuits/spend" data-tracker-label="spend" data-tracker-action="click"> Spend </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_timepieces" href="https://www.bloomberg.com/pursuits/watches-gadgets" data-tracker-label="watches_and_gadgets" data-tracker-action="click"> Watches & Gadgets </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_food" href="https://www.bloomberg.com/pursuits/food-drinks" data-tracker-label="food_and_drinks" data-tracker-action="click"> Food & Drinks </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_travel" href="https://www.bloomberg.com/pursuits/travel" data-tracker-label="travel" data-tracker-action="click"> Travel </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_property" href="https://www.bloomberg.com/pursuits/real-estate" data-tracker-label="real_estate" data-tracker-action="click"> Real Estate </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/pursuits_art" href="https://www.bloomberg.com/pursuits/art-design" data-tracker-label="art_and_design" data-tracker-action="click"> Art & Design </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/shows/brilliant-ideas" data-tracker-label="brilliant_ideas" data-tracker-action="click"> Brilliant Ideas </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="politics" data-vertical="politics" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/politics" class="bb-nav-categories__link" data-category-path="/politics" data-category-vertical="politics" target="_self" data-tracker-action="click">Politics</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/global-risk-briefing/" data-tracker-label="global_risk_briefing" data-tracker-action="click"> Global Risk Briefing </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2018-midterm-elections-preview/" data-tracker-label="all_signs_point_to_big_democratic_wins_in_2018" data-tracker-action="click"> All Signs Point to Big Democratic Wins in 2018 </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/news/features/2017-12-11/trump-takes-credit-for-killing-hundreds-of-regulations-that-were-already-dead" data-tracker-label="trump_takes_credit_for_killing_hundreds_of_regulations_that_were_already_dead" data-tracker-action="click"> Trump Takes Credit for Killing Hundreds of Regulations That Were Already Dead </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-china-party-congress/" data-tracker-label="how_china’s_top_leaders_came_into_power" data-tracker-action="click"> How China’s Top Leaders Came Into Power </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics/2017-europe-populist-right/" data-tracker-label="how_the_populist_right_is_redrawing_the_map_of_europe" data-tracker-action="click"> How the Populist Right Is Redrawing the Map of Europe </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="opinion" data-vertical="opinion" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/opinion" data-category-vertical="opinion" target="_self" data-tracker-action="click">Opinion</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_view" href="https://www.bloomberg.com/view/" data-tracker-label="view" data-tracker-action="click"> View </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/opinion_gadfly" href="https://www.bloomberg.com/gadfly/" data-tracker-label="gadfly" data-tracker-action="click"> Gadfly </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="businessweek" data-vertical="businessweek" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <a href="http://www.bloomberg.com/businessweek" class="bb-nav-categories__link" data-category-path="/businessweek" data-category-vertical="businessweek" target="_self" data-tracker-action="click">Businessweek</a> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/magazine/businessweek/18_15" data-tracker-label="latest_issue" data-tracker-action="click"> Latest Issue </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/podcasts/debrief" data-tracker-label="debrief_podcast" data-tracker-action="click"> Debrief Podcast </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="https://nav.bloomberg.com/global/api/businessweek_subscribe" href="https://subscribe.businessweek.com/servlet/OrdersGateway?cds_mag_code=BWK&cds_page_id=221240&source=coverstoryrail" data-tracker-label="subscribe" data-tracker-action="click"> Subscribe </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li><li is="bb-nav-category" class="bb-nav-categories__category has-submenu " data-tracker-label="footer" data-vertical="footer" > <div class="bb-nav-categories__category-container"> <div class="bb-nav-categories__notch"></div> <span class="bb-nav-categories__link" data-category-path="/footer" data-category-vertical="footer" target="_self" data-tracker-action="click">More</span> </div> <div class="bb-nav-submenu" is="bb-nav-submenu"> <div class="bb-nav-submenu__content"> <div class="bb-nav-submenu__inner"> <ul class="bb-nav-submenu__categories"> <li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/crypto" data-tracker-label="crypto" data-tracker-action="click"> Crypto </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/hyperdrive" data-tracker-label="hyperdrive" data-tracker-action="click"> Hyperdrive </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/climate-changed" data-tracker-label="climate_changed" data-tracker-action="click"> Climate Changed </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/international-womens-day-2018" data-tracker-label="focus_on__women" data-tracker-action="click"> Focus On: Women </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/graphics" data-tracker-label="graphics" data-tracker-action="click"> Graphics </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/billionaires/" data-tracker-label="billionaires" data-tracker-action="click"> Billionaires </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/personal-finance" data-tracker-label="personal_finance" data-tracker-action="click"> Personal Finance </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/segments/inspire-go" data-tracker-label="inspire_go" data-tracker-action="click"> Inspire GO </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/sponsor/partnerships/" data-tracker-label="sponsored_content" data-tracker-action="click"> Sponsored Content </a> </li><li class="bb-nav-submenu__category"> <a class="bb-nav-submenu__category-link" data-subroute="" href="https://www.bloomberg.com/tips/" data-tracker-label="send_tips" data-tracker-action="click"> Send Tips </a> </li> </ul> <div class="bb-nav-submenu__cards" hidden></div> </div> </div> </div> </li> <li class="bb-nav-categories__category bb-nav-categories__sign-in"> <a id="bb-nav-dropdown-sign-in" class="bb-nav-categories__sign-in-link" href="https://login.bloomberg.com/?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> </li> <li class="bb-nav-categories__category bb-nav-categories__experience"> <bb-experience-select class="bb-nav-mobile-experience-select"></bb-experience-select> </li> </ul> </div><div class="bb-nav-touts" is="bb-nav-touts" data-tracker-label="tout"> <a target="_self" id="bb-nav-sign-in" class="bb-nav-touts__link" href="https://login.bloomberg.com/login?in_source=login_direct" data-tracker-label="sign_in" data-tracker-action="click"> Sign In </a> <a target="_blank" class="bb-nav-touts__subscribe-link" href="http://businessweekmag.com/navbartextlink" data-vertical-target="businessweek" data-tracker-label="subscribe" data-tracker-action="click">Subscribe</a> </div><div class="bb-nav-social-container"> <bb-social class="bb-nav-social"></bb-social> </div><div class="bb-nav-search" is="bb-nav-search" data-tracker-label="search"> <form class="bb-nav-search__form" action="/search" method="get" autocomplete="false"> <input type="text" class="bb-nav-search__input" placeholder="What are you searching for?" name="query" autocomplete="off"/> </form> <div class="bb-search-drawer" tabindex="0"> <div class="bb-search-drawer__content"> <bb-quick-links></bb-quick-links> <bb-search-suggestions></bb-search-suggestions> </div> </div> </div> <span class="bb-nav-search__icon" data-tracker-label="search.icon" data-tracker-action="click"></span> </div> </div> <div class="bb-progress"> <div class="bb-progress__status"></div> </div> </nav> </div>
+        </div>
+    
+                <div class='breaking-news-placeholder' data-region='' data-publishedstate='PUBLISHED'></div>
+                <main class="hub-main" data-path="/businessweek-v2">
+                    <section class="hub-zone-full" data-zoneid="Hero">
+        <section class="hub-zone-full__content">
+        
+        <section class="hero-module" id="hero1" data-variation="businessweek_white" data-theme="">
+            
+        <article class="hero-module__story" data-id="P6S5ZF6TTDS001" data-type="feature"  data-updated-at="2018-04-09T09:00:18.846Z">
+            <div class="hero-module__logo-links">
+                
+        <div class="hero-module__logo businessweek_white"></div>
+    
+                
+        <div class="hero-module__links">
+            
+        <a href="http://businessweekmag.com/bwhomepagesubscribe" class="hero-module__link">Subscribe</a>
+    
+            
+        <a href="https://login.bloomberg.com/account" class="hero-module__link">Settings</a>
+    
+        </div>
+    
+            </div>
+            <section class="hero-module__image">
+                <a href="/news/features/2018-04-09/the-race-to-cash-in-on-trump-s-invisible-high-tech-border-wall" class="hero-module__image-link">
+                    <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il74GTKgCJnM/v2/1160x773.jpg" class="hero-module__image-img">
+                </a>
+            </section>
+            <div class="hero-module__info">
+                <a href="/news/features/2018-04-09/the-race-to-cash-in-on-trump-s-invisible-high-tech-border-wall" class="hero-module__headline-link">
+                    America’s Virtual Border Wall Is a 1,954-Mile-Long Money Pit
+                </a>
+                
+        <div class="hero-module__byline">by Lauren Etter and Karen Weise</div>
+    
+                
+            </div>
+        </article>
+    
+        </section>
+    
+    </section>
+    </section><section class="hub-zone-righty" data-zoneid="Top">
+        <section class="hub-zone-righty__content">
+        
+        <section class="story-package-module" id="today" data-theme="" data-variation="simple">
+            
+        <h2 class="story-package-module__title">Latest</h2>
+    
+            
+            <div class="story-package-module__stories">
+                
+                
+        <article class="story-package-module__story" data-id="P6XKAY6JTSFH01" data-type="article"  >
+            <div class="story-package-module__story__eyebrow">charted</div>
+        <div class="story-package-module__story__image 225x275">
+            <a href="/news/articles/2018-04-09/america-s-budget-deficit-to-widen-to-1-trillion-by-2020" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id0RAIDvnnSo/v0/225x275.png">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-04-09/america-s-budget-deficit-to-widen-to-1-trillion-by-2020" class="story-package-module__story__headline-link">
+                America’s Budget Deficit to Widen to $1 Trillion by 2020
+            </a>
+        </h3>
+    
+        </article>
+    
+        <article class="story-package-module__story" data-id="P6X9486JTSE801" data-type="article"  >
+            <div class="story-package-module__story__eyebrow">charted</div>
+        <div class="story-package-module__story__image 225x275">
+            <a href="/news/articles/2018-04-09/u-s-investors-desert-european-equities" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iq9egBTXYat0/v0/225x275.png">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-04-09/u-s-investors-desert-european-equities" class="story-package-module__story__headline-link">
+                U.S. Investors Desert European Equities
+            </a>
+        </h3>
+    
+        </article>
+    
+        <article class="story-package-module__story" data-id="P6WLUM6S972801" data-type="article"  >
+            <div class="story-package-module__story__eyebrow">Charted</div>
+        <div class="story-package-module__story__image 225x275">
+            <a href="/news/articles/2018-04-09/iron-ore-superpower-says-china-s-import-boom-to-level-off" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.0UVZMZK8kc/v0/225x275.png">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-04-09/iron-ore-superpower-says-china-s-import-boom-to-level-off" class="story-package-module__story__headline-link">
+                Iron Ore Superpower Says China’s Import Boom to Level Off
+            </a>
+        </h3>
+    
+        </article>
+    
+        <article class="story-package-module__story" data-id="P451756JIJUQ01" data-type="article"  >
+            <div class="story-package-module__story__eyebrow">QuickTake</div>
+        <div class="story-package-module__story__image 225x275">
+            <a href="/news/articles/2018-04-09/divestment-hurt-apartheid-can-it-save-the-planet-quicktake" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idykNmnDfTSM/v1/225x275.jpg">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-04-09/divestment-hurt-apartheid-can-it-save-the-planet-quicktake" class="story-package-module__story__headline-link">
+                Divestment Hurt Apartheid. Can It Save the Planet?
+            </a>
+        </h3>
+    
+        </article>
+    
+            </div>
+            
+        </section>
+    
+        <section class="single-story-module" id="single_story_5" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="article" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Game Changer</h5>
+            <article class="single-story-module__story" data-id="P6S8FK6JIJVF01"  >
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/articles/2018-04-09/neal-katyal-runs-a-legal-swat-team-to-combat-president-trump" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igYxyXFwhdDQ/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Game Changer</section><a href="/news/articles/2018-04-09/neal-katyal-runs-a-legal-swat-team-to-combat-president-trump" class="single-story-module__headline-link">Neal Katyal Runs a Legal SWAT Team to Combat President Trump</a><section class="single-story-module__summary">The former solicitor general once argued for the White House at the Supreme Court. Now he’s on the other side.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Lizette Chapman</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-09T16:00:12.638Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 12:00 PM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_2" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="feature" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Technology</h5>
+            <article class="single-story-module__story" data-id="P6SAW26JTSE801"  data-updated-at="2018-04-09T09:00:11.944Z">
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/features/2018-04-09/yes-these-chickens-are-on-the-blockchain" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyWcuTlMz.EQ/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Technology</section><a href="/news/features/2018-04-09/yes-these-chickens-are-on-the-blockchain" class="single-story-module__headline-link">Yes, These Chickens Are on the Blockchain</a><section class="single-story-module__summary">Can the technology improve food safety?</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Luzi-Ann Javier</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-09T09:00:11.944Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 5:00 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_1" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="article" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Gadfly</h5>
+            <article class="single-story-module__story" data-id="P6X0S96S972901"  >
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/articles/2018-04-09/qatar-s-waiting-game-might-have-worked" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOXuEYe2b4HM/v1/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Gadfly</section><a href="/news/articles/2018-04-09/qatar-s-waiting-game-might-have-worked" class="single-story-module__headline-link">Qatar's Waiting Game Might Have Worked</a><section class="single-story-module__summary">A decent premium can do wonders to ease investor concern on political risk.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Marcus Ashworth</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-09T11:19:21.425Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 7:19 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_6" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="feature" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Business</h5>
+            <article class="single-story-module__story" data-id="P6BHLW6TTDS301"  >
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/features/2018-03-29/the-gender-pay-gap-is-real-say-new-numbers-from-the-u-k" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_QEAYRKPO6Q/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Business</section><a href="/news/features/2018-03-29/the-gender-pay-gap-is-real-say-new-numbers-from-the-u-k" class="single-story-module__headline-link">New Numbers Show the Gender Pay Gap Is Real</a><section class="single-story-module__summary">Corporate reports from the U.K. give the clearest picture yet.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Claire Suddath</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-29T04:01:19.525Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 12:01 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_4" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="article" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Remarks</h5>
+            <article class="single-story-module__story" data-id="P6PKJB6KLVS001"  data-updated-at="2018-04-05T10:45:11.294Z">
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/articles/2018-04-05/this-weekend-aging-vermont-will-try-to-make-tourists-into-residents" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iainygVymBU4/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Remarks</section><a href="/news/articles/2018-04-05/this-weekend-aging-vermont-will-try-to-make-tourists-into-residents" class="single-story-module__headline-link">This Weekend, Aging Vermont Will Try to Make Tourists Into Residents</a><section class="single-story-module__summary">A dozen out-of-staters will get the red carpet treatment from the Green Mountain State.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Peter Coy</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-05T10:45:11.294Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 5, 2018, 6:45 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_8" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="article" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Politics</h5>
+            <article class="single-story-module__story" data-id="P6O93Z6K50XS01"  data-updated-at="2018-04-04T17:40:47.034Z">
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/articles/2018-04-04/china-tariffs-could-wreck-republicans-in-november" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGoM11_clE9M/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Politics</section><a href="/news/articles/2018-04-04/china-tariffs-could-wreck-republicans-in-november" class="single-story-module__headline-link">China Tariffs Could Wreck Republicans in November</a><section class="single-story-module__summary">Pain from trade war could hit Midwestern states with pivotal Senate and gubernatorial races in 2018. </section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Joshua Green</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-04T17:40:47.034Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 4, 2018, 1:40 PM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_7" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="feature" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Feature</h5>
+            <article class="single-story-module__story" data-id="P6BGIA6TTDS001"  data-updated-at="2018-03-29T04:01:12.381Z">
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/features/2018-03-29/how-volkswagen-walked-away-from-a-near-fatal-crash" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iudUQamCjUdg/v0/840x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Feature</section><a href="/news/features/2018-03-29/how-volkswagen-walked-away-from-a-near-fatal-crash" class="single-story-module__headline-link">How Volkswagen Walked Away From a Near-Fatal Crash</a><section class="single-story-module__summary">The diesel cheating scandal nearly ended the company. Now it’s the No. 1 car seller on the planet, with staggering electric goals.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Matthew Campbell, Christoph Rauwald and Chris Reiter</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T04:01:12.381Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 12:01 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="single-story-module" id="single_story_9" data-variation="image_left" data-layout="" data-theme="businessweek" data-type="article" data-orientation="landscape">
+            <h5 class="single-story-module__extraneous-descriptor">Politics</h5>
+            <article class="single-story-module__story" data-id="P6O6AZ6TTDS501"  >
+                
+                <section class="single-story-module__image 840x600">
+        <a href="/news/articles/2018-04-04/the-postal-service-is-in-trouble-but-trump-s-tweets-won-t-fix-it" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0kHghxLKjzY/v0/-1x600.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Politics</section><a href="/news/articles/2018-04-04/the-postal-service-is-in-trouble-but-trump-s-tweets-won-t-fix-it" class="single-story-module__headline-link">The Postal Service Is in Trouble, but Trump’s Tweets Won’t Fix It</a><section class="single-story-module__summary">The USPS needs more customers like Amazon, not fewer.</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Devin Leonard</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-04T16:40:11.808Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 4, 2018, 12:40 PM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="grid-module" id="hub_grid" data-variation="imageless" data-theme="">
+            
+        <h3 class="grid-module__title">
+            In Case You Missed It
+        </h3>
+            <div class="grid-module__stories">
+                
+        <article class="grid-module-story" data-id="P6O93Z6K50XS01" data-type="article"  data-updated-at="2018-04-04T17:40:47.034Z">
+            <div class="grid-module-story__info">
+                <div class="grid-module-story__label">Politics</div>
+                <a href="/news/articles/2018-04-04/china-tariffs-could-wreck-republicans-in-november" class="grid-module-story__image-link">
+        <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGoM11_clE9M/v0/600x400.jpg" class="grid-module-story__image">
+    </a>
+                <a class="grid-module-story__headline-link" href="/news/articles/2018-04-04/china-tariffs-could-wreck-republicans-in-november">China Tariffs Could Wreck Republicans in November</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Joshua Green</span>
+        </section>
+    
+            </div>
+        </article>
+    
+        <article class="grid-module-story" data-id="P6O6AZ6TTDS501" data-type="article"  >
+            <div class="grid-module-story__info">
+                <div class="grid-module-story__label">Politics</div>
+                <a href="/news/articles/2018-04-04/the-postal-service-is-in-trouble-but-trump-s-tweets-won-t-fix-it" class="grid-module-story__image-link">
+        <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0kHghxLKjzY/v0/-1x400.jpg" class="grid-module-story__image">
+    </a>
+                <a class="grid-module-story__headline-link" href="/news/articles/2018-04-04/the-postal-service-is-in-trouble-but-trump-s-tweets-won-t-fix-it">The Postal Service Is in Trouble, but Trump’s Tweets Won’t Fix It</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Devin Leonard</span>
+        </section>
+    
+            </div>
+        </article>
+    
+        <article class="grid-module-story" data-id="P6MMAC6JTSHI01" data-type="article"  data-updated-at="2018-04-03T20:30:12.523Z">
+            <div class="grid-module-story__info without-image">
+                <div class="grid-module-story__label">article</div>
+                
+                <a class="grid-module-story__headline-link without-image" href="/news/articles/2018-04-03/the-daily-prophet-earnings-season-can-t-come-soon-enough-jfk4b4bs">The Daily Prophet: Earnings Season Can't Come Soon Enough</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Robert Burgess</span>
+        </section>
+    
+            </div>
+        </article>
+    
+        <article class="grid-module-story" data-id="P6KRMD6TTDSB01" data-type="article"  data-updated-at="2018-04-02T20:30:13.437Z">
+            <div class="grid-module-story__info without-image">
+                <div class="grid-module-story__label">article</div>
+                
+                <a class="grid-module-story__headline-link without-image" href="/news/articles/2018-04-02/the-daily-prophet-squiggly-lines-on-a-chart-doom-stock-markets-jfiovbft">The Daily Prophet: Squiggly Lines on a Chart Doom Stock Markets</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Robert Burgess</span>
+        </section>
+    
+            </div>
+        </article>
+    
+        <article class="grid-module-story" data-id="P6K6U16K50XU01" data-type="article"  >
+            <div class="grid-module-story__info">
+                <div class="grid-module-story__label">Remarks</div>
+                <a href="/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality" class="grid-module-story__image-link">
+        <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isa.geIWaOaA/v0/600x400.jpg" class="grid-module-story__image">
+    </a>
+                <a class="grid-module-story__headline-link" href="/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality">For Black Women, Education Is No Protection Against Infant Mortality</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Peter Coy</span>
+        </section>
+    
+            </div>
+        </article>
+    
+        <article class="grid-module-story" data-id="P6BOX46JIJUW01" data-type="article"  >
+            <div class="grid-module-story__info">
+                <div class="grid-module-story__label">Remarks</div>
+                <a href="/news/articles/2018-03-29/the-weapons-of-a-modern-day-trade-war" class="grid-module-story__image-link">
+        <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itjezwPG7yek/v0/600x400.jpg" class="grid-module-story__image">
+    </a>
+                <a class="grid-module-story__headline-link" href="/news/articles/2018-03-29/the-weapons-of-a-modern-day-trade-war">The Weapons of a Modern-Day Trade War</a>
+                
+        <section class="grid-module-story__byline">
+            by <span class="grid-module-story__byline-name">Michael Schuman</span>
+        </section>
+    
+            </div>
+        </article>
+    
+            </div>
+        </section>
+    
+    </section><section class="hub-zone-righty__right-rail">
+        
+        <section class="carousel-module" id="magazines_carousel"data-variation="bw_covers">
+            
+        <h3 class="carousel-module__title">
+            Latest Issues
+        </h3>
+            
+        <article class="story selected" data-id="undefined" data-type="feature" data-index="0"  >
+            
+        <a class="story__image" href="/magazine/businessweek/18_15">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idGKGEYeIscY/v0/280x-1.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/magazine/businessweek/18_15">April 2, 2018</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="undefined" data-type="article" data-index="1"  >
+            
+        <a class="story__image" href="/magazine/businessweek/18_14">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqu4KMMh5Bhc/v0/280x-1.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/magazine/businessweek/18_14">March 26, 2018</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="undefined" data-type="article" data-index="2"  >
+            
+        <a class="story__image" href="/magazine/businessweek/18_13">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib39m4O5Fvek/v0/280x-1.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/magazine/businessweek/18_13">March 19, 2018</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="undefined" data-type="feature" data-index="3"  >
+            
+        <a class="story__image" href="/magazine/businessweek/18_13">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ib39m4O5Fvek/v0/280x-1.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/magazine/businessweek/18_13">March 19, 2018</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="undefined" data-type="feature" data-index="4"  >
+            
+        <a class="story__image" href="/magazine/businessweek/18_12">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isipuX97rflE/v0/280x-1.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/magazine/businessweek/18_12">March 12, 2018</a>
+                </div>
+            </div>
+        </article>
+    
+            <div class="carousel-module__selectors">
+                <span class="carousel-module__selector-left"></span>
+                <ul class="carousel-module__selectors-middle">
+                    
+            <li class="carousel-module__selector selected" data-index="0"/>
+        
+            <li class="carousel-module__selector " data-index="1"/>
+        
+            <li class="carousel-module__selector " data-index="2"/>
+        
+            <li class="carousel-module__selector " data-index="3"/>
+        
+            <li class="carousel-module__selector " data-index="4"/>
+        
+                </ul>
+                <span class="carousel-module__selector-right"></span>
+            </div>
+        </section>
+    
+        <div id="box-businessweek-v2-1" class="page-ad" data-theme="" data-position=box1>
+            <script class="params" type="application/json">{"pageId":"businessweek-v2","position":"box1","dimensions":{"all":[[300,600],[300,250],[1,1]],"large_desktop":[[300,250],[5,4],[1,1]],"small_desktop":[[300,250],[5,4],[1,1]],"mobile":[[994,48],[300,250],[5,4],[5,2],[1,1]]},"type":"box","targeting":{"position":"box1","page":"businessweek-v2"},"containerId":"box-businessweek-v2-1"}</script>
+            <div class="page-ad-dummy"></div>
+        </div>
+    
+        <section class="story-list-module" id="trending1" data-variation="simple" data-theme="">
+            
+            <div class="story-list-module__info">
+                
+        <h3 class="story-list-module__title">
+            From Our Columnists
+        </h3>
+                
+                <article class="story-list-story" data-id="P6PKJB6KLVS001" data-type="article"  data-updated-at="2018-04-05T10:45:11.294Z">
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Remarks</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-05/this-weekend-aging-vermont-will-try-to-make-tourists-into-residents">This Weekend, Aging Vermont Will Try to Make Tourists Into Residents</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-05T10:45:11.294Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 5, 2018, 6:45 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">A dozen out-of-staters will get the red carpet treatment from the Green Mountain State.</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-05/this-weekend-aging-vermont-will-try-to-make-tourists-into-residents">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iainygVymBU4/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6K6U16K50XU01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Remarks</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality">For Black Women, Education Is No Protection Against Infant Mortality</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-02T13:01:13.229Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 2, 2018, 9:01 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">In contrast to whites, the most educated are the most likely to lose their babies</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-02/for-black-women-education-is-no-protection-against-infant-mortality">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isa.geIWaOaA/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P68X8G6JTSED01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Remarks</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-27/on-steel-tariffs-it-s-timken-vs-timken">On Steel Tariffs, It’s Timken vs. Timken</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-27T11:00:16.840Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 27, 2018, 7:00 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">The sister companies, steel producer and steel user, don’t see eye to eye on Trump’s trade action.</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-27/on-steel-tariffs-it-s-timken-vs-timken">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY8SwUpa2pgE/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P5HLMD6JIJUU01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Remarks</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-12/to-be-clear-trump-s-tariffs-were-not-produced-by-purdue-university">To Be Clear, Trump’s Tariffs Were Not ‘Produced by Purdue University’</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-12T16:54:13.564Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 12, 2018, 12:54 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">The professor behind the computer model that the administration used is not a fan of the tariffs</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-12/to-be-clear-trump-s-tariffs-were-not-produced-by-purdue-university">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHqRwqqNVGW4/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                
+            </div>
+        </section>
+    
+    </section>
+    </section><section class="hub-zone-full" data-zoneid="First Ad">
+        <section class="hub-zone-full__content">
+        
+        <div id="leaderboard-businessweek-v2-1" class="page-ad" data-theme="businessweek" data-position=leaderboard1>
+            <script class="params" type="application/json">{"pageId":"businessweek-v2","position":"leaderboard1","dimensions":{"large_desktop":[[728,90],[970,250],[1,1]],"small_desktop":[[728,90],[970,250],[1,1]],"tablet":[[728,90],[970,250],[1,1]]},"type":"leaderboard","targeting":{"position":"leaderboard1","page":"businessweek-v2"},"containerId":"leaderboard-businessweek-v2-1"}</script>
+            <div class="page-ad-dummy"></div>
+        </div>
+    
+        <div id="box-businessweek-v2-2" class="page-ad" data-theme="businessweek" data-position=box2>
+            <script class="params" type="application/json">{"pageId":"businessweek-v2","position":"box2","dimensions":{"mobile":[[300,250],[1,1]]},"type":"box","targeting":{"position":"box2","page":"businessweek-v2"},"containerId":"box-businessweek-v2-2"}</script>
+            <div class="page-ad-dummy"></div>
+        </div>
+    
+    </section>
+    </section><section class="hub-zone-righty" data-zoneid="Middle">
+        <section class="hub-zone-righty__content">
+        
+        <section class="single-story-module" id="pursuits_feature" data-variation="image_left" data-layout="" data-theme="bw_pursuits" data-type="article" data-orientation="portrait">
+            <h5 class="single-story-module__extraneous-descriptor">Arts</h5>
+            <article class="single-story-module__story" data-id="P5YP3T6K50XS01"  >
+                <h3 class="single-story-module__title">Pursuits</h3>
+                <section class="single-story-module__image 500x700">
+        <a href="/news/articles/2018-03-22/great-20th-century-dance-companies-face-an-existential-crisis" class="single-story-module__image-link">
+            <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik67puOMmVcA/v0/500x700.jpg" class="single-story-module__image-img">
+            
+        </a>
+    </section>
+                
+        <section class="single-story-module__info"">
+            <section class="single-story-module__eyebrow">Arts</section><a href="/news/articles/2018-03-22/great-20th-century-dance-companies-face-an-existential-crisis" class="single-story-module__headline-link">The Great 20th Century Dance Companies Face an Existential Crisis</a><section class="single-story-module__summary">When legendary choreographers such as Merce Cunningham, Paul Taylor, and Mark Morris cease to create new works, what happens to the troupes they’ve assembled and the legacies they’ve forged?</section>
+        <section class="single-story-module__byline">
+            by <span class="single-story-module__byline-name">Pia Catton</span>
+        </section>
+    
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-22T10:03:11.606Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 22, 2018, 6:03 AM EDT</noscript>
+    
+        </time>
+    
+        </section>
+    
+            </article>
+        </section>
+    
+        <section class="story-package-module" id="pursuits_pair" data-theme="bw_pursuits" data-variation="single_story_columns">
+            
+            
+            <div class="story-package-module__stories">
+                
+                
+        <article class="story-package-module__story" data-id="P5WRJE6JIJUP01" data-type="article"  data-updated-at="2018-03-23T09:35:12.013Z">
+            <div class="story-package-module__story__eyebrow">Critic</div>
+        <div class="story-package-module__story__image 400x-1">
+            <a href="/news/articles/2018-03-23/airlines-are-asking-the-trump-administration-to-help-hide-fees-from-you" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9x1WxwmLY2s/v0/400x-1.jpg">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-03-23/airlines-are-asking-the-trump-administration-to-help-hide-fees-from-you" class="story-package-module__story__headline-link">
+                Airlines Are Asking the Trump Administration to Bring Back Hidden Fees
+            </a>
+        </h3>
+    
+        </article>
+    
+        <article class="story-package-module__story" data-id="P5V1CE6JTSEA01" data-type="article"  data-updated-at="2018-03-20T09:00:18.069Z">
+            <div class="story-package-module__story__eyebrow">Style</div>
+        <div class="story-package-module__story__image 400x-1">
+            <a href="/news/articles/2018-03-20/new-trend-in-jewelry-is-pieces-that-transform-themselves" class="story-package-module__story__image-link">
+                <img alt="" class="story-package-module__story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy5cqS7bnaA0/v0/400x-1.jpg">
+            </a>
+        </div>
+    <h3 class="story-package-module__story__headline">
+            <a href="/news/articles/2018-03-20/new-trend-in-jewelry-is-pieces-that-transform-themselves" class="story-package-module__story__headline-link">
+                The Latest Fad in Jewelry Is Pieces That Transform Themselves
+            </a>
+        </h3>
+    
+        </article>
+    
+            </div>
+            
+        </section>
+    
+        <section class="carousel-module" id="features_carousel"data-variation="">
+            
+        <h3 class="carousel-module__title">
+            Features
+        </h3>
+            
+        <article class="story selected" data-id="P5LPGO6K50ZG01" data-type="feature" data-index="0"  >
+            
+        <a class="story__image" href="/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP0foqZEKURY/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-03-16/japan-s-prisons-are-a-haven-for-elderly-women">Japan’s Prisons Are a Haven for Elderly Women</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P588BC6KLVR401" data-type="feature" data-index="1"  data-updated-at="2018-03-08T09:00:19.164Z">
+            
+        <a class="story__image" href="/news/features/2018-03-08/women-and-men-tell-their-stories-of-leaning-in">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIGoQWF5YPFw/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-03-08/women-and-men-tell-their-stories-of-leaning-in">We Leaned In. Now What?</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P56OY06JIJV201" data-type="feature" data-index="2"  >
+            
+        <a class="story__image" href="/news/features/2018-03-07/america-is-giving-away-the-30-billion-medical-marijuana-industry">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5GfemBwMEDU/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-03-07/america-is-giving-away-the-30-billion-medical-marijuana-industry">America Is Giving Away the $30 Billion Medical Marijuana Industry</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P4TPCI6S972E01" data-type="feature" data-index="3"  data-updated-at="2018-02-28T23:00:52.726Z">
+            
+        <a class="story__image" href="/news/features/2018-02-28/how-defective-guns-became-the-only-product-that-can-t-be-recalled">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqrFn6uXat18/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-02-28/how-defective-guns-became-the-only-product-that-can-t-be-recalled">How Defective Guns Became the Only Product That Can’t Be Recalled</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P4VLO56K50XS01" data-type="feature" data-index="4"  data-updated-at="2018-03-12T17:38:14.261Z">
+            
+        <a class="story__image" href="/news/features/2018-03-02/china-is-turning-ethiopia-into-a-giant-fast-fashion-factory">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_Mh9q5.Beuc/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-03-02/china-is-turning-ethiopia-into-a-giant-fast-fashion-factory">China Is Turning Ethiopia Into a Giant Fast-Fashion Factory</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P3DPII6KLVR401" data-type="feature" data-index="5"  >
+            
+        <a class="story__image" href="/news/features/2018-02-01/women-once-ruled-computers-when-did-the-valley-become-brotopia">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz8lJmJZJ9j4/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-02-01/women-once-ruled-computers-when-did-the-valley-become-brotopia">Women Once Ruled the Computer World. When Did Silicon Valley Become Brotopia?</a>
+                </div>
+            </div>
+        </article>
+    
+        <article class="story " data-id="P2PRB16K50XT01" data-type="feature" data-index="6"  data-updated-at="2018-01-18T10:00:20.800Z">
+            
+        <a class="story__image" href="/news/features/2018-01-18/the-fall-of-travis-kalanick-was-a-lot-weirder-and-darker-than-you-thought">
+            <img alt="" class="story__image-img" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiuPxs3ptolw/v0/955x717.jpg">
+        </a>
+    
+            <div class="story__info">
+                <div class="story__headline">
+                    <a class="story__headline-link" href="/news/features/2018-01-18/the-fall-of-travis-kalanick-was-a-lot-weirder-and-darker-than-you-thought">The Fall of Travis Kalanick Was a Lot Weirder and Darker Than You Thought</a>
+                </div>
+            </div>
+        </article>
+    
+            <div class="carousel-module__selectors">
+                <span class="carousel-module__selector-left"></span>
+                <ul class="carousel-module__selectors-middle">
+                    
+            <li class="carousel-module__selector selected" data-index="0"/>
+        
+            <li class="carousel-module__selector " data-index="1"/>
+        
+            <li class="carousel-module__selector " data-index="2"/>
+        
+            <li class="carousel-module__selector " data-index="3"/>
+        
+            <li class="carousel-module__selector " data-index="4"/>
+        
+            <li class="carousel-module__selector " data-index="5"/>
+        
+            <li class="carousel-module__selector " data-index="6"/>
+        
+                </ul>
+                <span class="carousel-module__selector-right"></span>
+            </div>
+        </section>
+    
+    </section><section class="hub-zone-righty__right-rail">
+        
+        <section class="story-list-module" id="story_list" data-variation="dark_rail" data-theme="">
+            
+            <div class="story-list-module__info">
+                
+        <h3 class="story-list-module__title">
+            Most Popular
+        </h3>
+                
+                <article class="story-list-story" data-id="P6X0S96S972901" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Gadfly</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-09/qatar-s-waiting-game-might-have-worked">Qatar's Waiting Game Might Have Worked</a>
+        </div>
+            <span class="story-list-story__info__byline">Marcus Ashworth</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-09T11:19:21.425Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 7:19 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">A decent premium can do wonders to ease investor concern on political risk.</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-09/qatar-s-waiting-game-might-have-worked">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOXuEYe2b4HM/v1/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6R3SH6JTSEF01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Charted</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-06/china-s-running-out-of-u-s-imports-to-target">China’s Running Out of U.S. Imports to Target</a>
+        </div>
+            <span class="story-list-story__info__byline">Chris Anstey</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-06T06:38:41.464Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 6, 2018, 2:38 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Attempting to match Trump’s latest $100 billion tariff proposal will require China to get creative</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-06/china-s-running-out-of-u-s-imports-to-target">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioqJGEIzlmL4/v0/197x131.png">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6S8FK6JIJVF01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Game Changer</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-09/neal-katyal-runs-a-legal-swat-team-to-combat-president-trump">Neal Katyal Runs a Legal SWAT Team to Combat President Trump</a>
+        </div>
+            <span class="story-list-story__info__byline">Lizette Chapman</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-09T16:00:12.638Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 12:00 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">The former solicitor general once argued for the White House at the Supreme Court. Now he’s on the other side.</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-09/neal-katyal-runs-a-legal-swat-team-to-combat-president-trump">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igYxyXFwhdDQ/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6S2XP6TTDSH01" data-type="article"  >
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Charted</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-06/more-americans-are-voluntarily-leaving-jobs">More Americans Are Voluntarily Leaving Jobs</a>
+        </div>
+            <span class="story-list-story__info__byline">Vince Golle</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-04-06T19:17:50.025Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 6, 2018, 3:17 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">March quits data at almost 17-year high shows confidence in U.S. labor market</div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-06/more-americans-are-voluntarily-leaving-jobs">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5CiTUQoqGLU/v0/197x131.png">
+        </a>
+    
+                </article>
+            
+                
+            </div>
+        </section>
+    
+    </section>
+    </section><section class="hub-zone-full" data-zoneid="Middle Ad">
+        <section class="hub-zone-full__content">
+        
+        <div id="leaderboard-businessweek-v2-2" class="page-ad" data-theme="businessweek" data-position=leaderboard2>
+            <script class="params" type="application/json">{"pageId":"businessweek-v2","position":"leaderboard2","dimensions":{"large_desktop":[[728,90],[970,250],[1,1]],"small_desktop":[[728,90],[970,250],[1,1]],"tablet":[[728,90],[970,250],[1,1]]},"type":"leaderboard","targeting":{"position":"leaderboard2","page":"businessweek-v2"},"containerId":"leaderboard-businessweek-v2-2"}</script>
+            <div class="page-ad-dummy"></div>
+        </div>
+    
+    </section>
+    </section><section class="hub-zone-righty" data-zoneid="Bottom">
+        <section class="hub-zone-righty__content">
+        
+        <section class="story-list-module" id="bullets" data-variation="bullets" data-theme="">
+            
+            <div class="story-list-module__info">
+                
+        <h3 class="story-list-module__title">
+            More from Businessweek
+        </h3>
+                
+                <article class="story-list-story" data-id="P6DCYB6S972A01" data-type="article"  data-updated-at="2018-03-29T20:30:11.745Z">
+                    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">businessweek</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/the-daily-prophet-fx-traders-can-t-get-out-of-their-own-way-jfcz3uex">The Daily Prophet: FX Traders Can't Get Out of Their Own Way</a>
+        </div>
+            <span class="story-list-story__info__byline">Robert Burgess</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T20:30:11.745Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 4:30 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Connecting the dots in global markets.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6D1Q16JIJVK01" data-type="article"  data-updated-at="2018-03-29T17:39:54.597Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/the-ancient-history-of-bitcoin">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1XMCt_fuNxU/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Finance</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/the-ancient-history-of-bitcoin">The Ancient History of Bitcoin</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T17:39:54.597Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 1:39 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Cryptocurrencies may seem brand-new and disruptive, but look to the past and it’s clear they can be regulated.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6D20J6JIJUU01" data-type="article"  data-updated-at="2018-03-29T19:59:06.116Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/he-can-fix-your-student-debt-but-can-he-sell-you-a-mortgage">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9xQBrxIl9SA/v1/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Finance</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/he-can-fix-your-student-debt-but-can-he-sell-you-a-mortgage">He Can Fix Your Student Debt, but Can He Sell You a Mortgage?</a>
+        </div>
+            <span class="story-list-story__info__byline">Julie Verhage and Selina Wang</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T19:59:06.116Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 3:59 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Anthony Noto steadied Twitter. Now, as CEO of student-loan refinancer SoFi, he has to upsell the company’s high-earning clientele and fend off Goldman Sachs.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6CXLW6KLVR501" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/the-truth-about-the-budget-from-gun-control-to-the-border-wall">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifTxOhRb0OPU/v1/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/the-truth-about-the-budget-from-gun-control-to-the-border-wall">The Truth About the Budget, From Gun Control to the Border Wall</a>
+        </div>
+            <span class="story-list-story__info__byline">Sahil Kapur</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-29T17:16:49.171Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 1:16 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Some of the wins in the $1.3 trillion bill that both parties crowed about look a little thin in the harsh light of day. What they said and what they actually passed.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6CF1K6K50XV01" data-type="article"  data-updated-at="2018-03-29T15:35:41.829Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/finding-your-name-on-russia-s-hit-list">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZOda6cdGuI8/v1/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/finding-your-name-on-russia-s-hit-list">Finding Your Name on Russia’s  Hit List</a>
+        </div>
+            <span class="story-list-story__info__byline">Kitty Donaldson, Henry Meyer and Irina Reznik</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T15:35:41.829Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 11:35 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">The nerve-gas poisoning of a former KGB agent in the U.K. has Moscow’s foes spooked.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6BR0D6KLVRI01" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/spring-is-coming-for-ipos">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWWYsVUatnxo/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Finance</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/spring-is-coming-for-ipos">Spring Is Coming for IPOs</a>
+        </div>
+            <span class="story-list-story__info__byline">Alex Barinka</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-29T09:00:18.310Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 5:00 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Some of the most valuable new companies are still private, but more may cash in soon.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6BHQV6JIJUO01" data-type="article"  data-updated-at="2018-03-29T19:11:01.783Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-29/trump-s-tariffs-aren-t-the-only-way-to-shrink-the-trade-gap">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioQ_DOR6SHFo/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Economics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-29/trump-s-tariffs-aren-t-the-only-way-to-shrink-the-trade-gap">Trump’s Tariffs Aren’t the Only Way to Shrink the Trade Gap</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T19:11:01.783Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 3:11 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">A gaggle of economists—and Warren Buffett—have alternatives.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P69JU16KLVR601" data-type="article"  data-updated-at="2018-03-28T22:00:12.322Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-28/this-chinese-phone-maker-has-taken-over-africa-for-better-and-worse">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGiQZ5nXwW7Q/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Technology</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-28/this-chinese-phone-maker-has-taken-over-africa-for-better-and-worse">The Chinese Unknown That’s Making Africa’s Phones</a>
+        </div>
+            <span class="story-list-story__info__byline">Lulu Yilun Chen</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-28T22:00:12.322Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 28, 2018, 6:00 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Transsion sells 3 in 10 phones on the continent. The flip side: threats of civil war.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6BIAB6TTDSN01" data-type="article"  data-updated-at="2018-03-28T20:30:11.921Z">
+                    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">businessweek</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-28/the-daily-prophet-it-seems-yield-starved-is-code-for-brain-dead-jfbjnzsu">The Daily Prophet: It Seems Yield-Starved Is Code for Brain Dead</a>
+        </div>
+            <span class="story-list-story__info__byline">Robert Burgess</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-28T20:30:11.921Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 28, 2018, 4:30 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Connecting the dots in global markets.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6B30B6TTDS201" data-type="article"  data-updated-at="2018-03-29T11:42:19.188Z">
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-28/-cryptodad-regulator-catches-some-twitter-heat">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUPFUbN4zu40/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-28/-cryptodad-regulator-catches-some-twitter-heat">‘Cryptodad’ Regulator Catches Some Twitter Heat</a>
+        </div>
+            <span class="story-list-story__info__byline">Robert Schmidt and Benjamin Bain</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-03-29T11:42:19.188Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 29, 2018, 7:42 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">CFTC chief J. Christopher Giancarlo, beloved by the crypto crowd, is learning the pitfalls of Twitter fame.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P69K176KLVR901" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-28/this-ai-software-aims-to-do-90-percent-of-hr-s-recruiting-work">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ismM3HvcF9PA/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Technology</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-28/this-ai-software-aims-to-do-90-percent-of-hr-s-recruiting-work">The Russian Robot That’s Hiring Humans</a>
+        </div>
+            <span class="story-list-story__info__byline">Ilya Khrennikov</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-28T04:01:11.911Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 28, 2018, 12:01 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Robot Vera can cut the time and cost of recruiting by a third, its creators say. Now they’re teaching it to recognize anger, pleasure, and disappointment.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6A8GI6JTSE901" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-28/the-town-on-the-front-lines-of-germany-s-battle-to-preserve-its-industrial-future">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDccRlodzD3A/v1/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">businessweek</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-28/the-town-on-the-front-lines-of-germany-s-battle-to-preserve-its-industrial-future">The Town on the Front Lines of Germany’s Battle to Preserve Its Industrial Future</a>
+        </div>
+            <span class="story-list-story__info__byline">Elisabeth Behrmann</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-28T04:00:18.563Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 28, 2018, 12:00 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Homburg’s fate is tied to the auto industry—especially makers of diesel</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P69NMC6TTDS901" data-type="article"  >
+                    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">businessweek</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-27/the-daily-prophet-when-will-we-learn-not-to-bet-against-bonds-jfa4873y">The Daily Prophet: When Will We Learn Not to Bet Against Bonds?</a>
+        </div>
+            <span class="story-list-story__info__byline">Robert Burgess</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-27T20:30:12.285Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 27, 2018, 4:30 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">Connecting the dots in global markets.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P68X8G6JTSED01" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-27/on-steel-tariffs-it-s-timken-vs-timken">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY8SwUpa2pgE/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Remarks</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-27/on-steel-tariffs-it-s-timken-vs-timken">On Steel Tariffs, It’s Timken vs. Timken</a>
+        </div>
+            <span class="story-list-story__info__byline">Peter Coy</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-27T11:00:16.840Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 27, 2018, 7:00 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">The sister companies, steel producer and steel user, don’t see eye to eye on Trump’s trade action.</div>
+            
+        </div>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P67VPN6KLVR401" data-type="article"  >
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-03-27/the-rate-the-banks-once-rigged-is-jumping-and-causing-trouble">
+            <img alt="" class="story-list-story__image-img"   src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icPyGTJSBVe0/v0/197x131.jpg">
+        </a>
+    
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">Finance</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-03-27/the-rate-the-banks-once-rigged-is-jumping-and-causing-trouble">The Rate the Banks Once Rigged Is Jumping—and Causing Trouble</a>
+        </div>
+            <span class="story-list-story__info__byline">Liz McCormick</span>
+            
+        <time class="hub-timestamp" itemprop="datePublished" datetime="2018-03-27T09:00:11.291Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>March 27, 2018, 5:00 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary">About $350 trillion of assets are pegged to Libor. Its recent rise could boost adjustable mortgage payments and drive stock prices lower.</div>
+            
+        </div>
+    
+                </article>
+            
+                
+            </div>
+        </section>
+    
+    </section><section class="hub-zone-righty__right-rail">
+        
+        <section class="story-list-module" id="trending" data-variation="simple" data-theme="">
+            
+            <div class="story-list-module__info">
+                
+        <h3 class="story-list-module__title">
+            Trending on Bloomberg
+        </h3>
+                
+                <article class="story-list-story" data-id="P6VH4L6KLVR501" data-type="article" data-bmmr-id="uEHmswVoSQeEq9nxtRGaow" data-updated-at="2018-04-08T16:48:02.739Z">
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-08/summers-compares-trump-s-amazon-attack-to-italy-under-mussolini">Summers Compares Trump's Amazon Attack to Italy Under Mussolini</a>
+        </div>
+            <span class="story-list-story__info__byline">Mark Niquette</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-08T16:48:02.739Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 8, 2018, 12:48 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary"></div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-08/summers-compares-trump-s-amazon-attack-to-italy-under-mussolini">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIQnb33wJtfc/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6WKSJ6K50XU01" data-type="article" data-bmmr-id="bENTkGHsSv6BGhc3V~NOIw" data-updated-at="2018-04-09T09:50:58.195Z">
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">markets</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-09/china-is-said-to-study-yuan-devaluation-as-a-tool-in-trade-spat">China Is Studying Yuan Devaluation as a Tool in Trade Spat</a>
+        </div>
+            <span class="story-list-story__info__byline">Bloomberg News</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-09T09:50:58.195Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 5:50 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary"></div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-09/china-is-said-to-study-yuan-devaluation-as-a-tool-in-trade-spat">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iS.0bQd38cwY/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6TY1S6S972801" data-type="article" data-bmmr-id="CFNHfqi~SFuj9GMGqZiAKw" data-updated-at="2018-04-08T17:22:19.540Z">
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-08/trump-vows-that-china-will-take-down-its-trade-barriers">Trump Predicts China Will Be First to Buckle in Trade Dispute</a>
+        </div>
+            <span class="story-list-story__info__byline">Ros Krasny and Shobhana Chandra</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-08T17:22:19.540Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 8, 2018, 1:22 PM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary"></div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-08/trump-vows-that-china-will-take-down-its-trade-barriers">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihkqbqt0yw74/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                <article class="story-list-story" data-id="P6WSAJ6KLVR701" data-type="article" data-bmmr-id="tpHUYOHCR2KU4tZxux7NTQ" data-updated-at="2018-04-09T13:35:22.920Z">
+                    
+        <div class="story-list-story__info">
+            <div class="story-list-story__info__eyebrow">politics</div>
+            
+        <div class="story-list-story__info__headline">
+            <a class="story-list-story__info__headline-link" href="/news/articles/2018-04-09/russia-government-said-to-seek-ways-to-help-sanctioned-oligarchs">Russian Markets Slide After U.S. Ups Ante With the Worst Sanctions Yet</a>
+        </div>
+            <span class="story-list-story__info__byline">Ksenia Galouchko and Yuliya Fedorinova</span>
+            
+        <time class="hub-timestamp" itemprop="dateModified" datetime="2018-04-09T13:35:22.920Z" data-locale="en" data-status="">
+            
+        <script class="hub-timestamp__format" type="application/json">
+            {"year":"numeric","month":"long","day":"numeric","hour":"numeric","minute":"numeric","timeZoneName":"short"}
+        </script>
+        <noscript>April 9, 2018, 9:35 AM EDT</noscript>
+    
+        </time>
+    
+            <div class="story-list-story__info__summary"></div>
+            
+        </div>
+    
+                    
+        <a class="story-list-story__image" href="/news/articles/2018-04-09/russia-government-said-to-seek-ways-to-help-sanctioned-oligarchs">
+            <img alt="" class="story-list-story__image-img" width="197" height="131" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVFe2vBPvMTo/v0/197x131.jpg">
+        </a>
+    
+                </article>
+            
+                
+            </div>
+        </section>
+    
+    </section>
+    </section>
+                </main>
+                <footer class="bb-global-footer"> <div class="bb-global-footer__content"> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/tos">Terms of Service</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/trademarks">Trademarks</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/privacy">Privacy Policy</a> <small class="bb-global-footer__copyright">©2018 Bloomberg L.P. All Rights Reserved</small> </div> <div class="bb-global-footer__group"> <a class="bb-global-footer__link" href="http://www.bloomberg.com/careers/?utm_source=dotcom&utm_medium=footer">Careers</a> <a class="bb-global-footer__link" href="http://nytm.org/made-in-nyc">Made in NYC</a> <a class="bb-global-footer__link" href="http://bloombergmedia.com/">Advertise</a> <a class="bb-global-footer__link bb-global-footer__ad-choices" href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/feedback">Website Feedback</a> <a class="bb-global-footer__link" href="http://www.bloomberg.com/help">Help</a> </div> </div> </footer>
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://www.bbthat.com/assets/v1.4.0/that.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                <script type="text/javascript">(function(d){var s=d.createElement("script");s.async=true;s.src="https://nav.bloomberg.com/public/javascripts/global/bb-global-nav-c35d31be2a.js";s.type="text/javascript";d.head.appendChild(s);})(document);</script>
+                
+                <script src="https://assets.bwbx.io/s3/javelin/public/hub/js/event_bus/event_bus-0933a41869.sync.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/nav_bb/nav-33c71fcfdf.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("(min-width:761px)").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/leaderboard/leaderboard-0f386e39a0.tablet-desktop.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/breaking_news_placeholder/breaking_news_placeholder-fea849b094.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/timestamp/timestamp-360eca4a76.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/initialize_ads/initialize_ads-2b6ca35ac2.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/initialize_pianola/initialize_pianola-456e8efe70.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/dependencies/dependencies-42fb11fd06.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/hero/HeroView-e17ca46b45.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/story_package/StoryPackageView-9a3f1ba549.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/single_story/SingleStoryView-95e88ed464.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/grid/GridView-3dfbd9ee54.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/carousel/CarouselView-b9c07bcf0f.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/carousel/carousel-7b60c3be86.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+        <script type="text/javascript">
+            if (window.matchMedia("all").matches) {
+                var s = document.createElement("script");
+                s.src = "https://assets.bwbx.io/s3/javelin/public/hub/js/module/story_list/StoryListView-1bdc454a73.js";
+                s.type = "text/javascript";
+                s.async = true;
+                document.head.appendChild(s);
+            }
+        </script>
+    
+                <!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MNTH5N');</script><!-- End Google Tag Manager -->
+            </body>
+        </html>
+    

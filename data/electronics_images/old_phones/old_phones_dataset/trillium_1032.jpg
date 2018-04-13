@@ -1,0 +1,288 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>ERROR | Americom Inc.</title>
+
+<link href="CSS_PageTheme1.css" rel="stylesheet" type="text/css" />
+<link href="CSS_1.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="ajximagerotator1.css" type="text/css" />
+<!--script src="ajximagerotator1.js" type="text/javascript"></script-->
+
+<link rel="stylesheet" href="menu1.css" type="text/css" />
+<!--script src="menu1.js" type="text/javascript"></script-->
+
+<!-- Universal Google Analytics -->		
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57515046-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Create FavIcon -->
+
+<head profile="http://www.w3.org/2005/10/profile">
+<link rel="icon" 
+      type="assets/png" 
+      href="http://www.americominc.net/favicon.png" />	
+	
+	
+<script type="text/javascript">
+<!--
+	function popup1(url,w,h,resize,scroll) 
+		{
+		 var winName='Contact';
+		 var width  = w;
+		 var height = h;
+		 var resize = resize;
+		 var scroll = scroll;
+		 var left   = (screen.width  - width)/2;
+		 var top    = (screen.height - height)/2;
+		 var params = 'width='+width+', height='+height;
+		 params += ', top='+top+', left='+left;
+		 params += ', directories=no';
+		 params += ', location=no';
+		 params += ', menubar=no';
+		 params += ', resizable='+resize;
+		 params += ', scrollbars='+scroll;
+		 params += ', status=no';
+		 params += ', toolbar=no';
+		 newWin=window.open(url, winName, params);
+		 if (window.focus) {newWin.focus()}
+		 return false;
+	}
+-->
+</script>
+	
+
+
+<script language="JavaScript">
+<!--
+    function Lvl_openWin(u,n,w,h,l,t,c,f) { //v2.2 4LevelWebs
+        var x=((screen.width-w)/2);if(c==1){l=x;t=(screen.height-h)/2;}if(c==2){l=x}
+        f+=',top='+t+',left='+l;LvlWin=window.open(u,n,f);LvlWin.focus();
+        }
+-->
+</script>	
+
+
+
+<script type="text/javascript">
+<!--
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+-->
+</script>
+
+</head>
+
+<body>
+<table class="bodyTable"  border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="2" >
+		<link href="CSS_1.css" rel="stylesheet" type="text/css" />
+<table border="0" cellspacing="0" cellpadding="0" class="HeaderBG">
+	<tr>
+		<td width="565" height="131" align="left" valign="middle" style="padding-top:15px; padding-bottom:10px; padding-left:35px;" ><img src="assets/HeaderLogo500.png" width="500" height="131" /></td>
+        <td width="435" align="center" class="TextBlue10Wide" style='padding-left:28px; padding-top:4px; background-image: url("assets/PittsburghPhoneSilhouette.png");background-repeat: no-repeat;background-position: -13px 8px;' >
+        <span class="TextArialSmallCaps" style="line-height: 1.1em;">        Sales &#8226; Installation &#8226; Service</span><br />
+        	<br />
+            <br />
+       	  <span class="TextArialSmallCaps" style="line-height: 1.0em;">Serving Pittsburgh and Surrounding Communities<br />
+       	  </span></td>
+    </tr>
+	</table>    </td>
+ </tr>
+  <tr>
+    <td colspan="2" align="left" valign="middle" class="MenuBG">
+		<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<link rel="stylesheet" href="menu1.css" type="text/css">
+<script src="Menu1.js" type="text/javascript"></script>
+
+<div class="AJXCSSMenuHVPbDaB" style="border:0;"><!-- AJXFILE:menu1.css -->
+  <ul>
+    <li><a href="index.php" target="_self" title="Home"><span>Home</span></a></li>
+    <li><a class="ajxsub" href="#"><span>Products&nbsp;&amp;&nbsp;Services</span></a>
+      <ul>
+        <li><a href="communication_network.php" target="_self" title="Communication &amp; Networking">Communication &amp; Networking</a></li>
+        <li><a href="entry_systems.php" target="_self" title="Entry Systems">Entry Systems</a></li>
+        <li><a href="security.php" target="_self" title="Security Systems &amp; Componets">Security Systems &amp; Componets</a></li>
+        <li><a href="sound.php" target="_self" title="Sound Equipment">Sound Equipment</a></li>
+        <li><a href="vip_service.php" target="_self" title="VIP Service">VIP Service</a></li>
+      </ul>
+    </li>
+    <li><a href="contact.php" target="_self" title="Contact Americom"><span>Contact</span></a></li>
+    <li><a href="about.php" target="_self" title="About Americom"><span>About</span></a></li>
+  </ul>
+</div>        
+   </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="BannerBG"> 
+		<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<!-- FreeFind Begin No Index -->
+
+
+<link rel="stylesheet" href="ajximagerotator1.css" type="text/css">
+<script src="ajximagerotator1.js" type="text/javascript"></script>
+
+<div class="AJXIREfDXdQA"><!-- AJXFILE:ajximagerotator1.css -->
+<div class="ajxpics">
+  <ul>
+    <li><a href="#"><img class="ajximg" src="banners/esi_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        • Phone Systems <br />
+        <br />
+        • Door Access Control <br />
+        <br />
+        • Voice Over Internet Protocol<br />
+        &nbsp;&nbsp;(VoIP) </div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/esi_master_tech.jpg" alt=""></a>
+      <div class="ajxrc"><br />
+        <br />
+        <br />
+        • Factory Trained and<br />
+        &nbsp;&nbsp;Certified<br />
+      </div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/dsc_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        <br />
+        <br />
+        • Security Systems </div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/linear_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        • Door Access<br />
+        <br />
+        • IEI Commercial Door Access<br />
+        <br />
+        • Keypad and FOB/Card Access</div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/hes_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        • Door Locks and Strikes <br />
+        <br />
+        • High-Security Commercial Door <br/>
+        &nbsp;&nbsp;Access and Control Systems </div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/truVision_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        • Video Surveillance Systems<br />
+        <br />
+        • Software<br />
+        <br />
+        • Components</div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/silent_knight_logo_1.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        •  Fire Panels<br />
+        <br />
+        •  Devices and Detectors from<br />
+        &nbsp;&nbsp;System Sensor, Firelite, <br />
+        &nbsp;&nbspand Honeywell </div>
+    </li>
+    <li class="ajxhide"><a href="#"><img class="ajximg" src="banners/interlogix_logo_2.jpg" alt=""></a>
+      <div class="ajxrc"> <br />
+        <br />
+        <br />
+        <br />
+        • Security Systems </div>
+    </li>
+  </ul>
+</div>
+</div>
+<!-- FreeFind End No Index -->
+        
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="Blanker"></td>
+  </tr>
+  <tr>
+    <td width="700" valign="top" class="BodyBG"><span class="PageTitle">File not found</span>
+      <p class="TextBlack11Wide">The page you are searching for is  unavailable.  <br />
+            <br />
+      If you entered the URL manually, please recheck your typing and try again.</span></p>
+        <p class="TextBlack11">Note the website is a work in progress. If you tried returning to a page you <br>
+        previously bookmarked, the page may have been moved or deleted. 
+      </p>
+      </p></td>
+    <td width="300" valign="top" bgcolor="#FFFFFF" >&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" class="Blanker" >&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="FooterBG">
+		<link href="CSS_1.css" rel="stylesheet" type="text/css" />
+<!--link href="CSS_PageTheme1.css" rel="stylesheet" type="text/css" / -->
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="198" align="left" valign="top" style="padding-right:20px;" ><img src="assets/MapLogo.png" width="178" height="87" align="middle" /></td>
+    <td width="56" align="left" valign="top" class="TextArialSmall" style="padding-right:25px;" ><a href="index.php" target="_self" class="smalllink">HOME</span></a><br /></td>
+    <td width="164" align="left" valign="top" nowrap class="TextArialSmall" style="padding-right:25px;" >PRODUCTS &amp; SERVICES<br />
+      <a href="communication_network.php" target="_self" class="smalllink">Communication &amp;
+    Networking</a><br />
+    <a href="security.php" target="_self" class="smalllink">Security Systems</a><br />
+    <a href="entry_systems.php" target="_blank" class="smalllink">Entry Systems</a><br />
+    <a href="sound.php" class="smalllink">Sound Equipment</a><br />
+    <a href="vip_service.php" class="smalllink">VIP Service </a><br />    <br /></td>
+    <td width="81" align="left" valign="top" class="TextArialSmall" nowrap style="padding-right:25px;" ><a href="contact.php" target="_self" class="smalllink">CONTACT</a><br />
+      <span class="TextArialSmall" style="padding-right:25px;"><a href="contact.php#email" target="_self"  class="smalllink" >E&#8209;mail</a></span><br />
+      <br />
+      <br />
+    </a></td>
+    <td width="82" align="left" valign="top" class="TextArialSmall" style="padding-right:25px;"><a href="about.php" target="_self" class="smalllink">ABOUT</a></td>
+    <td width="319" align="left" valign="top" style="border-left:1px solid #aaaaaa; padding-left: 28px;"><p><img src="assets/favicon.png" alt="Americom Icon" width="32" height="32" class="PicMarginLeftNoBorder" style="margin-top:0px; border:1px solid #FFFFFF;" align="top" /> <span class="TextArialSmall">WELCOME TO AMERICOM<br />
+    This site is best viewed with    the latest versions of Internet Explorer,  Chrome, Firefox, or Safari browsers,  with Javascript enabled. <br />
+    Copyright &copy;    
+    <script language="javascript" type="text/javascript">
+var d=new Date();
+yr=d.getFullYear();
+	    document.write(yr);
+</script>. 
+    Site by <a href="mailto:info@inspired-works.org" target="_blank" class="smalllink">Inspired-Works.org</a></span></p></td>
+  </tr>
+  <tr>
+	<td colspan="10">
+	  	<table width="129" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+			<tr> 
+				<td width="45" bgcolor="#000000">
+					<div align="right"><span class="TextArial"><font color="#FFFFFF">Visits:</font></span><span class="text"><font color="#3366FF">&nbsp;</font><font color="#3366FF"></font></span></div></td>
+					<td width="74" nowrap bgcolor="#000000" style="border:0px solid #000000;" td>
+						<div align="left">
+						<script language="Javascript" src="http://www.americominc.net/visits/gcount.php?page=visits&style=web2"><!--//--></script>
+                      </div>					
+                   </td>
+	  	  </tr>
+	  </table>
+    </td>
+  </tr>
+</table>
+        
+    </td>
+  </tr>
+</table>
+</body>
+</html>

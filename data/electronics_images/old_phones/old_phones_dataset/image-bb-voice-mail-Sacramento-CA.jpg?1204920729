@@ -1,0 +1,2 @@
+<br />
+<b>Warning</b>:  readfile(/home/findades/public_html/images/media/10769/image-bb-voice-mail-Sacramento-CA.jpg) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in <b>/home/findades/public_html/directory/index.php</b> on line <b>340</b><br />

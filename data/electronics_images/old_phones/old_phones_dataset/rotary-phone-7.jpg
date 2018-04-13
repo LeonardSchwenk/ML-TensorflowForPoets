@@ -1,0 +1,2709 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+
+<meta charset="UTF-8" />
+
+<meta name="google-site-verification" content="NQQfsUjzE2vAqZ2UFMnkBdglKfOaOUwEZHTzklc0DP0" />
+
+<script>function trackEvent(category,action,label,value){if(value===undefined){ga('send',{hitType:'event',eventCategory:category,eventAction:action,eventLabel:label});}else{ga('send',{hitType:'event',eventCategory:category,eventAction:action,eventLabel:label,eventValue:value});}return true;}(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-225397-1',{'cookieDomain':'automationdirect.com'});ga('send','pageview');</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+
+	
+	<link rel="pingback" href="https://library.automationdirect.com/xmlrpc.php" />
+
+
+	
+<!-- This site is optimized with the Yoast SEO plugin v7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Industrial Automation News from AutomationDirect</title>
+<meta name="description" content="Our Library is full of Articles &amp; Resources for Industrial Automation News. Get Free Access to our AutomationNotebook, Application Stories &amp; More!"/>
+<link rel="canonical" href="https://library.automationdirect.com/" />
+<link rel="publisher" href="https://plus.google.com/+automationdirect"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Industrial Automation News from AutomationDirect" />
+<meta property="og:description" content="Our Library is full of Articles &amp; Resources for Industrial Automation News. Get Free Access to our AutomationNotebook, Application Stories &amp; More!" />
+<meta property="og:url" content="https://library.automationdirect.com/" />
+<meta property="og:site_name" content="Library.Automationdirect.com" />
+<meta property="og:image" content="https://library.automationdirect.com/wp-content/uploads/2018/03/General_Featured.jpg" />
+<meta property="og:image:secure_url" content="https://library.automationdirect.com/wp-content/uploads/2018/03/General_Featured.jpg" />
+<meta property="og:image" content="https://library.automationdirect.com/wp-content/uploads/2014/03/Free-Info-Long.jpg" />
+<meta property="og:image:secure_url" content="https://library.automationdirect.com/wp-content/uploads/2014/03/Free-Info-Long.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Our Library is full of Articles &amp; Resources for Industrial Automation News. Get Free Access to our AutomationNotebook, Application Stories &amp; More!" />
+<meta name="twitter:title" content="Industrial Automation News from AutomationDirect" />
+<meta name="twitter:site" content="@AutomationDirec" />
+<meta name="twitter:image" content="https://library.automationdirect.com/wp-content/uploads/2018/03/General_Featured.jpg" />
+<meta name="twitter:creator" content="@AutomationDirec" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/library.automationdirect.com\/","name":"Library.Automationdirect.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/library.automationdirect.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Library.Automationdirect.com &raquo; Feed" href="https://library.automationdirect.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Library.Automationdirect.com &raquo; Comments Feed" href="https://library.automationdirect.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Library.Automationdirect.com &raquo; Industrial Automation News Comments Feed" href="https://library.automationdirect.com/welcome/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/library.automationdirect.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='themeva-custom-styles-css'  href='https://library.automationdirect.com/wp-content/themes/DynamiX/style.css' type='text/css' media='all' />
+<style id='themeva-custom-styles-inline-css' type='text/css'>
+#custom-layer1 { 
+			background: rgb( 21,122,196 );
+			background: rgba( 21,122,196,  1);
+			background-color: transparent;
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff157ac4 , endColorstr=#fffcfcfc);
+			-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff157ac4 , endColorstr=#fffcfcfc)";
+			background: linear-gradient(to bottom, rgba( 21,122,196,1), rgba( 252,252,252,1) );
+			background: -o-linear-gradient(top,rgba(21,122,196,1), rgba( 252,252,252,1));
+			background: -moz-linear-gradient(100% 100% 90deg, rgba( 252,252,252,1), rgba( 21,122,196,1));
+			background: -webkit-gradient(linear, 0% 0%, 0% 90%, from(rgba( 21,122,196,1)), to(rgba( 252,252,252,1)));
+			*background: transparent;
+			zoom:1; }
+			#custom-layer3 { 
+			background: rgb( 21,122,196 );
+			background: rgba( 21,122,196,  1);
+			background-color: transparent;
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff157ac4 , endColorstr=#ff157ac4);
+			-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff157ac4 , endColorstr=#ff157ac4)";
+			background: linear-gradient(to bottom, rgba( 21,122,196,1), rgba( 21,122,196,1) );
+			background: -o-linear-gradient(top,rgba(21,122,196,1), rgba( 21,122,196,1));
+			background: -moz-linear-gradient(100% 100% 90deg, rgba( 21,122,196,1), rgba( 21,122,196,1));
+			background: -webkit-gradient(linear, 0% 0%, 0% 90%, from(rgba( 21,122,196,1)), to(rgba( 21,122,196,1)));
+			*background: transparent;
+			zoom:1; }
+			#custom-layer5 { 
+			background: rgb( 255,255,255 );
+			background: rgba( 255,255,255,  1);
+			background-color: transparent;
+			filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffffff , endColorstr=#ffffffff);
+			-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffffff , endColorstr=#ffffffff)";
+			background: linear-gradient(to bottom, rgba( 255,255,255,1), rgba( 255,255,255,1) );
+			background: -o-linear-gradient(top,rgba(255,255,255,1), rgba( 255,255,255,1));
+			background: -moz-linear-gradient(100% 100% 90deg, rgba( 255,255,255,1), rgba( 255,255,255,1));
+			background: -webkit-gradient(linear, 0% 0%, 0% 90%, from(rgba( 255,255,255,1)), to(rgba( 255,255,255,1)));
+			*background: transparent;
+			zoom:1; }
+			.skinset-background.nv-skin {
+			
+ 			font-size:14px;
+ 			font-family:"Open Sans";
+ 			color:#444444;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-background div.item-list-tabs ul li a,
+			.skinset-background .widget ul li.current_page_item a,
+			.skinset-background span.menudesc,
+			div.post-metadata a,
+			.skinset-background .commentlist .comment-author a,
+			.skinset-background .recent-metadata a,
+			.skinset-background .nv-recent-posts h4 a,
+			.skinset-background .post-metadata a,
+			.skinset-background .widget.widget_pages li a,
+			.skinset-background .widget.widget_nav_menu li a,
+			.skinset-background .widget.widget_recent_entries li a,
+			.skinset-background div.blind_down ul li a,
+			.skinset-background #item-header-content h2 a,
+			.skinset-background a.topic-title,
+			.skinset-background .bbp-topic-title a,
+			.skinset-background a.bbp-forum-title,
+			.skinset-background td.td-group .object-name a { 
+ 			color:#444444; }
+			
+			.skinset-background .woocommerce .woocommerce-error, 
+			.skinset-background .woocommerce .woocommerce-info, 
+			.skinset-background .woocommerce .woocommerce-message,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#157ac4; }
+			
+				#header .mobilemenu-init a,
+				#header .toppaneltrigger.mobile a,
+				
+			.skinset-background a,
+			.skinset-background #content span.price,
+			.skinset-background .fonticon i.inherit,
+			.skinset-background #content span.amount,
+			.skinset-background .woocommerce .woocommerce-info:before,
+			.skinset-background span.text_linkcolor,
+			#nv-tabs .skinset-background li[class*="scrollTo_"] a {
+			color:#157ac4; }
+			
+			.skinset-background a:hover,
+			.skinset-background #nv-tabs .extended-menu li.scroll a:hover,
+			.skinset-background a.waypoint_active,
+			.skinset-background .post-metadata a:hover,
+			.skinset-background .widget.widget_pages li a:hover,
+			.skinset-background .widget.widget_nav_menu li a:hover,
+			.skinset-background .widget.widget_recent_entries li a:hover,
+			.skinset-background #item-header-content h2 a:hover,
+			.skinset-background .current_page_item>a,
+			.skinset-background .current-menu-item>a,
+			.skinset-background li.menu-item:hover > a,
+			.skinset-background .current-menu-ancestor>a,
+			.skinset-background #mobile-tabs .current_page_item>a,
+			.skinset-background #mobile-tabs .extended-menu .current_page_item>a,
+			.skinset-background .bbp-reply-content #favorite-toggle .is-favorite a,
+			.skinset-background .bbp-reply-content #subscription-toggle .is-subscribed a,
+			.woocommerce.skinset-background p.stars a.active { 
+ 			color:#666666; }
+			.skinset-background h1, .skinset-background h1 a, .skinset-background h2, .skinset-background h2 a, .skinset-background h3, .skinset-background h3 a, .skinset-background h4, .skinset-background h4 a, .skinset-background h5, .skinset-background h5 a, .skinset-background h6, .skinset-background h6 a,.skinset-background .bbp-topic-title a.bbp-topic-permalink,.skinset-background .bbp-forum-info a.bbp-forum-title { 
+ 			font-family:Ubuntu;	}
+			.skinset-background h1, .skinset-background h1 a { 
+			color:#383838;
+ 			font-size:35px; }
+			.skinset-background h2, .skinset-background h2 a { 
+ 			color:#383838;
+			font-size:29px; }
+			.skinset-background h3, .skinset-background h3 a { 
+ 			color:#383838;
+			font-size:24px; }
+			.skinset-background h4,.skinset-background h5,.skinset-background h6,.skinset-background .ui-tabs-nav li a, .skinset-background .accordionhead a, .skinset-background span.price-value,.skinset-background .nv-recent-posts h4 a { 
+ 			color:#383838;
+			font-size:21px; }
+			
+			.skinset-background span.nvcolor,
+			.skinset-background span.dropcap.two.link_color,
+			.skinset-background span.highlight.one,
+			.skinset-background .post-metadata li.post-date,
+			.skinset-background .commentlist .reply a,
+			.skinset-background div.header-infobar,
+			.skinset-background div.item-list-tabs ul li a span,
+			.skinset-background .widget_display_stats dd strong,
+			.skinset-background div.bbp-template-notice,
+			.skinset-background div#message.updated,
+			.skinset-background .hoverimg i,
+			.skinset-background .hovervid i,
+			.skinset-background span.activity,
+			.skinset-background a.button,
+			.skinset-background button.button,
+			.skinset-background .fonticon.background,
+			.skinset-background .button.link_color,
+			.skinset-background .action-icons i,
+			.skinset-background #respond input#submit.alt,
+			.skinset-background a.button.alt,
+			.skinset-background button.button.alt,
+			.skinset-background input.button.alt,
+			.skinset-background.woocommerce span.onsale,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-background #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-background .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-background .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-background input[type="submit"] { 
+ 			background-color:#157ac4; }
+			.skinset-background .nvcolor-wrap:hover span.nvcolor,.woocommerce.skinset-background #respond input#submit.alt:hover, .woocommerce.skinset-background a.button.alt:hover, .woocommerce.skinset-background button.button.alt:hover, .woocommerce.skinset-background input.button.alt:hover { 
+			background-color:#666666; }
+			.skinset-background acronym, .skinset-background abbr { 
+ 			border-bottom: 1px dashed #157ac4; }
+			.skinset-main.nv-skin {
+			
+		 	border-color: #cccccc;
+			filter:none;
+			-ms-filter:none;
+			
+			}.skinset-menu ul ul ,.skinset-header.nv-skin {
+			
+ 			font-size:14px;
+ 			font-family:Lato;
+ 			color:#262626;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-header div.item-list-tabs ul li a,
+			.skinset-header .widget ul li.current_page_item a,
+			.skinset-header span.menudesc,
+			div.post-metadata a,
+			.skinset-header .commentlist .comment-author a,
+			.skinset-header .recent-metadata a,
+			.skinset-header .nv-recent-posts h4 a,
+			.skinset-header .post-metadata a,
+			.skinset-header .widget.widget_pages li a,
+			.skinset-header .widget.widget_nav_menu li a,
+			.skinset-header .widget.widget_recent_entries li a,
+			.skinset-header div.blind_down ul li a,
+			.skinset-header #item-header-content h2 a,
+			.skinset-header a.topic-title,
+			.skinset-header .bbp-topic-title a,
+			.skinset-header a.bbp-forum-title,
+			.skinset-header td.td-group .object-name a { 
+ 			color:#262626; }
+			.skinset-menu ul ul ,
+			.skinset-header .woocommerce .woocommerce-error, 
+			.skinset-header .woocommerce .woocommerce-info, 
+			.skinset-header .woocommerce .woocommerce-message,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#383838; }
+			.skinset-menu ul ul a,.skinset-menu ul ul  #content span.price,.skinset-menu ul ul  #content span.amount,
+			.skinset-header a,
+			.skinset-header #content span.price,
+			.skinset-header .fonticon i.inherit,
+			.skinset-header #content span.amount,
+			.skinset-header .woocommerce .woocommerce-info:before,
+			.skinset-header span.text_linkcolor,
+			#nv-tabs .skinset-header li[class*="scrollTo_"] a {
+			color:#383838; }
+			.skinset-menu ul ul a:hover,
+			.skinset-header a:hover,
+			.skinset-header #nv-tabs .extended-menu li.scroll a:hover,
+			.skinset-header a.waypoint_active,
+			.skinset-header .post-metadata a:hover,
+			.skinset-header .widget.widget_pages li a:hover,
+			.skinset-header .widget.widget_nav_menu li a:hover,
+			.skinset-header .widget.widget_recent_entries li a:hover,
+			.skinset-header #item-header-content h2 a:hover,
+			.skinset-header .current_page_item>a,
+			.skinset-header .current-menu-item>a,
+			.skinset-header li.menu-item:hover > a,
+			.skinset-header .current-menu-ancestor>a,
+			.skinset-header #mobile-tabs .current_page_item>a,
+			.skinset-header #mobile-tabs .extended-menu .current_page_item>a,
+			.skinset-header .bbp-reply-content #favorite-toggle .is-favorite a,
+			.skinset-header .bbp-reply-content #subscription-toggle .is-subscribed a,
+			.woocommerce.skinset-header p.stars a.active { 
+ 			color:#acaaaa; }
+			
+			.header-wrap.header_transparent .skinset-header #nv-tabs > ul > li > a,
+			.header-wrap.header_transparent .skinset-header #nv-tabs > ul > li > .dropmenu-icon,
+			.header-wrap.header_transparent .skinset-header h1 a,
+			.header-wrap.header_transparent .skinset-header h2,
+			.header-wrap.header_transparent .skinset-header .headerpanel-widgets h3,
+			.header-wrap.header_transparent .skinset-header .headerpanel-widgets a,
+			.header-wrap.header_transparent .skinset-header .headerpanel-widgets .textwidget {
+ 			color:#ffffff; }
+			.skinset-menu ul ul span.nvcolor,.skinset-menu ul ul span.highlight.one,.skinset-menu ul ul .post-metadata li.post-date,.skinset-menu ul ul  .commentlist .reply a,.skinset-menu ul ul  div.header-message,
+			.skinset-header span.nvcolor,
+			.skinset-header span.dropcap.two.link_color,
+			.skinset-header span.highlight.one,
+			.skinset-header .post-metadata li.post-date,
+			.skinset-header .commentlist .reply a,
+			.skinset-header div.header-infobar,
+			.skinset-header div.item-list-tabs ul li a span,
+			.skinset-header .widget_display_stats dd strong,
+			.skinset-header div.bbp-template-notice,
+			.skinset-header div#message.updated,
+			.skinset-header .hoverimg i,
+			.skinset-header .hovervid i,
+			.skinset-header span.activity,
+			.skinset-header a.button,
+			.skinset-header button.button,
+			.skinset-header .fonticon.background,
+			.skinset-header .button.link_color,
+			.skinset-header .action-icons i,
+			.skinset-header #respond input#submit.alt,
+			.skinset-header a.button.alt,
+			.skinset-header button.button.alt,
+			.skinset-header input.button.alt,
+			.skinset-header.woocommerce span.onsale,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-header #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-header .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-header input[type="submit"] { 
+ 			background-color:#383838; }
+			.skinset-menu ul ul .nvcolor-wrap:hover span.nvcolor,.skinset-header .nvcolor-wrap:hover span.nvcolor,.woocommerce.skinset-header #respond input#submit.alt:hover, .woocommerce.skinset-header a.button.alt:hover, .woocommerce.skinset-header button.button.alt:hover, .woocommerce.skinset-header input.button.alt:hover { 
+			background-color:#acaaaa; }
+			.skinset-menu ul ul acronym,.skinset-menu ul ul  abbr,.skinset-header acronym, .skinset-header abbr { 
+ 			border-bottom: 1px dashed #383838; }
+			.skinset-menu.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-menu .woocommerce .woocommerce-error, 
+			.skinset-menu .woocommerce .woocommerce-info, 
+			.skinset-menu .woocommerce .woocommerce-message,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-closed,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-trash,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-spam,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.super-sticky,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.sticky { 
+ 			border-color:#545454; }
+			
+			.skinset-menu a,
+			.skinset-menu #content span.price,
+			.skinset-menu .fonticon i.inherit,
+			.skinset-menu #content span.amount,
+			.skinset-menu .woocommerce .woocommerce-info:before,
+			.skinset-menu span.text_linkcolor,
+			#nv-tabs .skinset-menu li[class*="scrollTo_"] a {
+			color:#545454; }
+			
+			.skinset-menu span.nvcolor,
+			.skinset-menu span.dropcap.two.link_color,
+			.skinset-menu span.highlight.one,
+			.skinset-menu .post-metadata li.post-date,
+			.skinset-menu .commentlist .reply a,
+			.skinset-menu div.header-infobar,
+			.skinset-menu div.item-list-tabs ul li a span,
+			.skinset-menu .widget_display_stats dd strong,
+			.skinset-menu div.bbp-template-notice,
+			.skinset-menu div#message.updated,
+			.skinset-menu .hoverimg i,
+			.skinset-menu .hovervid i,
+			.skinset-menu span.activity,
+			.skinset-menu a.button,
+			.skinset-menu button.button,
+			.skinset-menu .fonticon.background,
+			.skinset-menu .button.link_color,
+			.skinset-menu .action-icons i,
+			.skinset-menu #respond input#submit.alt,
+			.skinset-menu a.button.alt,
+			.skinset-menu button.button.alt,
+			.skinset-menu input.button.alt,
+			.skinset-menu.woocommerce span.onsale,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-closed:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-trash:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.status-spam:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.super-sticky:before,
+			.skinset-menu #bbpress-forums li.bbp-body .hentry.sticky:before,
+			.woocommerce.skinset-menu .widget_price_filter .ui-slider .ui-slider-range,
+			.woocommerce.skinset-menu .widget_price_filter .ui-slider .ui-slider-handle,
+			.skinset-menu input[type="submit"] { 
+ 			background-color:#545454; }
+			.skinset-menu acronym, .skinset-menu abbr { 
+ 			border-bottom: 1px dashed #545454; }
+			.skinset-footer.nv-skin {
+			
+ 			color:#ededed;
+			filter:none;
+			-ms-filter:none;
+			
+			}
+			.skinset-footer div.item-list-tabs ul li a,
+			.skinset-footer .widget ul li.current_page_item a,
+			.skinset-footer span.menudesc,
+			div.post-metadata a,
+			.skinset-footer .commentlist .comment-author a,
+			.skinset-footer .recent-metadata a,
+			.skinset-footer .nv-recent-posts h4 a,
+			.skinset-footer .post-metadata a,
+			.skinset-footer .widget.widget_pages li a,
+			.skinset-footer .widget.widget_nav_menu li a,
+			.skinset-footer .widget.widget_recent_entries li a,
+			.skinset-footer div.blind_down ul li a,
+			.skinset-footer #item-header-content h2 a,
+			.skinset-footer a.topic-title,
+			.skinset-footer .bbp-topic-title a,
+			.skinset-footer a.bbp-forum-title,
+			.skinset-footer td.td-group .object-name a { 
+ 			color:#ededed; }
+			.skinset-footer h1, .skinset-footer h1 a { 
+			color:#ffffff; }
+			.skinset-footer h2, .skinset-footer h2 a { 
+ 			color:#f7f7f7; }
+			.skinset-footer h3, .skinset-footer h3 a { 
+ 			color:#ededed; }
+			.skinset-footer  input[type="text"],.skinset-footer input[type="password"],.skinset-footer input[type="file"],.skinset-footer textarea,.skinset-footer input { 
+ 			background-color:#444444;
+			border-top-color:#383838;
+			border-left-color:#383838;
+			
+			border-bottom-color:#5e5e5e;
+			border-right-color:#5e5e5e;
+			 }
+			.skinset-custom-1.nv-skin {
+			
+			filter:none;
+			-ms-filter:none;
+			
+			}#primary-wrapper .gallery-wrap.horizontal .slidernav-left, #primary-wrapper .gallery-wrap.horizontal .slidernav-right {
+    background: none;
+}
+.sidebar.columns.side_one.four.layout_four.border.right.last {
+    border-left: 1px solid #999999;
+}
+#primary-wrapper .sticky-wrapper #nv-tabs ul li.shop-now { 
+background-color: #4CAF50;
+border-radius: 6px;
+padding: 0px 8px 0px 0px;
+border: none;
+color: white;
+box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2), 0 6px 6px 0 rgba(0,0,0,0.19);
+}
+div[id*='ajaxsearchlite'].wpdreams_asl_container {
+    width: 35%;
+    margin: 0px 5px  5px;
+    float: right;
+    min-width: 330px;
+}
+</style>
+<link rel='stylesheet' id='tvaGoogleFonts-css'  href='https://fonts.googleapis.com/css?family=Ubuntu%3A700%2C400%7CLato%3A300%2C700%7COpen+Sans%3A400%2C300&#038;ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://library.automationdirect.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://library.automationdirect.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpdreams-asl-basic-css'  href='//library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchlite-css'  href='//library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/style-underline.css?ver=4.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://library.automationdirect.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='northvantage-style-css'  href='https://library.automationdirect.com/wp-content/themes/DynamiX/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acoda-responsive-css'  href='https://library.automationdirect.com/wp-content/themes/DynamiX/stylesheets/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://library.automationdirect.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-social-css'  href='https://library.automationdirect.com/wp-content/themes/DynamiX/stylesheets/font-icons/css/font-awesome-social.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://library.automationdirect.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=4.11.2'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/waypoints-sticky.min.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://library.automationdirect.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://library.automationdirect.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://library.automationdirect.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.5" />
+<link rel='shortlink' href='https://library.automationdirect.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://library.automationdirect.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.automationdirect.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://library.automationdirect.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flibrary.automationdirect.com%2F&#038;format=xml" />
+                <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+                <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://library.automationdirect.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://library.automationdirect.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://library.automationdirect.com/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 30%;
+                margin: 50px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgb(6, 121, 210);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: auto;
+            }
+                                -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            <noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+    <!--[if IE 7]>
+    <link href="https://library.automationdirect.com/wp-content/themes/DynamiX/stylesheets/ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 8]>
+    <script src="https://library.automationdirect.com/wp-content/themes/DynamiX/js/ie7.js" type="text/javascript"></script>
+    <link href="https://library.automationdirect.com/wp-content/themes/DynamiX/stylesheets/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    
+</head>
+<body class="home page-template-default page page-id-8 skinset-background loaded nv-skin wpb-js-composer js-comp-ver-4.11.2 vc_responsive">
+
+    <div id="primary-wrapper" class="nv-light">
+    	<div class="site-inwrap clearfix ">
+        <a id="top"></a>
+
+		
+<div id="custom-layer5-color" class="custom-layer"></div>
+<div id="custom-layer5" class="custom-layer ">
+</div>
+<div id="mobile-tabs" class="skinset-main nv-skin "><div class="mobilemenu-init clearfix skinset-main nv-skin"><a href="#"><i class="fa fa-times fa-lg"></i></a></div><ul id="mobilemenu" class="menu hide-on-desktops"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Products</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/programmable-control/"><span class="menutitle">Programmable Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/operator-interface/"><span class="menutitle">Operator Interface</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/communications/"><span class="menutitle">Communications</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/variable-speed-drives/"><span class="menutitle">Variable Speed Drives</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motor-controls/"><span class="menutitle">Motor Controls</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motor/"><span class="menutitle">Motors</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motion-control/"><span class="menutitle">Motion Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/mechanical-power-transmission/"><span class="menutitle">Mechanical Power Transmission</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/discrete-sensing/"><span class="menutitle">Discrete Sensing</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/process-sensing-control/"><span class="menutitle">Process Sensing &#038; Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/control-signaling-devices/"><span class="menutitle">Control &#038; Signaling Devices</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/relays-timers/"><span class="menutitle">Relays &#038; Timers</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application-stories/pneumatics/"><span class="menutitle">Pneumatics</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/safety/"><span class="menutitle">Safety</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/electrical-power/"><span class="menutitle">Electrical Power</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/circuit-protection/"><span class="menutitle">Circuit Protection</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/enclosures-accessories/"><span class="menutitle">Enclosures &#038; Accessories</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/terminal-blocks-wiring/"><span class="menutitle">Terminal Blocks &#038; Wiring</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/hand-tools-test-equipment/"><span class="menutitle">Hand Tools &#038;Test Equipment</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Application</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/data-collection/"><span class="menutitle">Data Collection</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/data-system-monitoring/"><span class="menutitle">Data System Monitoring</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/machine-control/"><span class="menutitle">Machine Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/machine-tool/"><span class="menutitle">Machine Tool</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/manufacturing/"><span class="menutitle">Manufacturing</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/material-handling/"><span class="menutitle">Material Handling</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/process-control/"><span class="menutitle">Process Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/test-measurement/"><span class="menutitle">Test and Measurement</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Industry</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/energy/"><span class="menutitle">Energy</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/entertainment/"><span class="menutitle">Entertainment</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/facilities/"><span class="menutitle">Facilities</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/food-beverage/"><span class="menutitle">Food and Beverage</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/packaging/"><span class="menutitle">Packaging</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/security/"><span class="menutitle">Security</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/utilities/"><span class="menutitle">Utilities</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/wastewater/"><span class="menutitle">Wastewater</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/water/"><span class="menutitle">Water</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Resources</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/automationdirects-ebooks"><span class="menutitle">eBooks</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/white-papers/"><span class="menutitle">White Papers</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/learning-resources/tech-topics/"><span class="menutitle">Tech Topics</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automation-notebook/"><span class="menutitle">Automation Notebook</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automationdirect-newsletter/"><span class="menutitle">AutomationDirect Newsletter</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/press-releases/"><span class="menutitle">Press Releases</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automationdirect-videos/"><span class="menutitle">AutomationDirect Videos</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/news/company-topics/"><span class="menutitle">Company Topics</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/student-spotlight/"><span class="menutitle">Student Spotlight</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/suppliers/"><span class="menutitle">AutomationDirect Supplier Profiles</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/system-integrators/"><span class="menutitle">System Integrators</span></a></li>
+</ul>
+</li>
+<li  class="shop-now menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.automationdirect.com"><span class="menutitle">SHOP NOW</span></a></li>
+</ul>
+</div><div class="header-wrap pages sticky-header ">		<div class="header-skin-wrap">
+			<div id="custom-layer1" class="custom-layer"></div>
+			<div id="custom-layer2" class="custom-layer"></div>
+			<div class="shadow top custom-layer"></div>        </div>     
+        <div class="wrapper">
+			<header id="header" class="skinset-header row nv-skin  pages divider-disabled">            
+        	
+			<div class="mobilemenu-init skinset-main nv-skin"><a href="#" ><i class="fa fa-bars fa-lg"></i></a></div>				<div class="custom-html"><div id='ajaxsearchlite1' class="wpdreams_asl_container asl_w asl_m asl_m_1">
+<div class="probox">
+
+    
+    <div class='promagnifier'>
+                <div class='innericon'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <path id="magnifier-2-icon" d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+                    C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+                    c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+                    c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+                    z"/>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='prosettings' style='display:none;' data-opened=0>
+                <div class='innericon'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <polygon id="arrow-25-icon" transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='proinput'>
+        <form autocomplete="off" title='Ajax serch form'>
+            <input title='Search input' type='search' class='orig' name='phrase' placeholder='Type + choose from the dropdown list' value='' autocomplete="off"/>
+            <input title='Autocomplete input, do not use this' type='text' class='autocomplete' name='phrase' value='' autocomplete="off"/>
+            <span class='loading'></span>
+            <input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+        </form>
+    </div>
+
+    
+    
+    <div class='proloading'>
+
+        <div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+            </div>
+
+            <div class='proclose'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                 y="0px"
+                 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+                 xml:space="preserve">
+            <polygon id="x-mark-icon"
+                     points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+        </svg>
+        </div>
+    
+    
+</div>
+</div>
+
+
+<div id='ajaxsearchlitesettings1' class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+    <form name='options' autocomplete='off'>
+
+        
+                <fieldset class="asl_sett_scroll">
+            <legend style="display: none;">Generic selectors</legend>
+            <div class="asl_option_inner hiddend">
+                <input type='hidden' name='qtranslate_lang' id='qtranslate_lang'
+                       value='0'/>
+            </div>
+
+	        
+            
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="checked" id="set_exactonly1"
+                           title="Exact matches only"
+                           name="set_exactonly" />
+                    <label for="set_exactonly1">Exact matches only</label>
+                </div>
+                <div class="asl_option_label">
+                    Exact matches only                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_intitle1"
+                           title="Search in title"
+                           name="set_intitle"  checked="checked"/>
+                    <label for="set_intitle1">Search in title</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in title                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_incontent1"
+                           title="Search in content"
+                           name="set_incontent"  checked="checked"/>
+                    <label for="set_incontent1">Search in content</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in content                </div>
+            </div>
+            <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="None" id="set_inexcerpt1"
+                       title="Search in excerpt"
+                       name="set_inexcerpt"  checked="checked"/>
+                <label for="set_inexcerpt1">Search in excerpt</label>
+            </div>
+
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inposts1"
+                           title="Search in posts"
+                           name="set_inposts"  checked="checked"/>
+                    <label for="set_inposts1">Search in posts</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in posts                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inpages1"
+                           title="Search in pages"
+                           name="set_inpages"  checked="checked"/>
+                    <label for="set_inpages1">Search in pages</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in pages                </div>
+            </div>
+                    </fieldset>
+                
+        <fieldset>
+                            <legend>Filter by Categories</legend>
+                        <div class='categoryfilter asl_sett_scroll'>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1877"
+                                   id="1categoryset_1877"
+                                   title="Application"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1877">Application</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Application                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="3"
+                                   id="1categoryset_3"
+                                   title="Application Stories"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_3">Application Stories</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Application Stories                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1889"
+                                   id="1categoryset_1889"
+                                   title="Automation Notebook"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1889">Automation Notebook</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Automation Notebook                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1781"
+                                   id="1categoryset_1781"
+                                   title="Automation Notes"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1781">Automation Notes</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Automation Notes                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1857"
+                                   id="1categoryset_1857"
+                                   title="Automation Options"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1857">Automation Options</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Automation Options                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1921"
+                                   id="1categoryset_1921"
+                                   title="AutomationDirect Spotlight"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1921">AutomationDirect Spotlight</label>
+                        </div>
+                        <div class="asl_option_label">
+                            AutomationDirect Spotlight                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="7"
+                                   id="1categoryset_7"
+                                   title="AutomationTalk"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_7">AutomationTalk</label>
+                        </div>
+                        <div class="asl_option_label">
+                            AutomationTalk                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="586"
+                                   id="1categoryset_586"
+                                   title="Business Notes"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_586">Business Notes</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Business Notes                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1917"
+                                   id="1categoryset_1917"
+                                   title="Circuit Protection"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1917">Circuit Protection</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Circuit Protection                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1904"
+                                   id="1categoryset_1904"
+                                   title="Communications"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1904">Communications</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Communications                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1867"
+                                   id="1categoryset_1867"
+                                   title="Communications and Ethernet"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1867">Communications and Ethernet</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Communications and Ethernet                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1039"
+                                   id="1categoryset_1039"
+                                   title="Company News"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1039">Company News</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Company News                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1899"
+                                   id="1categoryset_1899"
+                                   title="Company Topics"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1899">Company Topics</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Company Topics                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1912"
+                                   id="1categoryset_1912"
+                                   title="Control  amp  Signaling Devices"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1912">Control  amp  Signaling Devices</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Control &amp; Signaling Devices                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="8"
+                                   id="1categoryset_8"
+                                   title="Cover Stories"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_8">Cover Stories</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Cover Stories                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1869"
+                                   id="1categoryset_1869"
+                                   title="Data Collection"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1869">Data Collection</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Data Collection                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1870"
+                                   id="1categoryset_1870"
+                                   title="Data System Monitoring"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1870">Data System Monitoring</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Data System Monitoring                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1910"
+                                   id="1categoryset_1910"
+                                   title="Discrete Sensing"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1910">Discrete Sensing</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Discrete Sensing                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="4"
+                                   id="1categoryset_4"
+                                   title="Drives"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_4">Drives</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Drives                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1892"
+                                   id="1categoryset_1892"
+                                   title="eBook"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1892">eBook</label>
+                        </div>
+                        <div class="asl_option_label">
+                            eBook                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1672"
+                                   id="1categoryset_1672"
+                                   title="eBook Landing Pages"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1672">eBook Landing Pages</label>
+                        </div>
+                        <div class="asl_option_label">
+                            eBook Landing Pages                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1916"
+                                   id="1categoryset_1916"
+                                   title="Electrical Power"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1916">Electrical Power</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Electrical Power                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1918"
+                                   id="1categoryset_1918"
+                                   title="Enclosures  amp  Accessories"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1918">Enclosures  amp  Accessories</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Enclosures &amp; Accessories                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1879"
+                                   id="1categoryset_1879"
+                                   title="Energy"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1879">Energy</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Energy                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1880"
+                                   id="1categoryset_1880"
+                                   title="Entertainment"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1880">Entertainment</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Entertainment                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1881"
+                                   id="1categoryset_1881"
+                                   title="Facilities"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1881">Facilities</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Facilities                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1247"
+                                   id="1categoryset_1247"
+                                   title="FAQ"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1247">FAQ</label>
+                        </div>
+                        <div class="asl_option_label">
+                            FAQ                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="9"
+                                   id="1categoryset_9"
+                                   title="Feature Story"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_9">Feature Story</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Feature Story                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1882"
+                                   id="1categoryset_1882"
+                                   title="Food and Beverage"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1882">Food and Beverage</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Food and Beverage                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="10"
+                                   id="1categoryset_10"
+                                   title="FYI"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_10">FYI</label>
+                        </div>
+                        <div class="asl_option_label">
+                            FYI                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1920"
+                                   id="1categoryset_1920"
+                                   title="Hand Tools  amp Test Equipment"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1920">Hand Tools  amp Test Equipment</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Hand Tools &amp;Test Equipment                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="5"
+                                   id="1categoryset_5"
+                                   title="HMI"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_5">HMI</label>
+                        </div>
+                        <div class="asl_option_label">
+                            HMI                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1863"
+                                   id="1categoryset_1863"
+                                   title="IIoT and Data"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1863">IIoT and Data</label>
+                        </div>
+                        <div class="asl_option_label">
+                            IIoT and Data                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1878"
+                                   id="1categoryset_1878"
+                                   title="Industry"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1878">Industry</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Industry                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="595"
+                                   id="1categoryset_595"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_595">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 1 – 2004                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="594"
+                                   id="1categoryset_594"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_594">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 10 – 2008                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="593"
+                                   id="1categoryset_593"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_593">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 11 – 2008                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="592"
+                                   id="1categoryset_592"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_592">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 12 – 2008                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="15"
+                                   id="1categoryset_15"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_15">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 13 – 2009                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="16"
+                                   id="1categoryset_16"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_16">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 14 – 2009                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="17"
+                                   id="1categoryset_17"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_17">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 15 – 2009                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="18"
+                                   id="1categoryset_18"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_18">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 16 – 2010                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="19"
+                                   id="1categoryset_19"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_19">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 17 – 2010                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="20"
+                                   id="1categoryset_20"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_20">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 18 – 2010                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="21"
+                                   id="1categoryset_21"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_21">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 19 – 2011                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="603"
+                                   id="1categoryset_603"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_603">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 2 – 2004                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="22"
+                                   id="1categoryset_22"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_22">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 20 – 2011                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="23"
+                                   id="1categoryset_23"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_23">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 21 – 2011                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="24"
+                                   id="1categoryset_24"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_24">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 22 – 2012                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="25"
+                                   id="1categoryset_25"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_25">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 23 – 2012                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="26"
+                                   id="1categoryset_26"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_26">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 24 - 2012                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="27"
+                                   id="1categoryset_27"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_27">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 25 – 2013                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="894"
+                                   id="1categoryset_894"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_894">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 26 – 2013                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1045"
+                                   id="1categoryset_1045"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1045">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 27 – 2013                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1153"
+                                   id="1categoryset_1153"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1153">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 28 - 2014                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1226"
+                                   id="1categoryset_1226"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1226">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 29 - 2014                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="602"
+                                   id="1categoryset_602"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_602">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 3 – 2005                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1675"
+                                   id="1categoryset_1675"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1675">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 30 - 2014                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1739"
+                                   id="1categoryset_1739"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1739">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 31 - 2015                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1745"
+                                   id="1categoryset_1745"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1745">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 32 - 2015                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1817"
+                                   id="1categoryset_1817"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1817">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 33 - 2015                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1836"
+                                   id="1categoryset_1836"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1836">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 34 - 2016                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1860"
+                                   id="1categoryset_1860"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1860">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 35 - 2016                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1864"
+                                   id="1categoryset_1864"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1864">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 36 - 2016                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1866"
+                                   id="1categoryset_1866"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1866">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 37 - 2017                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1923"
+                                   id="1categoryset_1923"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1923">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 38 - 2017                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="601"
+                                   id="1categoryset_601"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_601">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 4 – 2005                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="600"
+                                   id="1categoryset_600"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_600">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 5 – 2005                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="599"
+                                   id="1categoryset_599"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_599">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 6 – 2006                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="598"
+                                   id="1categoryset_598"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_598">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 7 – 2006                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="597"
+                                   id="1categoryset_597"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_597">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 8 – 2007                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="596"
+                                   id="1categoryset_596"
+                                   title="Issue      "
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_596">Issue      </label>
+                        </div>
+                        <div class="asl_option_label">
+                            Issue 9 – 2007                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1888"
+                                   id="1categoryset_1888"
+                                   title="Learning Resources"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1888">Learning Resources</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Learning Resources                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1871"
+                                   id="1categoryset_1871"
+                                   title="Machine Control"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1871">Machine Control</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Machine Control                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1872"
+                                   id="1categoryset_1872"
+                                   title="Machine Tool"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1872">Machine Tool</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Machine Tool                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1873"
+                                   id="1categoryset_1873"
+                                   title="Manufacturing"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1873">Manufacturing</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Manufacturing                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1874"
+                                   id="1categoryset_1874"
+                                   title="Material Handling"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1874">Material Handling</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Material Handling                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1909"
+                                   id="1categoryset_1909"
+                                   title="Mechanical Power Transmission"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1909">Mechanical Power Transmission</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Mechanical Power Transmission                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1908"
+                                   id="1categoryset_1908"
+                                   title="Motion Control"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1908">Motion Control</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Motion Control                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1906"
+                                   id="1categoryset_1906"
+                                   title="Motor Controls"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1906">Motor Controls</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Motor Controls                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1907"
+                                   id="1categoryset_1907"
+                                   title="Motors"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1907">Motors</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Motors                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="482"
+                                   id="1categoryset_482"
+                                   title="New Product"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_482">New Product</label>
+                        </div>
+                        <div class="asl_option_label">
+                            New Product                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="30"
+                                   id="1categoryset_30"
+                                   title="New Product"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_30">New Product</label>
+                        </div>
+                        <div class="asl_option_label">
+                            New Product                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="11"
+                                   id="1categoryset_11"
+                                   title="New Product Focus"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_11">New Product Focus</label>
+                        </div>
+                        <div class="asl_option_label">
+                            New Product Focus                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="12"
+                                   id="1categoryset_12"
+                                   title="New Product SnapShots"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_12">New Product SnapShots</label>
+                        </div>
+                        <div class="asl_option_label">
+                            New Product SnapShots                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="13"
+                                   id="1categoryset_13"
+                                   title="New Products"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_13">New Products</label>
+                        </div>
+                        <div class="asl_option_label">
+                            New Products                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1922"
+                                   id="1categoryset_1922"
+                                   title="News"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1922">News</label>
+                        </div>
+                        <div class="asl_option_label">
+                            News                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1890"
+                                   id="1categoryset_1890"
+                                   title="Newsletter"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1890">Newsletter</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Newsletter                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1222"
+                                   id="1categoryset_1222"
+                                   title="Newsletter"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1222">Newsletter</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Newsletter                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="14"
+                                   id="1categoryset_14"
+                                   title="Notebook Issue"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_14">Notebook Issue</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Notebook Issue                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1900"
+                                   id="1categoryset_1900"
+                                   title="Online Blog"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1900">Online Blog</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Online Blog                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="28"
+                                   id="1categoryset_28"
+                                   title="Online Only"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_28">Online Only</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Online Only                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1903"
+                                   id="1categoryset_1903"
+                                   title="Operator Interface"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1903">Operator Interface</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Operator Interface                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1883"
+                                   id="1categoryset_1883"
+                                   title="Packaging"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1883">Packaging</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Packaging                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="6"
+                                   id="1categoryset_6"
+                                   title="PLC"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_6">PLC</label>
+                        </div>
+                        <div class="asl_option_label">
+                            PLC                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1818"
+                                   id="1categoryset_1818"
+                                   title="PLC eBook"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1818">PLC eBook</label>
+                        </div>
+                        <div class="asl_option_label">
+                            PLC eBook                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="581"
+                                   id="1categoryset_581"
+                                   title="PLC Speaking"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_581">PLC Speaking</label>
+                        </div>
+                        <div class="asl_option_label">
+                            PLC Speaking                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1865"
+                                   id="1categoryset_1865"
+                                   title="Pneumatics"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1865">Pneumatics</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Pneumatics                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1914"
+                                   id="1categoryset_1914"
+                                   title="Pneumatics"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1914">Pneumatics</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Pneumatics                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1858"
+                                   id="1categoryset_1858"
+                                   title="Pneumatics eBook"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1858">Pneumatics eBook</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Pneumatics eBook                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="29"
+                                   id="1categoryset_29"
+                                   title="Press Releases"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_29">Press Releases</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Press Releases                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1891"
+                                   id="1categoryset_1891"
+                                   title="Press Releases"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1891">Press Releases</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Press Releases                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1875"
+                                   id="1categoryset_1875"
+                                   title="Process Control"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1875">Process Control</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Process Control                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1911"
+                                   id="1categoryset_1911"
+                                   title="Process Sensing  amp  Control"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1911">Process Sensing  amp  Control</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Process Sensing &amp; Control                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1901"
+                                   id="1categoryset_1901"
+                                   title="Product"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1901">Product</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Product                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="31"
+                                   id="1categoryset_31"
+                                   title="Product Management Corner"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_31">Product Management Corner</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Product Management Corner                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1902"
+                                   id="1categoryset_1902"
+                                   title="Programmable Control"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1902">Programmable Control</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Programmable Control                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1913"
+                                   id="1categoryset_1913"
+                                   title="Relays  amp  Timers"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1913">Relays  amp  Timers</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Relays &amp; Timers                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1915"
+                                   id="1categoryset_1915"
+                                   title="Safety"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1915">Safety</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Safety                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1884"
+                                   id="1categoryset_1884"
+                                   title="Security"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1884">Security</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Security                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="32"
+                                   id="1categoryset_32"
+                                   title="SIDirect"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_32">SIDirect</label>
+                        </div>
+                        <div class="asl_option_label">
+                            SIDirect                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1894"
+                                   id="1categoryset_1894"
+                                   title="Student Spotlight"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1894">Student Spotlight</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Student Spotlight                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="33"
+                                   id="1categoryset_33"
+                                   title="Student Spotlight"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_33">Student Spotlight</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Student Spotlight                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1145"
+                                   id="1categoryset_1145"
+                                   title="Supplier Profiles"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1145">Supplier Profiles</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Supplier Profiles                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1895"
+                                   id="1categoryset_1895"
+                                   title="Supplier Profiles"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1895">Supplier Profiles</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Supplier Profiles                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1897"
+                                   id="1categoryset_1897"
+                                   title="System Integrators"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1897">System Integrators</label>
+                        </div>
+                        <div class="asl_option_label">
+                            System Integrators                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="34"
+                                   id="1categoryset_34"
+                                   title="Tech Thread"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_34">Tech Thread</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Tech Thread                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1898"
+                                   id="1categoryset_1898"
+                                   title="Tech Topics"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1898">Tech Topics</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Tech Topics                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="582"
+                                   id="1categoryset_582"
+                                   title="Technical Review"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_582">Technical Review</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Technical Review                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="35"
+                                   id="1categoryset_35"
+                                   title="Technology Brief"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_35">Technology Brief</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Technology Brief                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1919"
+                                   id="1categoryset_1919"
+                                   title="Terminal Blocks  amp  Wiring"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1919">Terminal Blocks  amp  Wiring</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Terminal Blocks &amp; Wiring                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1876"
+                                   id="1categoryset_1876"
+                                   title="Test and Measurement"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1876">Test and Measurement</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Test and Measurement                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="36"
+                                   id="1categoryset_36"
+                                   title="The Break Room"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_36">The Break Room</label>
+                        </div>
+                        <div class="asl_option_label">
+                            The Break Room                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1"
+                                   id="1categoryset_1"
+                                   title="Uncategorized"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1">Uncategorized</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Uncategorized                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="37"
+                                   id="1categoryset_37"
+                                   title="User Solutions"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_37">User Solutions</label>
+                        </div>
+                        <div class="asl_option_label">
+                            User Solutions                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1885"
+                                   id="1categoryset_1885"
+                                   title="Utilities"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1885">Utilities</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Utilities                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1905"
+                                   id="1categoryset_1905"
+                                   title="Variable Speed Drives"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1905">Variable Speed Drives</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Variable Speed Drives                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1886"
+                                   id="1categoryset_1886"
+                                   title="Wastewater"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1886">Wastewater</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Wastewater                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1887"
+                                   id="1categoryset_1887"
+                                   title="Water"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1887">Water</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Water                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1152"
+                                   id="1categoryset_1152"
+                                   title="White Papers"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1152">White Papers</label>
+                        </div>
+                        <div class="asl_option_label">
+                            White Papers                        </div>
+                    </div>
+                                    <div class="asl_option">
+                        <div class="asl_option_inner">
+                            <input type="checkbox" value="1893"
+                                   id="1categoryset_1893"
+                                   title="Whitepapers"
+                                   name="categoryset[]" checked="checked"/>
+                            <label for="1categoryset_1893">Whitepapers</label>
+                        </div>
+                        <div class="asl_option_label">
+                            Whitepapers                        </div>
+                    </div>
+                
+            </div>
+        </fieldset>
+            </form>
+</div>
+
+<div id='ajaxsearchliteres1' class='vertical wpdreams_asl_results asl_w asl_r asl_r_1'>
+
+    
+    <div class="results">
+
+        
+            <div class="resdrg">
+            </div>
+
+        
+    </div>
+
+    
+                    <p class='showmore'>
+            <a>More results...</a>
+        </p>
+        
+</div>
+
+    <div id="asl_hidden_data">
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="aslblur">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+            </filter>
+        </svg>
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="no_aslblur"></filter>
+        </svg>
+
+    </div>
+
+<div class="asl_init_data wpdreams_asl_data_ct" style="display:none !important;" id="asl_init_id_1" data-asldata="ew0KICAgICJob21ldXJsIjogImh0dHBzOi8vbGlicmFyeS5hdXRvbWF0aW9uZGlyZWN0LmNvbS8iLA0KICAgICJyZXN1bHRzdHlwZSI6ICJ2ZXJ0aWNhbCIsDQogICAgInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsDQogICAgIml0ZW1zY291bnQiOiA0LA0KICAgICJpbWFnZXdpZHRoIjogNzAsDQogICAgImltYWdlaGVpZ2h0IjogNzAsDQogICAgInJlc3VsdGl0ZW1oZWlnaHQiOiAiNzBweCIsDQogICAgInNob3dhdXRob3IiOiAwLA0KICAgICJzaG93ZGF0ZSI6IDAsDQogICAgInNob3dkZXNjcmlwdGlvbiI6IDAsDQogICAgImNoYXJjb3VudCI6ICAwLA0KICAgICJub3Jlc3VsdHN0ZXh0IjogIk5vIHJlc3VsdHMhIiwNCiAgICAiZGlkeW91bWVhbnRleHQiOiAiRGlkIHlvdSBtZWFuOiIsDQogICAgImRlZmF1bHRJbWFnZSI6ICJodHRwczovL2xpYnJhcnkuYXV0b21hdGlvbmRpcmVjdC5jb20vd3AtY29udGVudC9wbHVnaW5zL2FqYXgtc2VhcmNoLWxpdGUvaW1nL2RlZmF1bHQuanBnIiwNCiAgICAiaGlnaGxpZ2h0IjogMCwNCiAgICAiaGlnaGxpZ2h0d2hvbGV3b3JkcyI6IDEsDQogICAgInNjcm9sbFRvUmVzdWx0cyI6IDAsDQogICAgInJlc3VsdGFyZWFjbGlja2FibGUiOiAxLA0KICAgICJkZWZhdWx0c2VhcmNodGV4dCI6ICJUeXBlICsgY2hvb3NlIGZyb20gdGhlIGRyb3Bkb3duIGxpc3QiLA0KICAgICJhdXRvY29tcGxldGUiOiB7DQogICAgICAgICJlbmFibGVkIiA6IDEsDQogICAgICAgICJsYW5nIiA6ICJlbiINCiAgICB9LA0KICAgICJ0cmlnZ2Vyb250eXBlIjogMSwNCiAgICAidHJpZ2dlcl9vbl9jbGljayI6IDAsDQogICAgInRyaWdnZXJfb25fZmFjZXRfY2hhbmdlIjogMSwNCiAgICAic2V0dGluZ3NpbWFnZXBvcyI6ICJyaWdodCIsDQogICAgImhyZXN1bHRhbmltYXRpb24iOiAiZngtbm9uZSIsDQogICAgInZyZXN1bHRhbmltYXRpb24iOiAiZngtbm9uZSIsDQogICAgImhyZXN1bHRoaWRlZGVzYyI6ICIxIiwNCiAgICAicHJlc2NvbnRhaW5lcmhlaWdodCI6ICI0MDBweCIsDQogICAgInBzaG93c3VidGl0bGUiOiAiMCIsDQogICAgInBzaG93ZGVzYyI6ICIxIiwNCiAgICAiY2xvc2VPbkRvY0NsaWNrIjogMSwNCiAgICAiaWlmTm9JbWFnZSI6ICJkZXNjcmlwdGlvbiIsDQogICAgImlpUm93cyI6IDIsDQogICAgImlpdGVtc1dpZHRoIjogMjAwLA0KICAgICJpaXRlbXNIZWlnaHQiOiAyMDAsDQogICAgImlpc2hvd092ZXJsYXkiOiAxLA0KICAgICJpaWJsdXJPdmVybGF5IjogMSwNCiAgICAiaWloaWRlQ29udGVudCI6IDEsDQogICAgImlpYW5pbWF0aW9uIjogIjEiLA0KICAgICJhbmFseXRpY3MiOiAwLA0KICAgICJhbmFseXRpY3NTdHJpbmciOiAiIiwNCiAgICAicmVkaXJlY3RvbmNsaWNrIjogMSwNCiAgICAicmVkaXJlY3RDbGlja1RvIjogInJlc3VsdHNfcGFnZSIsDQogICAgInJlZGlyZWN0Q2xpY2tMb2MiOiAic2FtZSIsDQogICAgInJlZGlyZWN0X29uX2VudGVyIjogMSwNCiAgICAicmVkaXJlY3RFbnRlclRvIjogInJlc3VsdHNfcGFnZSIsDQogICAgInJlZGlyZWN0RW50ZXJMb2MiOiAic2FtZSIsDQogICAgInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSIsDQogICAgIm92ZXJyaWRld3BkZWZhdWx0IjogMCwNCiAgICAib3ZlcnJpZGVfbWV0aG9kIjogImdldCINCn0NCg=="></div>
+</div>
+                               
+                <div id="header-logo" class="left match">
+                    <div id="logo">
+                        
+						<a href="https://library.automationdirect.com/">
+				
+															<img src="https://library.automationdirect.com/wp-content/uploads/2017/11/automation_library_logo-new.png" class="primary" alt="Library.Automationdirect.com" />								
+							                      
+						</a>
+                           
+						                    </div>
+                    <div class="clear"></div>
+                   </div><!-- /header-logo -->
+	 			<nav id="nv-tabs" class="static left match"><ul id="dyndropmenu" class="menu clearfix hide-on-phones"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Products</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/programmable-control/"><span class="menutitle">Programmable Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/operator-interface/"><span class="menutitle">Operator Interface</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/communications/"><span class="menutitle">Communications</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/variable-speed-drives/"><span class="menutitle">Variable Speed Drives</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motor-controls/"><span class="menutitle">Motor Controls</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motor/"><span class="menutitle">Motors</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/motion-control/"><span class="menutitle">Motion Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/mechanical-power-transmission/"><span class="menutitle">Mechanical Power Transmission</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/discrete-sensing/"><span class="menutitle">Discrete Sensing</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/process-sensing-control/"><span class="menutitle">Process Sensing &#038; Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/control-signaling-devices/"><span class="menutitle">Control &#038; Signaling Devices</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/relays-timers/"><span class="menutitle">Relays &#038; Timers</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application-stories/pneumatics/"><span class="menutitle">Pneumatics</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/safety/"><span class="menutitle">Safety</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/electrical-power/"><span class="menutitle">Electrical Power</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/circuit-protection/"><span class="menutitle">Circuit Protection</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/enclosures-accessories/"><span class="menutitle">Enclosures &#038; Accessories</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/terminal-blocks-wiring/"><span class="menutitle">Terminal Blocks &#038; Wiring</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/product/hand-tools-test-equipment/"><span class="menutitle">Hand Tools &#038;Test Equipment</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Application</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/data-collection/"><span class="menutitle">Data Collection</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/data-system-monitoring/"><span class="menutitle">Data System Monitoring</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/machine-control/"><span class="menutitle">Machine Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/machine-tool/"><span class="menutitle">Machine Tool</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/manufacturing/"><span class="menutitle">Manufacturing</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/material-handling/"><span class="menutitle">Material Handling</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/process-control/"><span class="menutitle">Process Control</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/application/test-measurement/"><span class="menutitle">Test and Measurement</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Industry</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/energy/"><span class="menutitle">Energy</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/entertainment/"><span class="menutitle">Entertainment</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/facilities/"><span class="menutitle">Facilities</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/food-beverage/"><span class="menutitle">Food and Beverage</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/packaging/"><span class="menutitle">Packaging</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/security/"><span class="menutitle">Security</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/utilities/"><span class="menutitle">Utilities</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/wastewater/"><span class="menutitle">Wastewater</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/industry/water/"><span class="menutitle">Water</span></a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hasdropmenu"><a href="#"><span class="menutitle">Resources</span></a>
+<ul class="sub-menu skinset-menu nv-skin">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/automationdirects-ebooks"><span class="menutitle">eBooks</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/white-papers/"><span class="menutitle">White Papers</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/learning-resources/tech-topics/"><span class="menutitle">Tech Topics</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automation-notebook/"><span class="menutitle">Automation Notebook</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automationdirect-newsletter/"><span class="menutitle">AutomationDirect Newsletter</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/press-releases/"><span class="menutitle">Press Releases</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/automationdirect-videos/"><span class="menutitle">AutomationDirect Videos</span></a></li>
+	<li  class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://library.automationdirect.com/category/news/company-topics/"><span class="menutitle">Company Topics</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/student-spotlight/"><span class="menutitle">Student Spotlight</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/suppliers/"><span class="menutitle">AutomationDirect Supplier Profiles</span></a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://library.automationdirect.com/system-integrators/"><span class="menutitle">System Integrators</span></a></li>
+</ul>
+</li>
+<li  class="shop-now menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.automationdirect.com"><span class="menutitle">SHOP NOW</span></a></li>
+</ul></nav><!-- /nv-tabs --><div class="clear"></div>			            
+                
+			</header><!-- /header -->     
+        </div>
+    </div><div class="wrapper main"><div id="group-slider-main" class="gallery-wrap group-slider row main nv-skin clearfix horizontal" data-groupslider-fx="scrollHorz"><div class="group-slider main row imgalign-center" ><img src="https://library.automationdirect.com/wp-content/themes/DynamiX/images/blank.gif">
+    <div class="groupslides-wrap" >
+
+
+	<div class="panel block columns  one_column last" >
+		<div class="slide-break"></div>
+ 
+
+       
+		<div class="container  shadowreflection ">
+			<div class="gridimg-wrap">
+				<div class="title-wrap ">
+
+					<a href="/automation-notebook" class="action-icons link-icon "><i class="fa fa-link fa-lg"></i></a><img class="gallery-img reflect" src="https://library.automationdirect.com/wp-content/uploads/bfi_thumb/banner-automation-notebook-nfu9zm4tyr8g29s2a7vkzhhfzd7djorcgvj9vql0vg.jpg" alt="Press Releases" width="960" height="350" />	
+				<div class="title"><h3><a href="/automation-notebook" title="Press Releases" target="_blank">Press Releases</a></h3>
+                    
+                                        <div class="overlaytext">
+                    Wanna see our current issue of Automation NOTEBOOK? Maybe you want to read one of our back issues. Click to read more and access the full library                	</div>      
+                                                  
+                </div>	             
+                	
+				</div><!-- / title-wrap --> 
+			</div><!-- / gridimg-wrap -->
+		</div><!-- / container -->				
+				
+	</div><!-- /panel --></div><!--  / groupslides-wrap -->
+    <div class="groupslides-wrap" >
+
+
+	<div class="panel block columns  one_column last" >
+		<div class="slide-break"></div>
+ 
+
+       
+		<div class="container  shadowreflection ">
+			<div class="gridimg-wrap">
+				<div class="title-wrap ">
+
+					<a href="/press-releases" class="action-icons link-icon "><i class="fa fa-link fa-lg"></i></a><img class="gallery-img reflect" src="https://library.automationdirect.com/wp-content/uploads/bfi_thumb/banner-press-release-nfu9zn2o5l9qdvqp4qa7jz8wkr2qrdv2t06rd0jmp8.jpg" alt="Press Releases" width="960" height="350" />	
+				<div class="title"><h3><a href="/press-releases" title="Press Releases" target="_blank">Press Releases</a></h3>
+                    
+                                        <div class="overlaytext">
+                    Find out the latest company and product news here. You’ll find information about our newest products and downloadable images as well. Click to read more                	</div>      
+                                                  
+                </div>	             
+                	
+				</div><!-- / title-wrap --> 
+			</div><!-- / gridimg-wrap -->
+		</div><!-- / container -->				
+				
+	</div><!-- /panel --></div><!--  / groupslides-wrap -->
+    <div class="groupslides-wrap" >
+
+
+	<div class="panel block columns  one_column last" >
+		<div class="slide-break"></div>
+ 
+
+       
+		<div class="container  shadowreflection ">
+			<div class="gridimg-wrap">
+				<div class="title-wrap ">
+
+					<a href="/application-stories" class="action-icons link-icon "><i class="fa fa-link fa-lg"></i></a><img class="gallery-img reflect" src="https://library.automationdirect.com/wp-content/uploads/bfi_thumb/banner-application-nfu9zl6zrx75qntffpgyezpzdzc0bznm4qvsegmf1o.jpg" alt="Application Stories" width="960" height="350" />	
+				<div class="title"><h3><a href="/application-stories" title="Application Stories" target="_blank">Application Stories</a></h3>
+                    
+                                        <div class="overlaytext">
+                    Need automation and control inspiration? Check out application stories from AutomationDirect customers. Click to read more                	</div>      
+                                                  
+                </div>	             
+                	
+				</div><!-- / title-wrap --> 
+			</div><!-- / gridimg-wrap -->
+		</div><!-- / container -->				
+				
+	</div><!-- /panel --></div><!--  / groupslides-wrap -->
+    <div class="groupslides-wrap" >
+
+
+	<div class="panel block columns  one_column last" >
+		<div class="slide-break"></div>
+ 
+
+       
+		<div class="container  shadowreflection ">
+			<div class="gridimg-wrap">
+				<div class="title-wrap ">
+
+					<a href="/automationdirect-videos" class="action-icons link-icon "><i class="fa fa-link fa-lg"></i></a><img class="gallery-img reflect" src="https://library.automationdirect.com/wp-content/uploads/bfi_thumb/banner-video-nmsbr0sdchlwjpllleqko7oybtx44k0t1ti6zqjfzg.jpg" alt="Videos" width="960" height="350" />	
+				<div class="title"><h3><a href="/automationdirect-videos" title="Videos" target="_blank">Videos</a></h3>
+                    
+                                        <div class="overlaytext">
+                    Check out our video tutorials on PLCs, HMIs, Motors, Drives and more! There’s something for the beginner, the expert and everyone in between.                	</div>      
+                                                  
+                </div>	             
+                	
+				</div><!-- / title-wrap --> 
+			</div><!-- / gridimg-wrap -->
+		</div><!-- / container -->				
+				
+	</div><!-- /panel --></div><!--  / groupslides-wrap --></div><!-- / groupslider --><div class="slidernav-left nvcolor-wrap"><span class="nvcolor"></span><div class="slidernav"><a id="leftnav" href="#"></a></div></div><div class="slidernav-right nvcolor-wrap"><span class="nvcolor"></span><div class="slidernav"><a id="rightnav" href="#"></a></div></div><input name="group-slider-main_timeout" class="timeout" value="5" type="hidden" /><div class="clear"></div></div><!-- / gallery-wrap -->
+<div class="content-wrap row">
+	<div class="enabled skinset-main nv-skin columns twelve divider-medium">	
+		<div class="sub-header row"> 
+		
+			<div class="resize-social-wrap columns">			<div class="socialicons display dark">
+	<ul class="clearfix">
+		<li class="social-facebook">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="https://www.facebook.com/AutomationDirect" title="Facebook" target="_blank"><i class="social-icon fa-lg fa fa-facebook"></i></a>
+			</div>
+			<div class="tooltip dark">Facebook</div>
+		</li>
+		<li class="social-linkedin">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="https://www.linkedin.com/company/automationdirect" title="LinkedIn" target="_blank"><i class="social-icon fa-lg fa fa-linkedin"></i></a>
+			</div>
+			<div class="tooltip dark">LinkedIn</div>
+		</li>
+		<li class="social-twitter">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="https://twitter.com/automationdirec" title="Twitter" target="_blank"><i class="social-icon fa-lg fa fa-twitter"></i></a>
+			</div>
+			<div class="tooltip dark">Twitter</div>
+		</li>
+		<li class="social-google">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="https://plus.google.com/+automationdirect" title="Google" target="_blank"><i class="social-icon fa-lg fa fa-google-plus"></i></a>
+			</div>
+			<div class="tooltip dark">Google</div>
+		</li>
+		<li class="social-rss">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="http://feeds.feedburner.com/Libraryautomationdirectcom" title="RSS" target="_blank"><i class="social-icon fa-lg fa fa-rss"></i></a>
+			</div>
+			<div class="tooltip dark">RSS</div>
+		</li>
+		<li class="social-youtube">
+			<div class="tooltip-info top center" data-tooltip-position="top center">
+				<a href="https://www.youtube.com/AutomationDirect" title="YouTube" target="_blank"><i class="social-icon fa-lg fa fa-youtube"></i></a>
+			</div>
+			<div class="tooltip dark">YouTube</div>
+		</li>
+	</ul>		
+	
+		</div><!-- /socialicons -->
+	
+	
+	<div class="clear"></div></div><!-- / resize-social-wrap -->		</div>
+	
+<div class="intro-text-wrap row">
+	<div class="intro-text  columns twelve">
+		<div>
+			<div class="post-titles entry-header"><!-- post-titles -->
+				<h1 class="entry-title">Industrial Automation News</h1>
+			</div><!-- /post-titles -->
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="row main-row">
+	<div id="content" class="columns twelve layout_one">
+    <article id="post-8" class="post-8 page type-page status-publish hentry">           
+
+                 
+        <section class="entry">
+            <div  class="vc_row wpb_row row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2>Industrial Automation<br />
+News for the Next Generation</h2>
+<p><strong><br />
+<a href="https://library.automationdirect.com/simple-plc-hmi-solutions/" target="_blank" rel="noopener"><img class="wp-image-9365 size-full alignleft" src="https://library.automationdirect.com/wp-content/uploads/2018/03/General_Featured.jpg" alt="" width="300" height="248" /></a>Welcome</strong> to <a style="font-size: 13px; line-height: 19px;" href="http://Library.AutomationDirect.com">Library.AutomationDirect.com</a>, where the stacks are filled with tons of industrial automation news &amp; you don’t even need a library card! Here you can read articles from the Automation NOTEBOOK loaded with informative technical articles keeping you on top of what&#8217;s happening in the automation industry. Company news, press releases, application stories and more are right here at your fingertips!</p>
+<p>Awesome stories of how the next generation is going to change the world are found in our Student Spotlight. You can also read about how our system integrators have designed innovative solutions that make your life better by fixing those nagging problems you face at work! Learn how our products have inspired new ways to improve or even reinvent automation control systems for businesses like bakeries, factories and even egg farms. Don&#8217;t miss our newsletter for the latest industrial automation news! <a href="https://www.automationdirect.com/adc/Home/Home" target="_blank" rel="noopener">Click here</a> to visit AutomationDirect.com.</p>
+<div class="hozbreak clearfix">&nbsp;</div>
+<p><a title="Information Should be Free!" href="http://library.automationdirect.com/information-should-be-free/"><img class="aligncenter size-full wp-image-2250" src="https://library.automationdirect.com/wp-content/uploads/2014/03/Free-Info-Long.jpg" alt="Free Info Long" width="577" height="70" /></a></p>
+<div class="hozbreak clearfix">&nbsp;</div>
+<h2>Recently Added to the Library</h2>
+		
+		<ul class="nv-recent-posts">
+		
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/solutions-vpn-remote-access-plcs-hmis/" title="Solutions for VPN Remote Access to PLCs, HMIs and Other Automation Components"  class=""><img src="/wp-content/uploads/2018/01/Figure-3-C-more.jpg" alt="Solutions for VPN Remote Access to PLCs, HMIs and Other Automation Components" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/solutions-vpn-remote-access-plcs-hmis/">Solutions for VPN Remote Access to PLCs, HMIs and Other Automation Components</a>
+						                    </h4>    
+					<p>The desire for remote access to plant floor PLCs, HMIs and other automation components is becoming a must have feature for many manufacturing facilities and machine builders. For many applications, providing the desired level of cybersecurity requires more than just a router, namely a VPN. Jonathan Griffith, Product Manager, Industrial Communications &amp; Power Supplies at &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/solutions-vpn-remote-access-plcs-hmis/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/plc-training-classes/" title="PLC Training Classes | Sign Up Now"  class=""><img src="/wp-content/uploads/2018/04/ADC-Directlogic-Family-600x315.jpg" alt="PLC Training Classes | Sign Up Now" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/plc-training-classes/">PLC Training Classes | Sign Up Now</a>
+						                    </h4>    
+					<p>If you’re searching for clear, no-hype training on industrial automation products, you’ve in the right place. InterConnecting Automation prides itself with technical instruction delivered in a clear and concise method. Founder and instructor, Doug Bell provides tutorials that cover time-saving suggestions and advanced programming techniques, as well as showing programming examples that are common on simple &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/plc-training-classes/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/newsletter-volume-20-issue-3/" title="Newsletter Volume 20, Issue 3"  class=""><img src="/wp-content/uploads/2018/04/20-3-Newsletter-featimage.jpg" alt="Newsletter Volume 20, Issue 3" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/newsletter-volume-20-issue-3/">Newsletter Volume 20, Issue 3</a>
+						                    </h4>    
+					<p>Jump into spring with new reading material from AutomationDirect! Check out our new articles on AC drives and motors as well as our supplier profile, Mersen. We&#8217;ve recently released a variety of new products designed to make your life easier, check out those profiles.  Don&#8217;t forget about our contest at the end to see how &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/newsletter-volume-20-issue-3/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/supplier-profile-patlite/" title="Designated “First Messengers” Patlite Provides Critical Information"  class=""><img src="/wp-content/uploads/2018/02/sanda.jpg" alt="Designated “First Messengers” Patlite Provides Critical Information" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/supplier-profile-patlite/">Designated “First Messengers” Patlite Provides Critical Information</a>
+						                    </h4>    
+					<p>Some forms of communication are universal. In many countries, even though you might not speak the language, the signs for stop, go, and slow down are still understandable. The same goes for an emergency situation, we all know what a flashing red light means – danger, stop, or get away. Relaying critical messages is the &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/supplier-profile-patlite/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/diy-plc-project/" title="Are CLICK PLCs Really That Simple? &#8211; A DIY PLC Project"  class=""><img src="/wp-content/uploads/2018/04/sIMPLE-3-600x600.jpg" alt="Are CLICK PLCs Really That Simple? &#8211; A DIY PLC Project" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/diy-plc-project/">Are CLICK PLCs Really That Simple? &#8211; A DIY PLC Project</a>
+						                    </h4>    
+					<p>By now you know that CLICK PLCs are considered one of the easiest PLCs to use and the perfect choice for beginners and small applications. I know you know that, because I am one of the many who keeps bringing it up. As a technical marketer for AutomationDirect, my job is to let you know &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/diy-plc-project/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/what-is-an-hmi/" title="What is an HMI and What Can It Do for You?"  class=""><img src="/wp-content/uploads/2018/03/Pics1-600x400.jpg" alt="What is an HMI and What Can It Do for You?" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/what-is-an-hmi/">What is an HMI and What Can It Do for You?</a>
+						                    </h4>    
+					<p>It’s well known that human beings are visual creatures, and we would all choose a pretty picture over boring text any day. Just look at the popularity of image-based apps like Instagram or Snapchat and it’s obvious that images are king. But on the scientific side, it’s believed that our brains can process visual information &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/what-is-an-hmi/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/simple-plc-make-automation-easy/" title="How A Simple PLC Makes Automation Easy"  class=""><img src="/wp-content/uploads/2012/12/CLICKAway_Featured.jpg" alt="How A Simple PLC Makes Automation Easy" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/simple-plc-make-automation-easy/">How A Simple PLC Makes Automation Easy</a>
+						                    </h4>    
+					<p>2017 proved to be a stellar year for U.S. manufacturing with strong growth in 16 of the 18 manufacturing industries polled for ISM’s December 2017 survey. With machinery and computer and electronic products leading the way, U.S. manufacturing is expanding at a rate not seen in 13 years according to a BloombergMarkets article on the &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/simple-plc-make-automation-easy/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/bidirectional-serial-ethernet-modbus-gateways/" title="New Bidirectional Serial / Ethernet Modbus Gateways added by AutomationDirect"  class=""><img src="/wp-content/uploads/2018/03/stride-modbus-gateway-5x7.jpg" alt="New Bidirectional Serial / Ethernet Modbus Gateways added by AutomationDirect" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/bidirectional-serial-ethernet-modbus-gateways/">New Bidirectional Serial / Ethernet Modbus Gateways added by AutomationDirect</a>
+						                    </h4>    
+					<p>AutomationDirect&#8217;s new line of STRIDE® Modbus Gateways offers even more connectivity choices for Modbus applications. Communication networks vary greatly from site to site and often change as technology advances. Converters and gateways provide connections between different protocols and standards that exist in the industrial automation field. STRIDE Modbus Gateways provide the bridge between Modbus RTU/ASCII &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/bidirectional-serial-ethernet-modbus-gateways/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/failsafe-force-guided-relays/" title="Fail Safe Force Guided Relays from AutomationDirect"  class=""><img src="/wp-content/uploads/2018/03/dold-force-guided-relays-5x7.jpg" alt="Fail Safe Force Guided Relays from AutomationDirect" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/failsafe-force-guided-relays/">Fail Safe Force Guided Relays from AutomationDirect</a>
+						                    </h4>    
+					<p>AutomationDirect has extended its offerings of relays and safety products by adding Dold force guided relays. Force guided relays are electromechanical switching devices that offer safe operation via mechanically linked contacts to ensure that all contacts move at the same time, and prevent movement if any contact is immobilized. Dold force guided relays have at &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/failsafe-force-guided-relays/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+			<li>
+				<div class="nv-skin mediawrap alignleft   " style="max-width:200px"><div class="container "><div class="gridimg-wrap "><div class="title-wrap "><a href="https://library.automationdirect.com/cots-technologies/" title="Using Commercial Off-the-Shelf Technologies in Industrial Controllers"  class=""><img src="/wp-content/uploads/2018/02/Figure-2-P1000.jpg" alt="Using Commercial Off-the-Shelf Technologies in Industrial Controllers" width="200" height="165"  /></a></div></div></div></div>					<div>
+					<h4>
+                    								<a href="https://library.automationdirect.com/cots-technologies/">Using Commercial Off-the-Shelf Technologies in Industrial Controllers</a>
+						                    </h4>    
+					<p>Jeff Payne, the Automation Controls Group Product Manager at AutomationDirect, penned an article titled Product Design: Incorporating Commercial Technologies into Industrial Controllers for the February 2018 issue of Control Engineering. The article looked at some of the commercial off-the-shelf or COTS technologies used in industrial controllers. These technologies include Ethernet, FPGAs, USB, MicroSD and others. &#8230; <a class="excerpt-readmore" href="https://library.automationdirect.com/cots-technologies/">Read More</a></p>
+					</div>
+				                
+				<div class="clear"></div>
+			</li>
+				
+		</ul>
+		
+		
+	
+
+		</div>
+	</div>
+</div></div></div></div>
+                    
+                        <div class="clear"></div>
+        </section><!-- /entry -->  
+		
+    </article>
+		<div class="clear"></div>
+	</div><!-- #content -->
+</div><!-- / row -->
+<div class="clear"></div>
+</div><!-- /skinset-main-->
+<div class="clear"></div>
+</div><!-- /content-wrapper --></div><!-- /wrapper -->    
+	<div id="footer-wrap">
+    	
+        <div id="custom-layer3" class="custom-layer "></div>
+        <div id="custom-layer4" class="custom-layer "></div>
+
+		<div class="shadow bottom custom-layer"></div>        
+        <div class="wrapper">
+            <footer id="footer" class="clearfix row skinset-footer nv-skin enabled divider-medium">
+                <div class="content">
+                                    </div><!-- / row -->           
+            </footer><!-- / footer -->
+        </div><!-- / wrapper -->
+               
+			<div class="lowerfooter-wrap skinset-footer nv-skin clearfix divider-medium">
+            	<div class="wrapper">
+                    <div class="lowerfooter">
+                        <div class="row">
+                            <div class="lowfooterleft columns six">© 2018 Library at AutomationDirect.com</div>
+                            <div class="lowfooterright columns six">Owned and Operated by AutomationDirect.com</div>
+                        </div>
+                    </div><!-- / lowerfooter -->	
+                </div><!-- / wrapper -->
+			</div><!-- / lowerfooter-wrap -->
+		        
+	</div><!-- / footer-wrap -->
+    
+	    <div class="autototop"><a href="#"></a></div>
+
+<!-- I would like to give a great thankyou to WordPress for their amazing platform -->
+<!-- Theme Design by themeva - http://themeva.com -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/library.automationdirect.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxsearchlite = {"ajaxurl":"https:\/\/library.automationdirect.com\/wp-content\/plugins\/ajax-search-lite\/ajax_search.php","backend_ajaxurl":"https:\/\/library.automationdirect.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
+var ASL = {"ajaxurl":"https:\/\/library.automationdirect.com\/wp-content\/plugins\/ajax-search-lite\/ajax_search.php","backend_ajaxurl":"https:\/\/library.automationdirect.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","scrollbar":"1","js_retain_popstate":"0","version":"4724"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//library.automationdirect.com/wp-content/plugins/ajax-search-lite/js/min/jquery.ajaxsearchlite.min.js?ver=4.7.14'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/jquery.fancybox.min.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NV_SCRIPT = {"template_url":"https:\/\/library.automationdirect.com\/wp-content\/themes\/DynamiX","branding_2x":"","branding_2x_dimensions":"","branding_sec_2x":"","branding_sec_2x_dimensions":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/nv-script.pack.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/jquery.reflection.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/jquery.cycle.plugin.min.js?ver=1'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/touch.gestures.min.js'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/group.slider.min.js'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/themes/DynamiX/js/jquery.tooltips.js?ver%5B0%5D=jquery'></script>
+<script type='text/javascript' src='https://library.automationdirect.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2'></script>
+
+<!-- Orbisius Simple Notice | http://club.orbisius.com/products/wordpress-plugins/orbisius-simple-notice/ : is disabled or it's an ajax call. Skipping rendering. -->
+</div>
+</div>
+</body>
+</html>
